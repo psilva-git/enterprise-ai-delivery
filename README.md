@@ -19,9 +19,12 @@
 
 ## About this portfolio
 
-This repository is a **public, non-confidential overview of work I have actually carried out** in AI-enabled project delivery and digital transformation.
+This repository has **two clearly separated purposes**:
 
-The detailed repositories, source code, prompts, internal configurations, Jira structures and implementation details of the underlying projects remain private. The purpose here is to show the **scope, working approach and technologies used** without publishing proprietary know-how.
+1. **What I have done** — public, non-confidential summaries of project work I have actually carried out.
+2. **How I would approach a new challenge** — clearly marked illustrative examples showing how I would structure leadership, commercial and Enterprise AI problems.
+
+The detailed repositories, source code, prompts, internal configurations, Jira structures and implementation details of the underlying projects remain private. The purpose here is to show **experience, working style and decision logic without publishing proprietary know-how**.
 
 ---
 
@@ -44,7 +47,7 @@ My career combines technical leadership, project and program delivery, consultin
 
 # Selected AI & Delivery Work
 
-The examples below are based on real project environments I built and used. They are intentionally summarized.
+The examples below are based on **real project environments I built and used**. They are intentionally summarized.
 
 ## 1 · SignalDesk Agent Lab — AI-assisted software delivery
 
@@ -114,9 +117,39 @@ The working approach includes versioned changes, documented governance and **hum
 
 ---
 
-# What these projects demonstrate
+# How I Would Approach a New Challenge
 
-These projects are different in scope, but together they show practical experience with:
+The following examples are **not claims of completed past projects**. They are deliberately marked as illustrative and show how I would structure a new mandate based on my leadership, commercial, delivery and technical experience.
+
+## Example A · Building an Enterprise AI country business
+
+How I would connect:
+
+**country strategy → strategic accounts → customer value → commercial opportunity → delivery → trust → expansion**
+
+The example includes a compact **first-90-days structure**, strategic-account focus, team priorities, delivery rhythm and executive measures — while intentionally leaving detailed sales playbooks and proprietary execution methods private.
+
+[See the illustrative Country / GM approach →](examples/how-i-would-build-an-ai-country-business.md)
+
+---
+
+## Example B · Structuring an Enterprise AI opportunity
+
+How I would move from:
+
+**customer problem → measurable value → technical feasibility → focused first use case → governed delivery → adoption → evidence → expansion**
+
+This example shows how I connect business, technical, governance and commercial questions early instead of treating AI as an isolated technology exercise.
+
+[See the illustrative Enterprise AI opportunity approach →](examples/how-i-would-structure-an-enterprise-ai-opportunity.md)
+
+> **Important:** These two examples describe how I would work. The three project summaries above describe work I have actually carried out.
+
+---
+
+# What the real projects demonstrate
+
+The real project examples are different in scope, but together they show practical experience with:
 
 - **Jira and Confluence as delivery and governance platforms**
 - **Atlassian Rovo for knowledge access across Jira and Confluence**
@@ -154,8 +187,9 @@ To protect project know-how, this repository does **not** publish:
 - internal Jira / Confluence content
 - infrastructure configuration
 - proprietary automation logic
+- detailed account strategies, pricing logic or private sales playbooks
 
-Only high-level, factual summaries of completed or actively developed work are shown here.
+Only high-level factual project summaries and clearly labelled illustrative working approaches are shown here.
 
 ---
 
@@ -163,6 +197,6 @@ Only high-level, factual summaries of completed or actively developed work are s
 
 ### TECHNOLOGY · DELIVERY · COMMERCIAL THINKING · AI
 
-**Build practical solutions. Keep the important details protected.**
+**Show the thinking. Prove the work. Protect the know-how.**
 
 </div>
