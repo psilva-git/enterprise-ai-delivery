@@ -1,11 +1,12 @@
 <div align="center">
 
 # ENTERPRISE AI · COMMERCIAL LEADERSHIP · DELIVERY
-### Selected work across technology, commercial strategy, AI-enabled delivery and transformation
+### Selected work across technology, commercial strategy, marketing, AI-enabled delivery and transformation
 
-**Technology Leadership · Commercial Leadership · Enterprise Delivery · AI Transformation**
+**Technology Leadership · Commercial Leadership · Marketing & Growth · Enterprise Delivery · AI Transformation**
 
 [![Commercial](https://img.shields.io/badge/COMMERCIAL-STRATEGY-7C3AED?style=for-the-badge)](#commercial-leadership-foundation)
+[![Marketing](https://img.shields.io/badge/MARKETING-GROWTH-2563EB?style=for-the-badge)](#selected-business-commercial--leadership-qualifications)
 [![Sales Leadership](https://img.shields.io/badge/SALES-LEADERSHIP-0F766E?style=for-the-badge)](#commercial-leadership-foundation)
 [![AI Delivery](https://img.shields.io/badge/AI-DELIVERY-111827?style=for-the-badge)](#selected-work)
 [![Atlassian](https://img.shields.io/badge/ATLASSIAN-Jira%20%7C%20Confluence%20%7C%20Rovo-0052CC?style=for-the-badge)](#atlassian-fundamentals-exams)
@@ -41,10 +42,27 @@ My career combines technical leadership, project and program delivery, consultin
 | **Consulting & Transformation** | Senior consulting / management roles in digital and agile transformation, governance and delivery improvement |
 | **Business Qualification** | Certified Technical Business Economist (IHK), DQR/EQF Level 7 |
 | **Sales Qualification** | Certified Sales Leader / Zertifizierter Vertriebsleiter |
+| **Marketing Qualification** | Online Marketing Manager qualification covering digital strategy, customer journey, SEO/SEA, email, social media, content and analytics |
 | **AI & Digital Transformation Qualification** | Completed modules in AI Management, AI Management Project Work, Emerging Technologies / Digital Transformation and Prompt Engineering; further modules currently in progress |
 | **Atlassian Exams** | Rovo Fundamentals, Forge Fundamentals and Loom Fundamentals — exams passed |
 
-> **My differentiator is the combination:** I can move between the customer conversation, commercial logic, technical solution, delivery reality and leadership decision without treating them as separate worlds.
+> **My differentiator is the combination:** I can move between the market, customer conversation, commercial logic, technical solution, delivery reality and leadership decision without treating them as separate worlds.
+
+---
+
+# Selected Business, Commercial & Leadership Qualifications
+
+The formal qualifications most relevant to my current positioning are deliberately selected rather than presented as a long certificate list.
+
+| Qualification | Commercial / leadership relevance |
+|---|---|
+| **Certified Technical Business Economist (IHK), DQR/EQF Level 7** | enterprise economics, business management and cross-functional decision making |
+| **Certified Sales Leader / Vertriebsleiter** | sales strategy, strategic accounts, negotiation, sales leadership, CRM, digital sales and sales controlling |
+| **Online Marketing Manager** | digital marketing strategy, customer journeys, search, email, social media, content, campaigns and web analytics |
+| **SAP Sales / Sales Order Processing** | SAP Key User Sales with SAP ERP 6.0 and SAP User Certification in Sales Order Processing |
+| **Change Manager · Six Sigma Black Belt · Lean Manager** | transformation leadership, process improvement and measurable execution |
+
+[See the selected business, commercial and leadership qualifications →](background/selected-business-commercial-qualifications.md)
 
 ---
 
@@ -52,10 +70,12 @@ My career combines technical leadership, project and program delivery, consultin
 
 My current professional qualification combines management, transformation and hands-on AI work. The following modules have already been **completed**:
 
-- **AI Management**
-- **AI Management Project Work**
-- **Emerging Technologies / Digital Transformation**
-- **Prompt Engineering**
+| Completed module | Scope / result |
+|---|---|
+| **AI Management** | 80 training units · **100% examination result** |
+| **AI Management Project Work** | 40 training units · **100% examination result** |
+| **Emerging Technologies / Digital Transformation** | 40 training units · **100% examination result** |
+| **Prompt Engineering** | completed |
 
 Additional modules in the qualification path are currently in progress:
 
@@ -63,7 +83,7 @@ Additional modules in the qualification path are currently in progress:
 - Machine Learning
 - Digital Automation with AI: Process Optimization
 
-The completed work is not purely theoretical. It includes practical AI project work, structured use-case evaluation, governance, prompt design and AI-enabled delivery workflows.
+The completed work is not purely theoretical. It includes AI strategy, business models, data ethics and governance, technology evaluation, risk management, stakeholder management, practical AI project work, prompt design and AI-enabled delivery workflows.
 
 ---
 
@@ -102,7 +122,7 @@ flowchart LR
 
 The most important principle across those areas is simple:
 
-> **Strategy decides where to compete. Customer value decides why a buyer should act. Process and data create transparency. Leadership turns that information into focused execution.**
+> **Strategy decides where to compete. Marketing creates relevance and demand. Customer value decides why a buyer should act. Process and data create transparency. Leadership turns that information into focused execution.**
 
 [See the summarized Sales Leadership foundation →](background/sales-leadership-foundation.md)
 
@@ -232,17 +252,18 @@ This example shows how I connect business, technical, governance and commercial 
 
 # What the real work demonstrates
 
-Taken together, the real examples show practical experience with:
+Taken together, the real examples and formal commercial qualifications show strength across:
 
 - commercial strategy from **market and competitor analysis to segmentation, positioning, objectives, KPIs and sales channels**
+- **digital marketing strategy, customer journeys, content / channel thinking and analytics**
 - Key Account / Business Development thinking connected to technical solution credibility
+- enterprise sales processes and customer-facing ERP understanding
 - **Jira and Confluence as delivery and governance platforms**
 - **Atlassian Rovo for knowledge access across Jira and Confluence**
 - **Git / GitHub for versioned technical work and traceability**
 - AI-assisted backlog, documentation and development workflows
 - local agent experimentation
 - structured human review and escalation
-- separation of project workspaces and sources of truth
 - connecting project-management workflows with engineering delivery
 
 The detailed implementation and commercially sensitive material remain private by design.
@@ -251,11 +272,12 @@ The detailed implementation and commercially sensitive material remain private b
 
 # How I think about commercial leadership
 
-My Sales Leader work reinforced a principle that also runs through my technology and delivery career:
+My Sales Leader and Online Marketing Manager qualifications reinforce a principle that also runs through my technology and delivery career:
 
 ```mermaid
 flowchart LR
-    M[Market] --> C[Customer Need]
+    M[Market] --> G[Marketing & Demand]
+    G --> C[Customer Need]
     C --> V[Value]
     V --> S[Solution]
     S --> B[Commercial Case]
@@ -264,7 +286,7 @@ flowchart LR
     R --> X[Account Growth]
 ```
 
-I do not see sales as a hand-off to delivery. Especially with complex technology, **technical credibility, realistic commitments and successful implementation are part of the commercial relationship**.
+I do not see marketing, sales and delivery as isolated functions. Especially with complex technology, **market relevance, technical credibility, realistic commitments and successful implementation all contribute to the commercial relationship**.
 
 Likewise, CRM and analytics are not the strategy. They should make customer context, opportunity movement and results visible. Leadership still has to understand **why** performance moves and decide **what action changes the outcome**.
 
@@ -272,7 +294,7 @@ Likewise, CRM and analytics are not the strategy. They should make customer cont
 
 # Why this matters in Enterprise AI
 
-My background is not limited to AI tooling. I have spent more than 25 years working at the intersection of **technology, delivery, leadership and customers**.
+My background is not limited to AI tooling. I have spent more than 25 years working at the intersection of **technology, delivery, leadership and customers**, supported by formal business, sales and digital-marketing qualifications.
 
 That means I look at Enterprise AI from several perspectives at once:
 
@@ -304,7 +326,7 @@ Only high-level factual project summaries, summarized qualification foundations 
 
 <div align="center">
 
-### TECHNOLOGY · COMMERCIAL LEADERSHIP · DELIVERY · AI
+### TECHNOLOGY · COMMERCIAL LEADERSHIP · MARKETING · DELIVERY · AI
 
 **Show the thinking. Prove the work. Protect the know-how.**
 
