@@ -1,268 +1,168 @@
 <div align="center">
 
 # ENTERPRISE AI DELIVERY
-## Build the market. Win the account. Deliver the value. Scale the impact.
+### Selected work in AI-enabled delivery, agent workflows and Atlassian-based project environments
 
-**Technology × Commercial Leadership × Enterprise Delivery × AI**
+**Technology Leadership · Commercial Responsibility · Enterprise Delivery · AI Transformation**
 
-[![Enterprise AI](https://img.shields.io/badge/ENTERPRISE-AI-111827?style=for-the-badge)](#)
-[![Strategic Accounts](https://img.shields.io/badge/STRATEGIC-ACCOUNTS-7C3AED?style=for-the-badge)](#)
-[![Agentic Delivery](https://img.shields.io/badge/AGENTIC-DELIVERY-0B7285?style=for-the-badge)](#)
-[![Human Governance](https://img.shields.io/badge/HUMAN-GOVERNANCE-2F9E44?style=for-the-badge)](#)
+[![AI Delivery](https://img.shields.io/badge/AI-Delivery-111827?style=for-the-badge)](#selected-ai--delivery-work)
+[![Atlassian](https://img.shields.io/badge/Atlassian-Jira%20%7C%20Confluence%20%7C%20Rovo-0052CC?style=for-the-badge)](#selected-ai--delivery-work)
+[![Git](https://img.shields.io/badge/Git-Delivery%20Traceability-F05032?style=for-the-badge)](#selected-ai--delivery-work)
+[![Human Review](https://img.shields.io/badge/Human-Review-2F9E44?style=for-the-badge)](#selected-ai--delivery-work)
 
 ### Paulo Silva
-**Technology & Commercial Leader · Enterprise AI · Strategic Accounts · Transformation & Delivery**
+**Technology & Commercial Leader · Project / Program Delivery · Business Development · AI-enabled Transformation**
 
 </div>
 
 ---
 
-## The proposition
-
-Enterprise AI is not won by the best demo alone.
-
-It is won when a company can connect:
-
-**market opportunity → executive customer dialogue → commercial case → technical solution → governed delivery → adoption → measurable value → expansion**
-
-```mermaid
-flowchart LR
-    M[Market] --> A[Strategic Account]
-    A --> V[Value Discovery]
-    V --> S[AI Solution]
-    S --> D[Governed Delivery]
-    D --> H[Human Control]
-    H --> I[Impact]
-    I --> X[Scale / Expand]
-    X --> A
-
-    style M fill:#111827,color:#fff
-    style A fill:#7C3AED,color:#fff
-    style S fill:#0B7285,color:#fff
-    style D fill:#0B7285,color:#fff
-    style H fill:#2F9E44,color:#fff
-    style I fill:#C92A2A,color:#fff
-```
-
-> ### **AI is not the destination. A better business outcome is.**
-
----
-
-# What I bring
-
-I combine areas that are often separated into different functions:
-
-| Leadership dimension | Experience / focus |
-|---|---|
-| **Technology Leadership** | Development / R&D leadership, CTO-level responsibility, complex technical organizations |
-| **Commercial Leadership** | Key Account Management, Business Development, solution selling, proposals, negotiations and follow-up business |
-| **Enterprise Delivery** | Programs, projects, transformations, governance, customer delivery and executive stakeholder management |
-| **People Leadership** | Building, leading and developing multidisciplinary teams |
-| **AI & Automation** | AI management, agentic workflows, digital automation, LLM-based delivery models |
-| **Business Management** | Certified Technical Business Economist (IHK), DQR/EQF Level 7 |
-| **Sales Leadership** | Certified Sales Leader / Vertriebsleiter qualification |
-
-### In one sentence
-
-> **I connect enterprise customers, commercial opportunity and technical delivery — from first strategic conversation through implementation and adoption to account growth.**
-
----
-
-# The Country / GM lens
-
-A country business needs more than pipeline and more than delivery. It needs one operating rhythm connecting both.
-
-```mermaid
-flowchart TB
-    COUNTRY[Country Strategy]
-    COUNTRY --> T30[Top Strategic Accounts]
-    COUNTRY --> TEAM[Founding / Scaling Team]
-    COUNTRY --> PARTNER[Partner Ecosystem]
-    COUNTRY --> BRAND[Market Presence]
-
-    T30 --> PIPE[Qualified Pipeline]
-    PIPE --> WIN[Commercial Win]
-    WIN --> DELIVERY[Customer Delivery]
-    DELIVERY --> VALUE[Measured Value]
-    VALUE --> EXPAND[Account Expansion]
-    EXPAND --> T30
-
-    TEAM --> DELIVERY
-    PARTNER --> PIPE
-    BRAND --> T30
-```
-
-### What I would optimize
-
-- **Top-account quality**, not vanity pipeline volume
-- executive relationships backed by technical credibility
-- fast time-to-first-value
-- sales promises that can actually be delivered
-- repeatable implementation patterns
-- partner leverage where it accelerates reach or delivery
-- evidence-led account expansion
-- clear KPIs across pipeline, delivery, adoption and growth
-
-➡️ See the full **[Country Market Build Playbook](docs/country-market-build-playbook.md)**.
-
----
-
-# Enterprise AI operating model
-
-```mermaid
-flowchart LR
-    NEED[Customer Need] --> HYP[Value Hypothesis]
-    HYP --> USE[AI / Agent Use Case]
-    USE --> CASE[Solution + Commercial Case]
-    CASE --> BUILD[Delivery]
-    BUILD --> ADOPT[Adoption]
-    ADOPT --> KPI[Measured Outcome]
-    KPI --> SCALE[Scale]
-```
-
-Four questions stay connected from start to finish:
-
-| Lens | Question |
-|---|---|
-| **Commercial** | Is this problem worth solving and capable of creating sustainable value? |
-| **Technology** | What architecture and AI capability best fit the problem? |
-| **Delivery** | How do we make the solution reliable, adoptable and scalable? |
-| **Governance** | Where must human decision authority remain explicit? |
-
-➡️ **[Enterprise AI Operating Model](docs/enterprise-ai-operating-model.md)**
-
----
-
-# Agentic delivery — humans and AI as one system
-
-```mermaid
-flowchart LR
-    CUSTOMER[Customer / Business] --> LEAD[Account & Delivery Lead]
-    LEAD --> AGENT[AI Agent Layer]
-    AGENT <--> KNOW[Enterprise Knowledge]
-    AGENT <--> ENG[Engineering / Data / AI]
-    ENG <--> GIT[Git / CI-CD]
-    AGENT --> REVIEW[Human Review]
-    REVIEW --> ACTION[Controlled Action / Release]
-    ACTION --> TRACE[Traceability & Metrics]
-    TRACE --> LEAD
-```
-
-Possible components include **Jira, Confluence, Atlassian Rovo, Git/CI/CD, LLMs, specialized agents and enterprise business systems**.
-
-The goal is not to remove people from the process. The goal is to remove unnecessary coordination work while keeping **decision authority, traceability and accountability** clear.
-
-➡️ **[Agentic Delivery Architecture](docs/agentic-delivery-architecture.md)**
-
----
-
-# Autonomy should follow risk
-
-| Level | Agent behavior | Human role |
-|---|---|---|
-| **L0** | retrieve / summarize | human decides |
-| **L1** | recommend / draft | human approves |
-| **L2** | execute low-risk tasks within rules | human handles exceptions |
-| **L3** | autonomous within explicit policy boundaries | human governs and audits |
-
-```mermaid
-flowchart LR
-    RISK[Risk] --> DATA[Data Boundary]
-    DATA --> AUTO[Autonomy]
-    AUTO --> HUMAN[Human Control]
-    HUMAN --> TRACE[Traceability]
-    TRACE --> METRICS[Outcome Monitoring]
-```
-
-➡️ **[Governance & Risk](docs/governance-and-risk.md)**
-
----
-
-# Commercial value — the sale and delivery are one loop
-
-```mermaid
-flowchart LR
-    P[Customer Pain] --> V[Value Hypothesis]
-    V --> C[Commercial Case]
-    C --> D[Delivery]
-    D --> R[Result]
-    R --> E[Expansion]
-    E --> P
-```
-
-### My principle
-
-> **Sell what can be delivered. Deliver what creates value. Use evidence to earn the right to expand.**
-
-➡️ **[Commercial Value Framework](docs/commercial-value-framework.md)**
-
----
-
-# Conversational & Agentic AI example
-
-A conversational AI solution becomes an enterprise solution only when the model is connected to knowledge, workflows, systems, human escalation and measurable outcomes.
-
-```mermaid
-flowchart LR
-    USER[Customer / Employee] --> AI[Voice / Chat Agent]
-    AI --> KNOW[Approved Knowledge]
-    AI --> WORK[Workflow / Action Layer]
-    WORK --> SYS[CRM / Service / Enterprise Systems]
-    AI --> DECIDE{Human required?}
-    DECIDE -- Yes --> HUMAN[Human Expert]
-    DECIDE -- No --> RESULT[Resolved Interaction]
-    HUMAN --> RESULT
-    RESULT --> KPI[Quality + Business Metrics]
-```
-
-➡️ **[Worked Enterprise Conversational AI Example](examples/enterprise-ai-use-case.md)**
-
----
-
-# Ready-to-use strategic account tool
-
-For AI opportunity discovery, I use a structure that forces business, technical, governance and commercial questions into the same conversation.
-
-➡️ **[Strategic Account AI Discovery Template](templates/strategic-account-ai-discovery.md)**
-
-It covers:
-
-- customer problem and cost of doing nothing
-- measurable value hypothesis
-- AI capability and enterprise integrations
-- autonomy and human controls
-- delivery feasibility
-- commercial and expansion logic
-- explicit pursue / reshape / stop decision
-
----
-
-# Portfolio map
-
-| Area | Artifact |
-|---|---|
-| **Country / GM Execution** | [Country Market Build Playbook](docs/country-market-build-playbook.md) |
-| **AI Operating Model** | [Enterprise AI Operating Model](docs/enterprise-ai-operating-model.md) |
-| **Agentic Architecture** | [Agentic Delivery Architecture](docs/agentic-delivery-architecture.md) |
-| **Governance** | [AI Governance & Risk](docs/governance-and-risk.md) |
-| **Commercial** | [Commercial Value Framework](docs/commercial-value-framework.md) |
-| **Customer Use Case** | [Conversational / Agentic AI Example](examples/enterprise-ai-use-case.md) |
-| **Practical Template** | [Strategic Account AI Discovery](templates/strategic-account-ai-discovery.md) |
-
----
-
 ## About this portfolio
 
-This repository is intentionally public and non-confidential. It demonstrates **how I structure and connect enterprise AI, strategic accounts, delivery and governance** based on my experience in technology leadership, customer-facing programs, consulting, business development and current AI work.
+This repository is a **public, non-confidential overview of work I have actually carried out** in AI-enabled project delivery and digital transformation.
 
-It does **not** claim that every reference pattern shown here has been deployed unchanged in production. Private project repositories and proprietary implementation details remain private by design.
+The detailed repositories, source code, prompts, internal configurations, Jira structures and implementation details of the underlying projects remain private. The purpose here is to show the **scope, working approach and technologies used** without publishing proprietary know-how.
+
+---
+
+## Professional background
+
+My career combines technical leadership, project and program delivery, consulting and commercial responsibility.
+
+| Area | Experience |
+|---|---|
+| **Technology Leadership** | Head of Development, Head of R&D and Technical Director / CTO responsibilities in industrial and technology environments |
+| **People Leadership** | Line and functional leadership of development and delivery organizations, including teams of around 40–50 professionals |
+| **Project & Program Delivery** | Complex software, cloud, engineering and transformation programs in international environments |
+| **Customer & Commercial** | Key Account Management, Business Development, customer-facing solution development, proposals, negotiations and follow-up business |
+| **Consulting & Transformation** | Senior consulting / management roles in digital and agile transformation, governance and delivery improvement |
+| **Business Qualification** | Certified Technical Business Economist (IHK), DQR/EQF Level 7 |
+| **Sales Qualification** | Certified Sales Leader / Zertifizierter Vertriebsleiter |
+| **Current AI Focus** | AI Management, Digital Automation with AI, Prompt Engineering, Emerging Technologies, Machine Learning and practical AI projects |
+
+---
+
+# Selected AI & Delivery Work
+
+The examples below are based on real project environments I built and used. They are intentionally summarized.
+
+## 1 · SignalDesk Agent Lab — AI-assisted software delivery
+
+**Private reference project**
+
+SignalDesk Agent Lab is a local development and automation workspace I built to explore AI-assisted delivery workflows across **Jira, Confluence, GitHub and local agent tooling**.
+
+Work covered:
+
+- backlog analysis
+- sprint preparation
+- Jira issue review
+- code-generation experiments
+- Git-based change tracking
+- documentation updates
+- delivery-governance support
+
+SignalDesk itself is a B2B enterprise SaaS concept focused on **risks, escalations, decisions and actions in complex organizations**.
+
+> Public detail is deliberately limited. Source code, agent configuration and internal project structure remain private.
+
+[Read the public project summary →](examples/signaldesk.md)
+
+---
+
+## 2 · ProfileHub — end-to-end delivery-chain validation
+
+**Private reference project**
+
+ProfileHub is a separate React/Vite project for a modern personal CV and consulting landing page. I used the project specifically to validate a smaller, controlled delivery chain before applying the approach to larger agent-driven work.
+
+The implemented delivery flow is:
+
+```mermaid
+flowchart LR
+    J[Jira Story] --> G[GitHub Change]
+    G --> L[Local Validation]
+    L --> JU[Jira Update]
+    JU --> C[Confluence Documentation]
+```
+
+The project uses separate Jira, Confluence and GitHub workspaces, with GitHub as the source for code and Confluence for documentation / playbook content.
+
+[Read the public project summary →](examples/profilehub.md)
+
+---
+
+## 3 · GreenWear AI Service Assistant — AI project with governance and testing
+
+**Practical AI project / professional training**
+
+GreenWear is a multilingual AI customer-service assistant project developed as part of my AI Management qualification.
+
+The project environment uses:
+
+| Tool | Purpose in the project |
+|---|---|
+| **Jira** | Backlog, epics, tasks, status and timeline |
+| **Confluence** | Governance, guardrails and project results |
+| **Atlassian Rovo** | Cross-project search and access to Jira / Confluence knowledge |
+| **GitHub** | Versioning of prompt, knowledge base and test material |
+| **ChatGPT** | Running chatbot prototype |
+
+The working approach includes versioned changes, documented governance and **human handover for uncertain or critical cases**.
+
+[Read the public project summary →](examples/greenwear.md)
+
+---
+
+# What these projects demonstrate
+
+These projects are different in scope, but together they show practical experience with:
+
+- **Jira and Confluence as delivery and governance platforms**
+- **Atlassian Rovo for knowledge access across Jira and Confluence**
+- **Git / GitHub for versioned technical work and traceability**
+- AI-assisted backlog, documentation and development workflows
+- local agent experimentation
+- structured human review and escalation
+- separation of project workspaces and sources of truth
+- connecting project-management workflows with engineering delivery
+
+The detailed implementation remains private by design.
+
+---
+
+# Why this matters in my work
+
+My background is not limited to AI tooling. I have spent more than 25 years working at the intersection of **technology, delivery, leadership and customers**.
+
+That means I look at AI-enabled delivery from several perspectives at once:
+
+**business requirement → customer / stakeholder alignment → delivery structure → technical implementation → governance → measurable result**
+
+This is also why I actively combine modern AI tooling with established delivery platforms rather than treating AI as an isolated layer.
+
+---
+
+## Public portfolio boundaries
+
+To protect project know-how, this repository does **not** publish:
+
+- source code from private projects
+- credentials or API configuration
+- customer or company-confidential information
+- detailed prompts or agent instructions
+- internal Jira / Confluence content
+- infrastructure configuration
+- proprietary automation logic
+
+Only high-level, factual summaries of completed or actively developed work are shown here.
 
 ---
 
 <div align="center">
 
-# BUILD TRUST · DELIVER VALUE · SCALE INTELLIGENTLY
+### TECHNOLOGY · DELIVERY · COMMERCIAL THINKING · AI
 
-### Enterprise AI is a leadership challenge as much as a technology challenge.
+**Build practical solutions. Keep the important details protected.**
 
 </div>
