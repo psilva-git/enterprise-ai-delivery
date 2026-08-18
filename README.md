@@ -1,234 +1,268 @@
 <div align="center">
 
 # ENTERPRISE AI DELIVERY
-### From AI opportunity to governed enterprise impact
+## Build the market. Win the account. Deliver the value. Scale the impact.
 
-**Technology × Commercial Leadership × Delivery × Adoption**
+**Technology × Commercial Leadership × Enterprise Delivery × AI**
 
-[![Enterprise AI](https://img.shields.io/badge/Enterprise-AI-111827?style=for-the-badge)](#)
-[![Agentic Delivery](https://img.shields.io/badge/Agentic-Delivery-0B7285?style=for-the-badge)](#)
-[![Human in the Loop](https://img.shields.io/badge/Human--in--the--Loop-Governance-2F9E44?style=for-the-badge)](#)
-[![Business Value](https://img.shields.io/badge/Business-Value-C92A2A?style=for-the-badge)](#)
+[![Enterprise AI](https://img.shields.io/badge/ENTERPRISE-AI-111827?style=for-the-badge)](#)
+[![Strategic Accounts](https://img.shields.io/badge/STRATEGIC-ACCOUNTS-7C3AED?style=for-the-badge)](#)
+[![Agentic Delivery](https://img.shields.io/badge/AGENTIC-DELIVERY-0B7285?style=for-the-badge)](#)
+[![Human Governance](https://img.shields.io/badge/HUMAN-GOVERNANCE-2F9E44?style=for-the-badge)](#)
 
-**Paulo Silva**  
-Technology & Commercial Leader · Enterprise AI · Strategic Accounts · Transformation & Delivery
+### Paulo Silva
+**Technology & Commercial Leader · Enterprise AI · Strategic Accounts · Transformation & Delivery**
 
 </div>
 
 ---
 
-## The idea
+## The proposition
 
-Enterprise AI creates value only when **technology, customer need, commercial viability, delivery and adoption** work as one system.
+Enterprise AI is not won by the best demo alone.
 
-This repository is a public portfolio of the operating principles and reference patterns I use to think about AI-enabled enterprise delivery. It is intentionally technology-aware but **not technology-led**: the starting point is the business problem, and the finish line is measurable impact.
+It is won when a company can connect:
 
-> **AI is not the destination. A better business outcome is.**
-
----
-
-## The operating model
+**market opportunity → executive customer dialogue → commercial case → technical solution → governed delivery → adoption → measurable value → expansion**
 
 ```mermaid
 flowchart LR
-    A[Strategic customer need] --> B[Value hypothesis]
-    B --> C[AI / Agent use case]
-    C --> D[Solution & commercial case]
-    D --> E[Governed delivery]
-    E --> F[Human validation]
-    F --> G[Enterprise adoption]
-    G --> H[Measured value]
-    H --> I[Scale / expand account]
-    I --> B
+    M[Market] --> A[Strategic Account]
+    A --> V[Value Discovery]
+    V --> S[AI Solution]
+    S --> D[Governed Delivery]
+    D --> H[Human Control]
+    H --> I[Impact]
+    I --> X[Scale / Expand]
+    X --> A
 
-    style A fill:#111827,color:#fff
-    style C fill:#0B7285,color:#fff
-    style E fill:#0B7285,color:#fff
+    style M fill:#111827,color:#fff
+    style A fill:#7C3AED,color:#fff
+    style S fill:#0B7285,color:#fff
+    style D fill:#0B7285,color:#fff
     style H fill:#2F9E44,color:#fff
     style I fill:#C92A2A,color:#fff
 ```
 
-The model combines four perspectives that are too often separated:
+> ### **AI is not the destination. A better business outcome is.**
 
-| Perspective | Core question |
+---
+
+# What I bring
+
+I combine areas that are often separated into different functions:
+
+| Leadership dimension | Experience / focus |
 |---|---|
-| **Commercial** | Is this a problem worth solving, and can it create sustainable customer value? |
-| **Technology** | What architecture and AI capabilities are appropriate for the problem? |
-| **Delivery** | How do we move from idea to reliable implementation with clear ownership? |
-| **Governance** | Where must humans stay in control, and how do we make decisions traceable? |
+| **Technology Leadership** | Development / R&D leadership, CTO-level responsibility, complex technical organizations |
+| **Commercial Leadership** | Key Account Management, Business Development, solution selling, proposals, negotiations and follow-up business |
+| **Enterprise Delivery** | Programs, projects, transformations, governance, customer delivery and executive stakeholder management |
+| **People Leadership** | Building, leading and developing multidisciplinary teams |
+| **AI & Automation** | AI management, agentic workflows, digital automation, LLM-based delivery models |
+| **Business Management** | Certified Technical Business Economist (IHK), DQR/EQF Level 7 |
+| **Sales Leadership** | Certified Sales Leader / Vertriebsleiter qualification |
+
+### In one sentence
+
+> **I connect enterprise customers, commercial opportunity and technical delivery — from first strategic conversation through implementation and adoption to account growth.**
 
 ---
 
-## My profile in one line
+# The Country / GM lens
 
-**I connect enterprise customers, technical teams and commercial outcomes — from strategic opportunity through solution design and delivery to adoption and account growth.**
-
-My background combines:
-
-- 25+ years in international technology, engineering, transformation and delivery environments
-- Leadership roles including development / R&D leadership, CTO-level responsibility, project & program leadership and consulting
-- Key Account Management, Business Development, solution selling, proposals, negotiations and customer development
-- Certified Sales Leader / Vertriebsleiter qualification
-- Certified Technical Business Economist (IHK), DQR/EQF Level 7
-- Current focus on AI management, digital automation, agentic workflows and AI-enabled delivery
-- Hands-on work with Jira, Confluence, Atlassian Rovo, Git / CI/CD and LLM / agent patterns
-
----
-
-# Three layers of Enterprise AI Delivery
-
-## 1 · CUSTOMER & COMMERCIAL
+A country business needs more than pipeline and more than delivery. It needs one operating rhythm connecting both.
 
 ```mermaid
 flowchart TB
-    A[Market / Account Strategy] --> B[Executive Customer Dialogue]
-    B --> C[Problem & Value Discovery]
-    C --> D[Solution Positioning]
-    D --> E[Proposal / Business Case]
-    E --> F[Delivery Commitment]
-    F --> G[Adoption & Expansion]
+    COUNTRY[Country Strategy]
+    COUNTRY --> T30[Top Strategic Accounts]
+    COUNTRY --> TEAM[Founding / Scaling Team]
+    COUNTRY --> PARTNER[Partner Ecosystem]
+    COUNTRY --> BRAND[Market Presence]
+
+    T30 --> PIPE[Qualified Pipeline]
+    PIPE --> WIN[Commercial Win]
+    WIN --> DELIVERY[Customer Delivery]
+    DELIVERY --> VALUE[Measured Value]
+    VALUE --> EXPAND[Account Expansion]
+    EXPAND --> T30
+
+    TEAM --> DELIVERY
+    PARTNER --> PIPE
+    BRAND --> T30
 ```
 
-**What matters:** strategic accounts, value discovery, trusted-advisor credibility, commercial clarity, follow-up business.
+### What I would optimize
 
-## 2 · DELIVERY & ENGINEERING
+- **Top-account quality**, not vanity pipeline volume
+- executive relationships backed by technical credibility
+- fast time-to-first-value
+- sales promises that can actually be delivered
+- repeatable implementation patterns
+- partner leverage where it accelerates reach or delivery
+- evidence-led account expansion
+- clear KPIs across pipeline, delivery, adoption and growth
 
-```mermaid
-flowchart LR
-    BIZ[Business / Customer] --> PM[Delivery Orchestration]
-    PM --> KB[Knowledge & Requirements]
-    PM --> ENG[Engineering / Data / AI]
-    PM --> DEVOPS[Git / CI-CD]
-    KB --> AGENT[AI Agents / Assistants]
-    ENG --> AGENT
-    DEVOPS --> AGENT
-    AGENT --> REVIEW[Human Review]
-    REVIEW --> RELEASE[Controlled Release]
-```
-
-A practical toolchain can include **Jira, Confluence, Rovo, Git/CI/CD, LLMs and specialized agents**, while preserving explicit human decision points.
-
-## 3 · GOVERNANCE & SCALE
-
-```mermaid
-flowchart LR
-    R[Risk] --> G[Governance]
-    S[Security] --> G
-    C[Compliance] --> G
-    D[Data boundaries] --> G
-    G --> H[Human accountability]
-    H --> T[Traceability]
-    T --> M[Measure impact]
-    M --> X[Scale what works]
-```
-
-The goal is **not maximum automation**. The goal is the right automation, with the right controls, at the right economic point.
+➡️ See the full **[Country Market Build Playbook](docs/country-market-build-playbook.md)**.
 
 ---
 
-# Agentic Delivery Reference Pattern
-
-A useful agentic model separates **decision authority** from **automation capability**.
-
-```mermaid
-sequenceDiagram
-    participant Customer as Customer / Business
-    participant Lead as Delivery / Account Lead
-    participant AI as AI Agent Layer
-    participant Tools as Enterprise Tools
-    participant Eng as Engineering Team
-    participant Human as Human Approver
-
-    Customer->>Lead: Need / opportunity
-    Lead->>AI: Analyze context & prepare options
-    AI->>Tools: Retrieve approved context
-    Tools-->>AI: Requirements / knowledge / status
-    AI->>Eng: Draft work package / technical context
-    Eng-->>AI: Technical result / implementation status
-    AI->>Lead: Consolidated recommendation
-    Lead->>Human: Decision / approval request
-    Human-->>Lead: Approve, change or reject
-    Lead->>Tools: Commit decision & traceability
-```
-
-### Design principles
-
-1. **Business context before model choice**
-2. **Human accountability stays explicit**
-3. **Source systems remain systems of record**
-4. **Agents orchestrate work; they do not erase governance**
-5. **Every automation should have a measurable economic reason to exist**
-6. **Enterprise adoption is part of delivery, not an afterthought**
-
----
-
-# Example: Conversational / Agentic Enterprise AI
-
-A customer-facing AI initiative can be framed beyond the model itself:
+# Enterprise AI operating model
 
 ```mermaid
 flowchart LR
-    U[Customer interaction] --> A[Voice / Chat Agent]
-    A --> K[Enterprise knowledge]
-    A --> W[Workflow / Action Layer]
-    K --> A
-    W --> SYS[CRM / Service / Business Systems]
-    A --> H{Human escalation?}
-    H -- Yes --> P[Human expert]
-    H -- No --> R[Resolved interaction]
-    P --> R
-    R --> MET[Quality, adoption & business metrics]
+    NEED[Customer Need] --> HYP[Value Hypothesis]
+    HYP --> USE[AI / Agent Use Case]
+    USE --> CASE[Solution + Commercial Case]
+    CASE --> BUILD[Delivery]
+    BUILD --> ADOPT[Adoption]
+    ADOPT --> KPI[Measured Outcome]
+    KPI --> SCALE[Scale]
 ```
 
-Key leadership questions:
+Four questions stay connected from start to finish:
 
-- Which interactions genuinely benefit from AI?
-- Which enterprise systems must be integrated?
-- What is the acceptable autonomy level?
-- Where is human escalation mandatory?
-- How are quality, latency, cost and conversion measured?
-- How does a successful first deployment become repeatable account growth?
-
----
-
-# What I optimize for
-
-| Dimension | Target state |
+| Lens | Question |
 |---|---|
-| **Customer** | Trust, relevance, adoption |
-| **Commercial** | Clear value case, sustainable growth |
-| **Delivery** | Ownership, speed, predictability |
-| **Technology** | Appropriate architecture, integration, reliability |
-| **AI** | Useful intelligence, not novelty |
-| **Governance** | Human accountability and traceability |
-| **Scale** | Reusable patterns instead of repeated reinvention |
+| **Commercial** | Is this problem worth solving and capable of creating sustainable value? |
+| **Technology** | What architecture and AI capability best fit the problem? |
+| **Delivery** | How do we make the solution reliable, adoptable and scalable? |
+| **Governance** | Where must human decision authority remain explicit? |
+
+➡️ **[Enterprise AI Operating Model](docs/enterprise-ai-operating-model.md)**
+
+---
+
+# Agentic delivery — humans and AI as one system
+
+```mermaid
+flowchart LR
+    CUSTOMER[Customer / Business] --> LEAD[Account & Delivery Lead]
+    LEAD --> AGENT[AI Agent Layer]
+    AGENT <--> KNOW[Enterprise Knowledge]
+    AGENT <--> ENG[Engineering / Data / AI]
+    ENG <--> GIT[Git / CI-CD]
+    AGENT --> REVIEW[Human Review]
+    REVIEW --> ACTION[Controlled Action / Release]
+    ACTION --> TRACE[Traceability & Metrics]
+    TRACE --> LEAD
+```
+
+Possible components include **Jira, Confluence, Atlassian Rovo, Git/CI/CD, LLMs, specialized agents and enterprise business systems**.
+
+The goal is not to remove people from the process. The goal is to remove unnecessary coordination work while keeping **decision authority, traceability and accountability** clear.
+
+➡️ **[Agentic Delivery Architecture](docs/agentic-delivery-architecture.md)**
+
+---
+
+# Autonomy should follow risk
+
+| Level | Agent behavior | Human role |
+|---|---|---|
+| **L0** | retrieve / summarize | human decides |
+| **L1** | recommend / draft | human approves |
+| **L2** | execute low-risk tasks within rules | human handles exceptions |
+| **L3** | autonomous within explicit policy boundaries | human governs and audits |
+
+```mermaid
+flowchart LR
+    RISK[Risk] --> DATA[Data Boundary]
+    DATA --> AUTO[Autonomy]
+    AUTO --> HUMAN[Human Control]
+    HUMAN --> TRACE[Traceability]
+    TRACE --> METRICS[Outcome Monitoring]
+```
+
+➡️ **[Governance & Risk](docs/governance-and-risk.md)**
+
+---
+
+# Commercial value — the sale and delivery are one loop
+
+```mermaid
+flowchart LR
+    P[Customer Pain] --> V[Value Hypothesis]
+    V --> C[Commercial Case]
+    C --> D[Delivery]
+    D --> R[Result]
+    R --> E[Expansion]
+    E --> P
+```
+
+### My principle
+
+> **Sell what can be delivered. Deliver what creates value. Use evidence to earn the right to expand.**
+
+➡️ **[Commercial Value Framework](docs/commercial-value-framework.md)**
+
+---
+
+# Conversational & Agentic AI example
+
+A conversational AI solution becomes an enterprise solution only when the model is connected to knowledge, workflows, systems, human escalation and measurable outcomes.
+
+```mermaid
+flowchart LR
+    USER[Customer / Employee] --> AI[Voice / Chat Agent]
+    AI --> KNOW[Approved Knowledge]
+    AI --> WORK[Workflow / Action Layer]
+    WORK --> SYS[CRM / Service / Enterprise Systems]
+    AI --> DECIDE{Human required?}
+    DECIDE -- Yes --> HUMAN[Human Expert]
+    DECIDE -- No --> RESULT[Resolved Interaction]
+    HUMAN --> RESULT
+    RESULT --> KPI[Quality + Business Metrics]
+```
+
+➡️ **[Worked Enterprise Conversational AI Example](examples/enterprise-ai-use-case.md)**
+
+---
+
+# Ready-to-use strategic account tool
+
+For AI opportunity discovery, I use a structure that forces business, technical, governance and commercial questions into the same conversation.
+
+➡️ **[Strategic Account AI Discovery Template](templates/strategic-account-ai-discovery.md)**
+
+It covers:
+
+- customer problem and cost of doing nothing
+- measurable value hypothesis
+- AI capability and enterprise integrations
+- autonomy and human controls
+- delivery feasibility
+- commercial and expansion logic
+- explicit pursue / reshape / stop decision
 
 ---
 
 # Portfolio map
 
-Explore the deeper material in this repository:
-
-- [`docs/enterprise-ai-operating-model.md`](docs/enterprise-ai-operating-model.md) — from strategic account opportunity to scale
-- [`docs/agentic-delivery-architecture.md`](docs/agentic-delivery-architecture.md) — reference architecture for human + agent + engineering collaboration
-- [`docs/governance-and-risk.md`](docs/governance-and-risk.md) — practical governance guardrails
-- [`docs/commercial-value-framework.md`](docs/commercial-value-framework.md) — connecting AI initiatives to revenue, adoption and measurable value
-- [`examples/enterprise-ai-use-case.md`](examples/enterprise-ai-use-case.md) — worked example without proprietary data
+| Area | Artifact |
+|---|---|
+| **Country / GM Execution** | [Country Market Build Playbook](docs/country-market-build-playbook.md) |
+| **AI Operating Model** | [Enterprise AI Operating Model](docs/enterprise-ai-operating-model.md) |
+| **Agentic Architecture** | [Agentic Delivery Architecture](docs/agentic-delivery-architecture.md) |
+| **Governance** | [AI Governance & Risk](docs/governance-and-risk.md) |
+| **Commercial** | [Commercial Value Framework](docs/commercial-value-framework.md) |
+| **Customer Use Case** | [Conversational / Agentic AI Example](examples/enterprise-ai-use-case.md) |
+| **Practical Template** | [Strategic Account AI Discovery](templates/strategic-account-ai-discovery.md) |
 
 ---
 
-## Why this repository exists
+## About this portfolio
 
-This is **not a claim that every architecture shown here is deployed unchanged in production**. It is a public, non-confidential portfolio demonstrating how I structure enterprise AI opportunities and delivery models based on my background in technology leadership, program delivery, consulting, commercial responsibility and current AI work.
+This repository is intentionally public and non-confidential. It demonstrates **how I structure and connect enterprise AI, strategic accounts, delivery and governance** based on my experience in technology leadership, customer-facing programs, consulting, business development and current AI work.
 
-Private project repositories remain private by design.
+It does **not** claim that every reference pattern shown here has been deployed unchanged in production. Private project repositories and proprietary implementation details remain private by design.
 
 ---
 
 <div align="center">
 
-### Build trust. Deliver value. Scale intelligently.
+# BUILD TRUST · DELIVER VALUE · SCALE INTELLIGENTLY
 
-**Enterprise AI is a leadership challenge as much as a technology challenge.**
+### Enterprise AI is a leadership challenge as much as a technology challenge.
 
 </div>
