@@ -1,333 +1,214 @@
 <div align="center">
 
-# ENTERPRISE AI · COMMERCIAL LEADERSHIP · DELIVERY
-### Selected work across technology, commercial strategy, marketing, AI-enabled delivery and transformation
+# ENTERPRISE AI · COMMERCIAL GROWTH · DELIVERY LEADERSHIP
+### Executive portfolio across market strategy, strategic customers, technology and transformation
 
-**Technology Leadership · Commercial Leadership · Marketing & Growth · Enterprise Delivery · AI Transformation**
+**General Management Perspective · Commercial Leadership · Strategic Accounts · Enterprise AI · Delivery**
 
-[![Commercial](https://img.shields.io/badge/COMMERCIAL-STRATEGY-7C3AED?style=for-the-badge)](#commercial-leadership-foundation)
-[![Marketing](https://img.shields.io/badge/MARKETING-GROWTH-2563EB?style=for-the-badge)](#selected-business-commercial--leadership-qualifications)
-[![Sales Leadership](https://img.shields.io/badge/SALES-LEADERSHIP-0F766E?style=for-the-badge)](#commercial-leadership-foundation)
-[![AI Delivery](https://img.shields.io/badge/AI-DELIVERY-111827?style=for-the-badge)](#selected-work)
-[![Atlassian](https://img.shields.io/badge/ATLASSIAN-Jira%20%7C%20Confluence%20%7C%20Rovo-0052CC?style=for-the-badge)](#atlassian-fundamentals-exams)
+[![Commercial](https://img.shields.io/badge/COMMERCIAL-GROWTH-7C3AED?style=for-the-badge)](#executive-scope)
+[![Strategic Accounts](https://img.shields.io/badge/STRATEGIC-ACCOUNTS-0F766E?style=for-the-badge)](#executive-scope)
+[![Enterprise AI](https://img.shields.io/badge/ENTERPRISE-AI-111827?style=for-the-badge)](#selected-executive-evidence)
+[![Atlassian](https://img.shields.io/badge/ATLASSIAN-Jira%20%7C%20Confluence%20%7C%20Rovo-0052CC?style=for-the-badge)](#platform--qualification-evidence)
 
 ### Paulo Silva
-**Technology & Commercial Leader · Strategic Customers · Project / Program Delivery · AI-enabled Transformation**
+**Technology & Commercial Leader · Enterprise AI · Strategic Customers · Transformation & Delivery**
 
 </div>
 
 ---
 
-## About this portfolio
+# Executive Positioning
 
-This repository has **two clearly separated purposes**:
+I work at the intersection of **commercial growth, strategic customers, technology and execution**.
 
-1. **What I have done** — public, non-confidential summaries of work I have actually carried out.
-2. **How I would approach a new challenge** — clearly marked illustrative examples showing how I would structure leadership, commercial and Enterprise AI problems.
+My background spans Head of Development, Head of R&D, Technical Director / CTO responsibilities, senior consulting and management, Key Account Management, Business Development, program delivery and transformation leadership.
 
-The detailed repositories, source code, prompts, internal configurations, company data, business-plan figures, Jira structures and proprietary implementation details remain private. The purpose here is to show **experience, working style and decision logic without publishing the know-how that should remain protected**.
+I bring a combination that is particularly relevant for complex technology businesses:
+
+> **understand the market → create customer relevance → build executive trust → shape the solution → make the commercial case → deliver successfully → expand the relationship**
+
+I do not separate commercial ambition from technical and delivery reality. For sophisticated enterprise solutions, **credibility in all three areas is part of winning and retaining strategic customers**.
 
 ---
 
-## Professional background
+# Executive Scope
 
-My career combines technical leadership, project and program delivery, consulting and commercial responsibility.
-
-| Area | Experience |
+| Leadership dimension | What I bring |
 |---|---|
-| **Technology Leadership** | Head of Development, Head of R&D and Technical Director / CTO responsibilities in industrial and technology environments |
-| **People Leadership** | Line and functional leadership of development and delivery organizations, including teams of around 40–50 professionals |
-| **Project & Program Delivery** | Complex software, cloud, engineering and transformation programs in international environments |
-| **Customer & Commercial** | Key Account Management, Business Development, customer-facing solution development, proposals, negotiations, account development and follow-up business |
-| **Consulting & Transformation** | Senior consulting / management roles in digital and agile transformation, governance and delivery improvement |
-| **Business Qualification** | Certified Technical Business Economist (IHK), DQR/EQF Level 7 |
-| **Sales Qualification** | Certified Sales Leader / Zertifizierter Vertriebsleiter |
-| **Marketing Qualification** | Online Marketing Manager qualification covering digital strategy, customer journey, SEO/SEA, email, social media, content and analytics |
-| **AI & Digital Transformation Qualification** | Completed modules in AI Management, AI Management Project Work, Emerging Technologies / Digital Transformation and Prompt Engineering; further modules currently in progress |
-| **Atlassian Exams** | Rovo Fundamentals, Forge Fundamentals and Loom Fundamentals — exams passed |
-
-> **My differentiator is the combination:** I can move between the market, customer conversation, commercial logic, technical solution, delivery reality and leadership decision without treating them as separate worlds.
+| **Market & Commercial Growth** | market analysis, segmentation, positioning, go-to-market thinking, business development, digital marketing and growth logic |
+| **Strategic Customers** | Key Account Management, executive stakeholder engagement, opportunity development, solution selling, proposals, negotiations and account development |
+| **Technology & Enterprise AI** | technology leadership, AI strategy, digital transformation, Atlassian ecosystem, AI-enabled workflows and governed enterprise adoption |
+| **Delivery & Transformation** | complex project / program delivery, operating models, governance, change, portfolio transparency and international transformation environments |
+| **People & Leadership** | line and functional leadership, distributed organizations, coaching, capability building and leadership of teams of around 40–50 professionals |
+| **Business Management** | Certified Technical Business Economist (IHK), DQR/EQF Level 7, combining technology decisions with business and economic perspective |
 
 ---
 
-# Selected Business, Commercial & Leadership Qualifications
+# Selected Executive Evidence
 
-The formal qualifications most relevant to my current positioning are deliberately selected rather than presented as a long certificate list.
+## 1 · Commercial Strategy & Go-to-Market
+### Smart-energy technology
 
-| Qualification | Commercial / leadership relevance |
-|---|---|
-| **Certified Technical Business Economist (IHK), DQR/EQF Level 7** | enterprise economics, business management and cross-functional decision making |
-| **Certified Sales Leader / Vertriebsleiter** | sales strategy, strategic accounts, negotiation, sales leadership, CRM, digital sales and sales controlling |
-| **Online Marketing Manager** | digital marketing strategy, customer journeys, search, email, social media, content, campaigns and web analytics |
-| **SAP Sales / Sales Order Processing** | SAP Key User Sales with SAP ERP 6.0 and SAP User Certification in Sales Order Processing |
-| **Change Manager · Six Sigma Black Belt · Lean Manager** | transformation leadership, process improvement and measurable execution |
+I developed an end-to-end **sales strategy and sales concept for a new technology product** as part of my formal Sales Leader qualification.
 
-[See the selected business, commercial and leadership qualifications →](background/selected-business-commercial-qualifications.md)
+The work connected:
+
+**business direction → market potential → segmentation → customer buying motives → competitive position → value proposition → target groups → sales strategy → KPIs → communication → channels**
+
+This is a factual project summary. Pricing, forecasts and company-confidential details remain private.
+
+[Commercial strategy case →](examples/commercial-strategy-smart-energy.md)
 
 ---
 
-# AI & Digital Transformation Qualification
+## 2 · Enterprise AI & Delivery
+### SignalDesk · ProfileHub · GreenWear
 
-My current professional qualification combines management, transformation and hands-on AI work. The following modules have already been **completed**:
+I use practical reference environments to explore how AI can improve enterprise delivery without losing governance, traceability or human control.
 
-| Completed module | Scope / result |
+Across the projects, I have worked with combinations of:
+
+**Jira · Confluence · Rovo · GitHub · AI agents · local tooling · governed workflows · human review**
+
+The emphasis is not AI experimentation for its own sake. The focus is **how AI can improve decision support, workflow execution, knowledge access, documentation and delivery transparency in real operating environments**.
+
+[SignalDesk →](examples/signaldesk.md) · [ProfileHub →](examples/profilehub.md) · [GreenWear →](examples/greenwear.md)
+
+---
+
+## 3 · General Management Thinking
+### Enterprise AI country business — First 100 Days
+
+This is an **illustrative leadership example**, not a claim that I have already held a SaaS country-GM mandate.
+
+It shows how I would structure a new market responsibility around:
+
+**market focus → strategic accounts → customer value → buying dynamics → commercial execution → delivery → team → partners → evidence for scale**
+
+The operating blueprint uses four phases:
+
+**Understand → Position → Execute → Prove & Scale**
+
+[First 100 Days operating blueprint →](examples/how-i-would-build-an-ai-country-business.md)
+
+---
+
+## 4 · Enterprise Opportunity Leadership
+### From customer problem to scalable value
+
+A second illustrative example shows how I would structure an Enterprise AI opportunity from first business problem through technical feasibility, governance, implementation, adoption and expansion.
+
+The principle is straightforward:
+
+> **Understand the real problem. Make the value explicit. Keep technology and delivery honest. Prove the result. Then scale.**
+
+[Enterprise AI opportunity approach →](examples/how-i-would-structure-an-enterprise-ai-opportunity.md)
+
+---
+
+# Commercial Leadership
+
+My commercial foundation combines **professional customer responsibility** with formal qualifications in sales leadership, business management and digital marketing.
+
+I have worked across Key Account Management, Business Development, customer-facing solution development, proposals, commercial negotiations, account development and follow-up business.
+
+My formal **Sales Leader / Vertriebsleiter** qualification covered 22 modules plus a practical strategy project, including:
+
+**sales strategy · market segmentation · strategic accounts · customer conversations · negotiation · sales leadership · CRM · digital sales · sales controlling**
+
+My **Online Marketing Manager** qualification adds digital strategy, customer journey, SEO/SEA, email, social media, content, campaign and analytics perspectives.
+
+[Sales Leadership foundation →](background/sales-leadership-foundation.md)  
+[Selected business & commercial qualifications →](background/selected-business-commercial-qualifications.md)
+
+---
+
+# Enterprise AI & Digital Transformation
+
+My current professional qualification adds a formal management layer to the hands-on AI work.
+
+Completed:
+
+| Qualification | Result |
 |---|---|
 | **AI Management** | 80 training units · **100% examination result** |
 | **AI Management Project Work** | 40 training units · **100% examination result** |
 | **Emerging Technologies / Digital Transformation** | 40 training units · **100% examination result** |
 | **Prompt Engineering** | completed |
 
-Additional modules in the qualification path are currently in progress:
+The content includes AI strategy, business models, technology assessment, stakeholder management, governance, data ethics, risk management, AI-team setup, change management and practical AI project work.
 
-- Prompt Engineering Project Work
-- Machine Learning
-- Digital Automation with AI: Process Optimization
-
-The completed work is not purely theoretical. It includes AI strategy, business models, data ethics and governance, technology evaluation, risk management, stakeholder management, practical AI project work, prompt design and AI-enabled delivery workflows.
+Further qualification modules are currently in progress.
 
 ---
 
-# Atlassian Fundamentals Exams
+# Platform & Qualification Evidence
 
-My Atlassian platform experience is complemented by three formal Atlassian fundamentals exams:
+I deliberately keep certifications in a supporting role. They validate specific areas of capability; they are not the positioning itself.
 
-| Atlassian assessment | Status |
-|---|---|
-| **Rovo Fundamentals** | **Exam passed** |
-| **Forge Fundamentals** | **Exam passed** |
-| **Loom Fundamentals** | **Exam passed** |
+### Atlassian Fundamentals Exams
 
-All three fundamentals exams shown in my Atlassian certification profile were passed on **30 March 2026**.
+- **Rovo Fundamentals — passed**
+- **Forge Fundamentals — passed**
+- **Loom Fundamentals — passed**
 
-For my Enterprise AI work, **Rovo** is particularly relevant for connecting Jira and Confluence knowledge, while **Forge** provides additional platform understanding for extending and integrating the Atlassian ecosystem.
+### Selected additional qualifications
+
+- **Certified Technical Business Economist (IHK), DQR/EQF Level 7**
+- **Certified Sales Leader / Vertriebsleiter**
+- **Online Marketing Manager**
+- **SAP Sales / Sales Order Processing**
+- **Change Manager**
+- **Six Sigma Black Belt**
+- **Lean Manager**
+- **Professional Scrum Master II**
+- **Professional Scrum Product Owner I**
+- **PRINCE2 Foundation**
 
 ---
 
-# Commercial Leadership Foundation
-
-My formal Sales Leader qualification covered the **full commercial operating system**, not only selling techniques: sales strategy, organizational and channel design, sales processes, account strategy, customer conversations, negotiation, sales leadership, recruiting, CRM, digital sales and data-driven sales controlling.
-
-The qualification consisted of **22 modules plus a practical commercial strategy project**.
+# How I Lead Complex Technology Business
 
 ```mermaid
 flowchart LR
-    S[Sales Strategy] --> O[Organization & Channels]
-    O --> P[Sales Process]
-    P --> A[Strategic Accounts]
-    A --> N[Negotiation]
-    N --> L[Leadership & People]
-    L --> D[CRM · Digital Sales · Analytics]
-    D --> S
+    M[Market] --> A[Strategic Accounts]
+    A --> V[Customer Value]
+    V --> C[Commercial Case]
+    C --> T[Technology & Solution]
+    T --> D[Delivery]
+    D --> R[Result & Trust]
+    R --> X[Expansion]
+    X --> A
 ```
 
-The most important principle across those areas is simple:
+The management logic behind this portfolio is consistent:
 
-> **Strategy decides where to compete. Marketing creates relevance and demand. Customer value decides why a buyer should act. Process and data create transparency. Leadership turns that information into focused execution.**
+- **focus before activity**
+- **customer value before product enthusiasm**
+- **technical credibility before over-promising**
+- **few decision-relevant KPIs rather than reporting volume**
+- **delivery as part of the commercial relationship**
+- **evidence before scale**
 
-[See the summarized Sales Leadership foundation →](background/sales-leadership-foundation.md)
-
----
-
-# Selected Work
-
-The examples below are based on **real work I carried out**. They are intentionally summarized.
-
-## 1 · Commercial Strategy & Go-to-Market — Smart Energy Technology
-
-**Sales Leader qualification project**
-
-I developed an end-to-end **sales strategy and sales concept for a new smart-energy technology product**.
-
-The project connected:
-
-**business context → market analysis → segmentation → customer buying motives → competitor analysis → USP / positioning → sales strategy → objectives & KPIs → communication → sales channels**
-
-The work also used SWOT and Six Sigma / DMAIC to turn analysis into structured commercial actions. Detailed forecasts, pricing and company-confidential figures remain private.
-
-[Read the factual commercial strategy case →](examples/commercial-strategy-smart-energy.md)
+This is how I connect commercial leadership and enterprise technology without treating them as separate disciplines.
 
 ---
 
-## 2 · SignalDesk Agent Lab — AI-assisted software delivery
+## Portfolio Integrity
 
-**Private reference project**
+This repository separates clearly between:
 
-SignalDesk Agent Lab is a local development and automation workspace I built to explore AI-assisted delivery workflows across **Jira, Confluence, GitHub and local agent tooling**.
+**Factual work** — public summaries of work I have actually carried out.  
+**Illustrative leadership approaches** — examples showing how I would structure a new mandate.
 
-Work covered:
-
-- backlog analysis
-- sprint preparation
-- Jira issue review
-- code-generation experiments
-- Git-based change tracking
-- documentation updates
-- delivery-governance support
-
-SignalDesk itself is a B2B enterprise SaaS concept focused on **risks, escalations, decisions and actions in complex organizations**.
-
-> Public detail is deliberately limited. Source code, agent configuration and internal project structure remain private.
-
-[Read the public project summary →](examples/signaldesk.md)
-
----
-
-## 3 · ProfileHub — end-to-end delivery-chain validation
-
-**Private reference project**
-
-ProfileHub is a separate React/Vite project for a modern personal CV and consulting landing page. I used the project specifically to validate a smaller, controlled delivery chain before applying the approach to larger agent-driven work.
-
-The implemented delivery flow is:
-
-```mermaid
-flowchart LR
-    J[Jira Story] --> G[GitHub Change]
-    G --> L[Local Validation]
-    L --> JU[Jira Update]
-    JU --> C[Confluence Documentation]
-```
-
-The project uses separate Jira, Confluence and GitHub workspaces, with GitHub as the source for code and Confluence for documentation / playbook content.
-
-[Read the public project summary →](examples/profilehub.md)
-
----
-
-## 4 · GreenWear AI Service Assistant — AI project with governance and testing
-
-**Practical AI project / professional training**
-
-GreenWear is a multilingual AI customer-service assistant project developed as part of my completed AI Management qualification work.
-
-The project environment uses:
-
-| Tool | Purpose in the project |
-|---|---|
-| **Jira** | Backlog, epics, tasks, status and timeline |
-| **Confluence** | Governance, guardrails and project results |
-| **Atlassian Rovo** | Cross-project search and access to Jira / Confluence knowledge |
-| **GitHub** | Versioning of prompt, knowledge base and test material |
-| **AI** | Running chatbot prototype |
-
-The working approach includes versioned changes, documented governance and **human handover for uncertain or critical cases**.
-
-[Read the public project summary →](examples/greenwear.md)
-
----
-
-# How I Would Approach a New Challenge
-
-The following examples are **not claims of completed past projects**. They are deliberately marked as illustrative and show how I would structure a new mandate based on my leadership, commercial, delivery and technical experience.
-
-## Example A · Building an Enterprise AI country business
-
-How I would connect:
-
-**market segmentation → strategic accounts → customer value → commercial opportunity → delivery → trust → expansion**
-
-The example contains a **First 100 Days Operating Blueprint** built around four phases:
-
-**Understand → Position → Execute → Prove & Scale**
-
-It combines market and account prioritization, customer-value logic, buying-process and stakeholder mapping, a focused KPI system, CRM / evidence discipline, team and partner priorities, commercial and delivery cadence, and evidence-based investment decisions after the first 100 days.
-
-[See the illustrative Country / GM 100-day approach →](examples/how-i-would-build-an-ai-country-business.md)
-
----
-
-## Example B · Structuring an Enterprise AI opportunity
-
-How I would move from:
-
-**customer problem → measurable value → technical feasibility → focused first use case → governed delivery → adoption → evidence → expansion**
-
-This example shows how I connect business, technical, governance and commercial questions early instead of treating AI as an isolated technology exercise.
-
-[See the illustrative Enterprise AI opportunity approach →](examples/how-i-would-structure-an-enterprise-ai-opportunity.md)
-
-> **Important:** These examples describe how I would work. The four project summaries above describe work I have actually carried out.
-
----
-
-# What the real work demonstrates
-
-Taken together, the real examples and formal commercial qualifications show strength across:
-
-- commercial strategy from **market and competitor analysis to segmentation, positioning, objectives, KPIs and sales channels**
-- **digital marketing strategy, customer journeys, content / channel thinking and analytics**
-- Key Account / Business Development thinking connected to technical solution credibility
-- enterprise sales processes and customer-facing ERP understanding
-- **Jira and Confluence as delivery and governance platforms**
-- **Atlassian Rovo for knowledge access across Jira and Confluence**
-- **Git / GitHub for versioned technical work and traceability**
-- AI-assisted backlog, documentation and development workflows
-- local agent experimentation
-- structured human review and escalation
-- connecting project-management workflows with engineering delivery
-
-The detailed implementation and commercially sensitive material remain private by design.
-
----
-
-# How I think about commercial leadership
-
-My Sales Leader and Online Marketing Manager qualifications reinforce a principle that also runs through my technology and delivery career:
-
-```mermaid
-flowchart LR
-    M[Market] --> G[Marketing & Demand]
-    G --> C[Customer Need]
-    C --> V[Value]
-    V --> S[Solution]
-    S --> B[Commercial Case]
-    B --> D[Delivery]
-    D --> R[Result]
-    R --> X[Account Growth]
-```
-
-I do not see marketing, sales and delivery as isolated functions. Especially with complex technology, **market relevance, technical credibility, realistic commitments and successful implementation all contribute to the commercial relationship**.
-
-Likewise, CRM and analytics are not the strategy. They should make customer context, opportunity movement and results visible. Leadership still has to understand **why** performance moves and decide **what action changes the outcome**.
-
----
-
-# Why this matters in Enterprise AI
-
-My background is not limited to AI tooling. I have spent more than 25 years working at the intersection of **technology, delivery, leadership and customers**, supported by formal business, sales and digital-marketing qualifications.
-
-That means I look at Enterprise AI from several perspectives at once:
-
-**market opportunity → customer / stakeholder alignment → value proposition → technical implementation → governed delivery → measurable result → expansion**
-
-This is also why I actively combine modern AI tooling with established delivery platforms rather than treating AI as an isolated layer.
-
----
-
-## Public portfolio boundaries
-
-To protect project and commercial know-how, this repository does **not** publish:
-
-- source code from private projects
-- credentials or API configuration
-- customer or company-confidential information
-- detailed prompts or agent instructions
-- internal Jira / Confluence content
-- infrastructure configuration
-- proprietary automation logic
-- detailed account-selection logic
-- customer-specific sales strategies
-- negotiation methods or pricing logic
-- detailed forecasts or business-plan figures
-
-Only high-level factual project summaries, summarized qualification foundations and clearly labelled illustrative working approaches are shown here.
+To protect company, customer and project know-how, I do not publish private source code, credentials, customer information, detailed prompts, internal Jira / Confluence content, account strategies, pricing, negotiation logic, business-plan figures or proprietary implementation details.
 
 ---
 
 <div align="center">
 
-### TECHNOLOGY · COMMERCIAL LEADERSHIP · MARKETING · DELIVERY · AI
+### COMMERCIAL GROWTH · STRATEGIC CUSTOMERS · ENTERPRISE AI · DELIVERY
 
-**Show the thinking. Prove the work. Protect the know-how.**
+**Turn technology into customer value. Turn delivery into trust. Turn evidence into growth.**
 
 </div>
