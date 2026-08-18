@@ -127,9 +127,13 @@ How I would connect:
 
 **country strategy → strategic accounts → customer value → commercial opportunity → delivery → trust → expansion**
 
-The example includes a compact **first-90-days structure**, strategic-account focus, team priorities, delivery rhythm and executive measures — while intentionally leaving detailed sales playbooks and proprietary execution methods private.
+The example now contains a **First 100 Days Operating Blueprint** built around four phases:
 
-[See the illustrative Country / GM approach →](examples/how-i-would-build-an-ai-country-business.md)
+**Understand → Position → Execute → Prove & Scale**
+
+It shows how I would establish country focus, prioritize strategic accounts, connect sales with implementation reality, identify team and partner priorities, create an operating rhythm and use evidence at day 100 to decide what deserves further investment.
+
+[See the illustrative Country / GM 100-day approach →](examples/how-i-would-build-an-ai-country-business.md)
 
 ---
 
