@@ -114,13 +114,15 @@ The principle is straightforward:
 
 # Commercial Leadership
 
-My commercial foundation combines **professional customer responsibility** with formal qualifications in sales leadership, business management and digital marketing.
+My commercial foundation combines **professional customer responsibility** with formal business-management, sales-leadership and digital-marketing qualifications.
+
+The business foundation goes back to **1998**, when I completed the **Technischer Betriebswirt IHK / Certified Technical Business Economist**, today classified at **DQR/EQF Level 7**. As my responsibilities increasingly connected technology, customers, solutions and business development, I deliberately strengthened the commercial and change-leadership side in **2019** with formal **Sales Leader / Vertriebsleiter** and **Change Manager** qualifications.
 
 I have worked across Key Account Management, Business Development, customer-facing solution development, proposals, commercial negotiations, account development and follow-up business.
 
-My formal **Sales Leader / Vertriebsleiter** qualification covered 22 modules plus a practical strategy project, including:
+Rather than presenting the Sales Leader qualification as a list of course modules, I summarize it into **seven Commercial Leadership Capabilities**:
 
-**sales strategy · market segmentation · strategic accounts · customer conversations · negotiation · sales leadership · CRM · digital sales · sales controlling**
+**sales strategy & market focus · sales organization & channels · sales process & customer lifecycle · strategic accounts & customer conversations · negotiation & commercial discipline · sales leadership, people & performance · CRM, digital sales & data-driven steering**
 
 My **Online Marketing Manager** qualification adds digital strategy, customer journey, SEO/SEA, email, social media, content, campaign and analytics perspectives.
 
