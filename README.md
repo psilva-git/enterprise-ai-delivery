@@ -41,9 +41,28 @@ My career combines technical leadership, project and program delivery, consultin
 | **Consulting & Transformation** | Senior consulting / management roles in digital and agile transformation, governance and delivery improvement |
 | **Business Qualification** | Certified Technical Business Economist (IHK), DQR/EQF Level 7 |
 | **Sales Qualification** | Certified Sales Leader / Zertifizierter Vertriebsleiter |
-| **Current AI Focus** | AI Management, Digital Automation with AI, Prompt Engineering, Emerging Technologies, Machine Learning and practical AI projects |
+| **AI & Digital Transformation Qualification** | Completed modules in AI Management, AI Management Project Work, Emerging Technologies / Digital Transformation and Prompt Engineering; further modules currently in progress |
 
 > **My differentiator is the combination:** I can move between the customer conversation, commercial logic, technical solution, delivery reality and leadership decision without treating them as separate worlds.
+
+---
+
+# AI & Digital Transformation Qualification
+
+My current professional qualification combines management, transformation and hands-on AI work. The following modules have already been **completed**:
+
+- **AI Management**
+- **AI Management Project Work**
+- **Emerging Technologies / Digital Transformation**
+- **Prompt Engineering**
+
+Additional modules in the qualification path are currently in progress:
+
+- Prompt Engineering Project Work
+- Machine Learning
+- Digital Automation with AI: Process Optimization
+
+The completed work is not purely theoretical. It includes practical AI project work, structured use-case evaluation, governance, prompt design and AI-enabled delivery workflows.
 
 ---
 
@@ -142,7 +161,7 @@ The project uses separate Jira, Confluence and GitHub workspaces, with GitHub as
 
 **Practical AI project / professional training**
 
-GreenWear is a multilingual AI customer-service assistant project developed as part of my AI Management qualification.
+GreenWear is a multilingual AI customer-service assistant project developed as part of my completed AI Management qualification work.
 
 The project environment uses:
 
@@ -262,7 +281,7 @@ To protect project and commercial know-how, this repository does **not** publish
 - negotiation methods or pricing logic
 - detailed forecasts or business-plan figures
 
-Only high-level factual project summaries, a summarized qualification foundation and clearly labelled illustrative working approaches are shown here.
+Only high-level factual project summaries, summarized qualification foundations and clearly labelled illustrative working approaches are shown here.
 
 ---
 
