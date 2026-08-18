@@ -3,10 +3,10 @@
 # ENTERPRISE AI · COMMERCIAL GROWTH · DELIVERY LEADERSHIP
 ### Executive portfolio across market strategy, strategic customers, technology and transformation
 
-**General Management Perspective · Commercial Leadership · Strategic Accounts · Enterprise AI · Delivery**
+**Leadership · Commercial Growth · Strategic Accounts · Enterprise AI · Delivery**
 
-[![Commercial](https://img.shields.io/badge/COMMERCIAL-GROWTH-7C3AED?style=for-the-badge)](#executive-scope)
-[![Strategic Accounts](https://img.shields.io/badge/STRATEGIC-ACCOUNTS-0F766E?style=for-the-badge)](#executive-scope)
+[![Commercial](https://img.shields.io/badge/COMMERCIAL-GROWTH-7C3AED?style=for-the-badge)](#what-i-bring-as-a-lead)
+[![Strategic Accounts](https://img.shields.io/badge/STRATEGIC-ACCOUNTS-0F766E?style=for-the-badge)](#what-i-bring-as-a-lead)
 [![Enterprise AI](https://img.shields.io/badge/ENTERPRISE-AI-111827?style=for-the-badge)](#selected-executive-evidence)
 [![Atlassian](https://img.shields.io/badge/ATLASSIAN-Jira%20%7C%20Confluence%20%7C%20Rovo-0052CC?style=for-the-badge)](#platform--qualification-evidence)
 
@@ -19,28 +19,33 @@
 
 # Executive Positioning
 
-I work at the intersection of **commercial growth, strategic customers, technology and execution**.
+Companies do not need a Lead simply to manage activity. They need someone who can **set direction, create alignment, make decisions, develop people, win customer trust and turn strategy into measurable results**.
 
-My background spans Head of Development, Head of R&D, Technical Director / CTO responsibilities, senior consulting and management, Key Account Management, Business Development, program delivery and transformation leadership.
+That is where my background is strongest. I combine deep technology and engineering understanding with project/program leadership, R&D management, Agile and transformation expertise, commercial leadership and business management.
 
-I bring a combination that is particularly relevant for complex technology businesses:
+My career started in **hardware and software development**, progressed through **project management and R&D leadership**, expanded into **Agile delivery and transformation**, and was deliberately strengthened with commercial qualifications in **Sales Leadership, Technical Business Management and Online Marketing**. In consulting and management roles, I have brought these perspectives together across complex customer and delivery environments.
 
-> **understand the market → create customer relevance → build executive trust → shape the solution → make the commercial case → deliver successfully → expand the relationship**
+Today, I use that breadth to connect the **edge of technology — particularly Enterprise AI and agentic workflows — with real business value, customer growth and executable delivery**.
 
-I do not separate commercial ambition from technical and delivery reality. For sophisticated enterprise solutions, **credibility in all three areas is part of winning and retaining strategic customers**.
+> **Engineering depth → Leadership → Commercial understanding → Transformation → Enterprise AI → Business value**
+
+The value I bring as a Lead is the ability to connect **strategy, customers, people, technology and execution** rather than optimize each in isolation.
 
 ---
 
-# Executive Scope
+# What I Bring as a Lead
 
-| Leadership dimension | What I bring |
+| Leadership responsibility | What I bring |
 |---|---|
-| **Market & Commercial Growth** | market analysis, segmentation, positioning, go-to-market thinking, business development, digital marketing and growth logic |
-| **Strategic Customers** | Key Account Management, executive stakeholder engagement, opportunity development, solution selling, proposals, negotiations and account development |
-| **Technology & Enterprise AI** | technology leadership, AI strategy, digital transformation, Atlassian ecosystem, AI-enabled workflows and governed enterprise adoption |
-| **Delivery & Transformation** | complex project / program delivery, operating models, governance, change, portfolio transparency and international transformation environments |
-| **People & Leadership** | line and functional leadership, distributed organizations, coaching, capability building and leadership of teams of around 40–50 professionals |
-| **Business Management** | Certified Technical Business Economist (IHK), DQR/EQF Level 7, combining technology decisions with business and economic perspective |
+| **Direction & Prioritization** | translate business goals into clear priorities, operating models, roadmaps and measurable outcomes |
+| **People & Organization** | lead and develop teams, create accountability, coach leaders and specialists, and build capability across distributed organizations |
+| **Customers & Commercial Growth** | build executive trust, develop strategic accounts, shape value propositions, support negotiations and connect customer needs to growth opportunities |
+| **Delivery Ownership** | lead complex projects and programs end-to-end, manage dependencies and risks, establish governance and keep execution focused on outcomes |
+| **Technology & Enterprise AI** | assess technology pragmatically, connect architecture and delivery reality with business value, and introduce AI with governance and human control |
+| **Transformation & Change** | move organizations from strategy to adoption by aligning stakeholders, processes, tools, behaviors and decision structures |
+| **Business Value & Performance** | combine technology decisions with economic logic, customer value, KPIs and evidence-based investment and scaling decisions |
+
+This combination allows me to operate where many leadership challenges actually sit: **between business and technology, between customer promise and delivery reality, and between strategic intent and operational execution**.
 
 ---
 
@@ -190,26 +195,26 @@ Formal qualifications support the broader executive profile across **business, c
 
 ```mermaid
 flowchart LR
-    M[Market] --> A[Strategic Accounts]
-    A --> V[Customer Value]
-    V --> C[Commercial Case]
-    C --> T[Technology & Solution]
+    S[Strategy] --> A[Alignment]
+    A --> C[Customer Value]
+    C --> P[People & Priorities]
+    P --> T[Technology & Solution]
     T --> D[Delivery]
     D --> R[Result & Trust]
-    R --> X[Expansion]
-    X --> A
+    R --> G[Growth]
 ```
 
 The management logic behind this portfolio is consistent:
 
-- **focus before activity**
+- **direction before activity**
 - **customer value before product enthusiasm**
+- **people and accountability before process overhead**
 - **technical credibility before over-promising**
 - **few decision-relevant KPIs rather than reporting volume**
 - **delivery as part of the commercial relationship**
 - **evidence before scale**
 
-This is how I connect commercial leadership and enterprise technology without treating them as separate disciplines.
+This is how I connect leadership, commercial responsibility and enterprise technology without treating them as separate disciplines.
 
 ---
 
@@ -226,8 +231,8 @@ To protect company, customer and project know-how, I do not publish private sour
 
 <div align="center">
 
-### COMMERCIAL GROWTH · STRATEGIC CUSTOMERS · ENTERPRISE AI · DELIVERY
+### LEADERSHIP · COMMERCIAL GROWTH · STRATEGIC CUSTOMERS · ENTERPRISE AI · DELIVERY
 
-**Turn technology into customer value. Turn delivery into trust. Turn evidence into growth.**
+**Set direction. Build trust. Deliver value. Scale what works.**
 
 </div>
