@@ -21,13 +21,13 @@
 
 Companies do not need a Lead simply to manage activity. They need someone who can **set direction, create alignment, make decisions, develop people, win customer trust and turn strategy into measurable results**.
 
-That is where my background is strongest. I combine deep technology and engineering understanding with project/program leadership, **PMO and portfolio governance**, R&D management, **Agile and hybrid delivery**, transformation expertise, commercial leadership and business management.
+My career started in **hardware and software development**, progressed through **project management and R&D leadership**, expanded into **program leadership, PMO / portfolio steering, Agile and hybrid delivery**, and was deliberately strengthened with **business-management, sales-leadership, change and digital-marketing qualifications**. In consulting and management roles, I have brought these perspectives together across complex customer, portfolio and delivery environments.
 
-My career started in **hardware and software development**, progressed through **project management and R&D leadership**, expanded into **PMO / portfolio steering, Agile, hybrid delivery and transformation**, and was deliberately strengthened with commercial qualifications in **Sales Leadership, Technical Business Management and Online Marketing**. In consulting and management roles, I have brought these perspectives together across complex customer, portfolio and delivery environments.
+I now use that breadth to connect the **edge of technology — particularly Enterprise AI and agentic workflows — with real business value, customer growth and executable delivery**.
 
-Today, I use that breadth to connect the **edge of technology — particularly Enterprise AI and agentic workflows — with real business value, customer growth and executable delivery**.
-
-> **Engineering depth → Project / Program & PMO Leadership → Agile & Hybrid Delivery → Commercial understanding → Transformation → Enterprise AI → Business value**
+<p align="center">
+  <img src="assets/leadership-evolution.svg" alt="Leadership evolution from engineering foundation to Enterprise AI and business value" width="100%" />
+</p>
 
 The value I bring as a Lead is the ability to connect **strategy, customers, people, portfolio priorities, technology and execution** rather than optimize each in isolation.
 
@@ -35,13 +35,17 @@ The value I bring as a Lead is the ability to connect **strategy, customers, peo
 
 # What I Bring as a Lead
 
+<p align="center">
+  <img src="assets/executive-leadership-architecture.svg" alt="Executive leadership architecture connecting strategy, customers, people, delivery, technology and business value" width="100%" />
+</p>
+
 | Leadership responsibility | What I bring |
 |---|---|
 | **Direction & Prioritization** | translate business goals into clear priorities, operating models, roadmaps and measurable outcomes |
 | **People & Organization** | lead and develop teams, create accountability, coach leaders and specialists, and build capability across distributed organizations |
 | **Customers & Commercial Growth** | build executive trust, develop strategic accounts, shape value propositions, support negotiations and connect customer needs to growth opportunities |
-| **PMO & Portfolio Governance** | establish portfolio transparency, governance and management cadence across initiatives; align roadmaps, dependencies, risks, priorities, resources, KPIs and executive reporting |
-| **Agile & Hybrid Delivery Ownership** | lead complex projects and programs end-to-end, select fit-for-purpose Agile, predictive or hybrid delivery models, manage dependencies and risks, establish governance and keep execution focused on outcomes |
+| **PMO & Portfolio Governance** | establish portfolio transparency and management cadence across initiatives; align roadmaps, dependencies, risks, priorities, resources, KPIs and executive reporting |
+| **Agile & Hybrid Delivery Ownership** | lead complex projects and programs end-to-end and select fit-for-purpose Agile, predictive or hybrid delivery models rather than apply methodology dogmatically |
 | **Technology & Enterprise AI** | assess technology pragmatically, connect architecture and delivery reality with business value, and introduce AI with governance and human control |
 | **Transformation & Change** | move organizations from strategy to adoption by aligning stakeholders, processes, tools, behaviors and decision structures |
 | **Business Value & Performance** | combine technology decisions with economic logic, customer value, KPIs and evidence-based investment and scaling decisions |
@@ -57,11 +61,7 @@ This combination allows me to operate where many leadership challenges actually 
 
 I developed an end-to-end **sales strategy and sales concept for a new technology product** as part of my formal Sales Leader qualification.
 
-The work connected:
-
-**business direction → market potential → segmentation → customer buying motives → competitive position → value proposition → target groups → sales strategy → KPIs → communication → channels**
-
-This is a factual project summary. Pricing, forecasts and company-confidential details remain private.
+The work connected **business direction, market potential, segmentation, customer buying motives, competitive positioning, value proposition, commercial objectives, KPIs, communication and channels**.
 
 [Commercial strategy case →](examples/commercial-strategy-smart-energy.md)
 
@@ -72,11 +72,7 @@ This is a factual project summary. Pricing, forecasts and company-confidential d
 
 I use practical reference environments to explore how AI can improve enterprise delivery without losing governance, traceability or human control.
 
-Across the projects, I have worked with combinations of:
-
-**Jira · Confluence · Rovo · GitHub · AI agents · local tooling · governed workflows · human review**
-
-The emphasis is not AI experimentation for its own sake. The focus is **how AI can improve decision support, workflow execution, knowledge access, documentation and delivery transparency in real operating environments**.
+Across these projects, I have worked with combinations of **Jira, Confluence, Rovo, GitHub, AI agents, local tooling, governed workflows and human review**. The emphasis is not AI experimentation for its own sake; it is how AI can improve decision support, workflow execution, knowledge access, documentation and delivery transparency in real operating environments.
 
 [SignalDesk →](examples/signaldesk.md) · [ProfileHub →](examples/profilehub.md) · [GreenWear →](examples/greenwear.md)
 
@@ -85,15 +81,7 @@ The emphasis is not AI experimentation for its own sake. The focus is **how AI c
 ## 3 · General Management Thinking
 ### Enterprise AI country business — First 100 Days
 
-This is an **illustrative leadership example**, not a claim that I have already held a SaaS country-GM mandate.
-
-It shows how I would structure a new market responsibility around:
-
-**market focus → strategic accounts → customer value → buying dynamics → commercial execution → delivery → team → partners → evidence for scale**
-
-The operating blueprint uses four phases:
-
-**Understand → Position → Execute → Prove & Scale**
+This is an **illustrative leadership example**, not a claim that I have already held a SaaS country-GM mandate. It shows how I would structure a market responsibility around **market focus, strategic accounts, customer value, commercial execution, delivery, team, partners and evidence for scale**.
 
 [First 100 Days operating blueprint →](examples/how-i-would-build-an-ai-country-business.md)
 
@@ -102,9 +90,7 @@ The operating blueprint uses four phases:
 ## 4 · Enterprise Opportunity Leadership
 ### From customer problem to scalable value
 
-A second illustrative example shows how I would structure an Enterprise AI opportunity from first business problem through technical feasibility, governance, implementation, adoption and expansion.
-
-The principle is straightforward:
+A second illustrative example shows how I would structure an Enterprise AI opportunity from the first business problem through feasibility, governance, implementation, adoption, evidence and expansion.
 
 > **Understand the real problem. Make the value explicit. Keep technology and delivery honest. Prove the result. Then scale.**
 
@@ -118,11 +104,11 @@ My commercial foundation combines **professional customer responsibility** with 
 
 The business foundation goes back to **1998**, when I completed the **Technischer Betriebswirt IHK / Certified Technical Business Economist** at **Master level (DQR/EQF Level 7)**. As my responsibilities increasingly connected technology, customers, solutions and business development, I deliberately strengthened the commercial and change-leadership side in **2019** with formal **Sales Leader / Vertriebsleiter** and **Change Manager** qualifications.
 
-I have worked across Key Account Management, Business Development, customer-facing solution development, proposals, commercial negotiations, account development and follow-up business.
+I have worked across **Key Account Management, Business Development, customer-facing solution development, proposals, commercial negotiations, account development and follow-up business**.
 
-Rather than presenting the Sales Leader qualification as a list of course modules, I summarize it into **seven Commercial Leadership Capabilities**:
+The Sales Leader qualification is summarized as **seven Commercial Leadership Capabilities** rather than a course list:
 
-**sales strategy & market focus · sales organization & channels · sales process & customer lifecycle · strategic accounts & customer conversations · negotiation & commercial discipline · sales leadership, people & performance · CRM, digital sales & data-driven steering**
+**sales strategy & market focus · organization & channels · sales process & customer lifecycle · strategic accounts & customer value · negotiation & commercial discipline · people & performance · CRM / digital sales / analytics**
 
 My **Online Marketing Manager** qualification adds digital strategy, customer journey, SEO/SEA, email, social media, content, campaign and analytics perspectives.
 
@@ -142,9 +128,7 @@ My current professional qualification adds a formal management layer to the hand
 - **Emerging Technologies / Digital Transformation**
 - **Prompt Engineering**
 
-The content includes AI strategy, business models, technology assessment, stakeholder management, governance, data ethics, risk management, AI-team setup, change management and practical AI project work.
-
-Further qualification modules are currently in progress.
+The content includes AI strategy, business models, technology assessment, stakeholder management, governance, data ethics, risk management, AI-team setup, change management and practical AI project work. Further qualification modules are currently in progress.
 
 ---
 
@@ -196,17 +180,9 @@ Formal qualifications support the broader executive profile across **business, c
 
 # How I Lead Complex Technology Business
 
-```mermaid
-flowchart LR
-    S[Strategy] --> P[Portfolio / PMO Priorities]
-    P --> A[Alignment]
-    A --> C[Customer Value]
-    C --> H[Agile / Hybrid Delivery Model]
-    H --> T[Technology & Solution]
-    T --> D[Delivery]
-    D --> R[Result & Trust]
-    R --> G[Growth]
-```
+<p align="center">
+  <img src="assets/hybrid-pmo-operating-model.svg" alt="Layered PMO and hybrid delivery operating model" width="100%" />
+</p>
 
 The management logic behind this portfolio is consistent:
 
