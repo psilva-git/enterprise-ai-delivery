@@ -1,17 +1,17 @@
 <div align="center">
 
 # ENTERPRISE AI DELIVERY
-### Selected work in AI-enabled delivery, agent workflows and Atlassian-based project environments
+### Selected work across technology, commercial strategy, AI-enabled delivery and transformation
 
-**Technology Leadership · Commercial Responsibility · Enterprise Delivery · AI Transformation**
+**Technology Leadership · Commercial Leadership · Enterprise Delivery · AI Transformation**
 
-[![AI Delivery](https://img.shields.io/badge/AI-Delivery-111827?style=for-the-badge)](#selected-ai--delivery-work)
-[![Atlassian](https://img.shields.io/badge/Atlassian-Jira%20%7C%20Confluence%20%7C%20Rovo-0052CC?style=for-the-badge)](#selected-ai--delivery-work)
-[![Git](https://img.shields.io/badge/Git-Delivery%20Traceability-F05032?style=for-the-badge)](#selected-ai--delivery-work)
-[![Human Review](https://img.shields.io/badge/Human-Review-2F9E44?style=for-the-badge)](#selected-ai--delivery-work)
+[![Commercial](https://img.shields.io/badge/COMMERCIAL-STRATEGY-7C3AED?style=for-the-badge)](#selected-work)
+[![AI Delivery](https://img.shields.io/badge/AI-DELIVERY-111827?style=for-the-badge)](#selected-work)
+[![Atlassian](https://img.shields.io/badge/ATLASSIAN-Jira%20%7C%20Confluence%20%7C%20Rovo-0052CC?style=for-the-badge)](#selected-work)
+[![Human Review](https://img.shields.io/badge/HUMAN-REVIEW-2F9E44?style=for-the-badge)](#selected-work)
 
 ### Paulo Silva
-**Technology & Commercial Leader · Project / Program Delivery · Business Development · AI-enabled Transformation**
+**Technology & Commercial Leader · Strategic Customers · Project / Program Delivery · AI-enabled Transformation**
 
 </div>
 
@@ -21,10 +21,10 @@
 
 This repository has **two clearly separated purposes**:
 
-1. **What I have done** — public, non-confidential summaries of project work I have actually carried out.
+1. **What I have done** — public, non-confidential summaries of work I have actually carried out.
 2. **How I would approach a new challenge** — clearly marked illustrative examples showing how I would structure leadership, commercial and Enterprise AI problems.
 
-The detailed repositories, source code, prompts, internal configurations, Jira structures and implementation details of the underlying projects remain private. The purpose here is to show **experience, working style and decision logic without publishing proprietary know-how**.
+The detailed repositories, source code, prompts, internal configurations, company data, business-plan figures, Jira structures and proprietary implementation details remain private. The purpose here is to show **experience, working style and decision logic without publishing the know-how that should remain protected**.
 
 ---
 
@@ -37,19 +37,37 @@ My career combines technical leadership, project and program delivery, consultin
 | **Technology Leadership** | Head of Development, Head of R&D and Technical Director / CTO responsibilities in industrial and technology environments |
 | **People Leadership** | Line and functional leadership of development and delivery organizations, including teams of around 40–50 professionals |
 | **Project & Program Delivery** | Complex software, cloud, engineering and transformation programs in international environments |
-| **Customer & Commercial** | Key Account Management, Business Development, customer-facing solution development, proposals, negotiations and follow-up business |
+| **Customer & Commercial** | Key Account Management, Business Development, customer-facing solution development, proposals, negotiations, account development and follow-up business |
 | **Consulting & Transformation** | Senior consulting / management roles in digital and agile transformation, governance and delivery improvement |
 | **Business Qualification** | Certified Technical Business Economist (IHK), DQR/EQF Level 7 |
 | **Sales Qualification** | Certified Sales Leader / Zertifizierter Vertriebsleiter |
 | **Current AI Focus** | AI Management, Digital Automation with AI, Prompt Engineering, Emerging Technologies, Machine Learning and practical AI projects |
 
+> **My differentiator is the combination:** I can move between the customer conversation, commercial logic, technical solution, delivery reality and leadership decision without treating them as separate worlds.
+
 ---
 
-# Selected AI & Delivery Work
+# Selected Work
 
-The examples below are based on **real project environments I built and used**. They are intentionally summarized.
+The examples below are based on **real work I carried out**. They are intentionally summarized.
 
-## 1 · SignalDesk Agent Lab — AI-assisted software delivery
+## 1 · Commercial Strategy & Go-to-Market — Smart Energy Technology
+
+**Sales Leader qualification project**
+
+I developed an end-to-end **sales strategy and sales concept for a new smart-energy technology product**.
+
+The project connected:
+
+**business context → market analysis → segmentation → customer buying motives → competitor analysis → USP / positioning → sales strategy → objectives & KPIs → communication → sales channels**
+
+The work also used SWOT and Six Sigma / DMAIC to turn analysis into structured commercial actions. Detailed forecasts, pricing and company-confidential figures remain private.
+
+[Read the factual commercial strategy case →](examples/commercial-strategy-smart-energy.md)
+
+---
+
+## 2 · SignalDesk Agent Lab — AI-assisted software delivery
 
 **Private reference project**
 
@@ -73,7 +91,7 @@ SignalDesk itself is a B2B enterprise SaaS concept focused on **risks, escalatio
 
 ---
 
-## 2 · ProfileHub — end-to-end delivery-chain validation
+## 3 · ProfileHub — end-to-end delivery-chain validation
 
 **Private reference project**
 
@@ -95,7 +113,7 @@ The project uses separate Jira, Confluence and GitHub workspaces, with GitHub as
 
 ---
 
-## 3 · GreenWear AI Service Assistant — AI project with governance and testing
+## 4 · GreenWear AI Service Assistant — AI project with governance and testing
 
 **Practical AI project / professional training**
 
@@ -125,13 +143,13 @@ The following examples are **not claims of completed past projects**. They are d
 
 How I would connect:
 
-**country strategy → strategic accounts → customer value → commercial opportunity → delivery → trust → expansion**
+**market segmentation → strategic accounts → customer value → commercial opportunity → delivery → trust → expansion**
 
-The example now contains a **First 100 Days Operating Blueprint** built around four phases:
+The example contains a **First 100 Days Operating Blueprint** built around four phases:
 
 **Understand → Position → Execute → Prove & Scale**
 
-It shows how I would establish country focus, prioritize strategic accounts, connect sales with implementation reality, identify team and partner priorities, create an operating rhythm and use evidence at day 100 to decide what deserves further investment.
+It combines market and account prioritization, customer-value logic, a focused KPI system, team and partner priorities, commercial and delivery cadence, and evidence-based investment decisions after the first 100 days.
 
 [See the illustrative Country / GM 100-day approach →](examples/how-i-would-build-an-ai-country-business.md)
 
@@ -147,14 +165,16 @@ This example shows how I connect business, technical, governance and commercial 
 
 [See the illustrative Enterprise AI opportunity approach →](examples/how-i-would-structure-an-enterprise-ai-opportunity.md)
 
-> **Important:** These two examples describe how I would work. The three project summaries above describe work I have actually carried out.
+> **Important:** These examples describe how I would work. The four project summaries above describe work I have actually carried out.
 
 ---
 
-# What the real projects demonstrate
+# What the real work demonstrates
 
-The real project examples are different in scope, but together they show practical experience with:
+Taken together, the real examples show practical experience with:
 
+- commercial strategy from **market and competitor analysis to segmentation, positioning, objectives, KPIs and sales channels**
+- Key Account / Business Development thinking connected to technical solution credibility
 - **Jira and Confluence as delivery and governance platforms**
 - **Atlassian Rovo for knowledge access across Jira and Confluence**
 - **Git / GitHub for versioned technical work and traceability**
@@ -164,17 +184,38 @@ The real project examples are different in scope, but together they show practic
 - separation of project workspaces and sources of truth
 - connecting project-management workflows with engineering delivery
 
-The detailed implementation remains private by design.
+The detailed implementation and commercially sensitive material remain private by design.
 
 ---
 
-# Why this matters in my work
+# How I think about commercial leadership
+
+My Sales Leader work reinforced a principle that also runs through my technology and delivery career:
+
+```mermaid
+flowchart LR
+    M[Market] --> C[Customer Need]
+    C --> V[Value]
+    V --> S[Solution]
+    S --> B[Commercial Case]
+    B --> D[Delivery]
+    D --> R[Result]
+    R --> X[Account Growth]
+```
+
+I do not see sales as a hand-off to delivery. Especially with complex technology, **technical credibility, realistic commitments and successful implementation are part of the commercial relationship**.
+
+Likewise, KPIs are not the strategy. They create transparency and show where performance is moving. Leadership still has to understand **why** and decide **what action changes the outcome**.
+
+---
+
+# Why this matters in Enterprise AI
 
 My background is not limited to AI tooling. I have spent more than 25 years working at the intersection of **technology, delivery, leadership and customers**.
 
-That means I look at AI-enabled delivery from several perspectives at once:
+That means I look at Enterprise AI from several perspectives at once:
 
-**business requirement → customer / stakeholder alignment → delivery structure → technical implementation → governance → measurable result**
+**market opportunity → customer / stakeholder alignment → value proposition → technical implementation → governed delivery → measurable result → expansion**
 
 This is also why I actively combine modern AI tooling with established delivery platforms rather than treating AI as an isolated layer.
 
@@ -182,7 +223,7 @@ This is also why I actively combine modern AI tooling with established delivery 
 
 ## Public portfolio boundaries
 
-To protect project know-how, this repository does **not** publish:
+To protect project and commercial know-how, this repository does **not** publish:
 
 - source code from private projects
 - credentials or API configuration
@@ -191,7 +232,10 @@ To protect project know-how, this repository does **not** publish:
 - internal Jira / Confluence content
 - infrastructure configuration
 - proprietary automation logic
-- detailed account strategies, pricing logic or private sales playbooks
+- detailed account-selection logic
+- customer-specific sales strategies
+- negotiation methods or pricing logic
+- detailed forecasts or business-plan figures
 
 Only high-level factual project summaries and clearly labelled illustrative working approaches are shown here.
 
@@ -199,7 +243,7 @@ Only high-level factual project summaries and clearly labelled illustrative work
 
 <div align="center">
 
-### TECHNOLOGY · DELIVERY · COMMERCIAL THINKING · AI
+### TECHNOLOGY · COMMERCIAL LEADERSHIP · DELIVERY · AI
 
 **Show the thinking. Prove the work. Protect the know-how.**
 
