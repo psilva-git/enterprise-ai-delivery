@@ -15,7 +15,7 @@
 
 My commercial development did not start with a sales certificate.
 
-In **1998**, I completed the **Technischer Betriebswirt IHK / Certified Technical Business Economist**, a senior cross-functional business qualification that is today classified at **DQR/EQF Level 7**. It gave me an early foundation in business management, economics and the connection between technology and enterprise decision-making.
+In **1998**, I completed the **Technischer Betriebswirt IHK / Certified Technical Business Economist**, a senior cross-functional business qualification at **Master level (DQR/EQF Level 7)**. It gave me an early foundation in business management, economics and the connection between technology and enterprise decision-making.
 
 Over the following years, my responsibilities increasingly included customers, solutions, projects, programs, leadership and business development. In **2019**, I deliberately strengthened the commercial and change-leadership side of that experience with formal **Sales Leader / Vertriebsleiter** and **Change Manager** qualifications.
 
