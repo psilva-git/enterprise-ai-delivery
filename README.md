@@ -8,7 +8,7 @@
 [![Commercial](https://img.shields.io/badge/COMMERCIAL-STRATEGY-7C3AED?style=for-the-badge)](#commercial-leadership-foundation)
 [![Sales Leadership](https://img.shields.io/badge/SALES-LEADERSHIP-0F766E?style=for-the-badge)](#commercial-leadership-foundation)
 [![AI Delivery](https://img.shields.io/badge/AI-DELIVERY-111827?style=for-the-badge)](#selected-work)
-[![Atlassian](https://img.shields.io/badge/ATLASSIAN-Jira%20%7C%20Confluence%20%7C%20Rovo-0052CC?style=for-the-badge)](#atlassian-credentials--exams)
+[![Atlassian](https://img.shields.io/badge/ATLASSIAN-Jira%20%7C%20Confluence%20%7C%20Rovo-0052CC?style=for-the-badge)](#atlassian-fundamentals-exams)
 
 ### Paulo Silva
 **Technology & Commercial Leader · Strategic Customers · Project / Program Delivery · AI-enabled Transformation**
@@ -42,7 +42,7 @@ My career combines technical leadership, project and program delivery, consultin
 | **Business Qualification** | Certified Technical Business Economist (IHK), DQR/EQF Level 7 |
 | **Sales Qualification** | Certified Sales Leader / Zertifizierter Vertriebsleiter |
 | **AI & Digital Transformation Qualification** | Completed modules in AI Management, AI Management Project Work, Emerging Technologies / Digital Transformation and Prompt Engineering; further modules currently in progress |
-| **Atlassian Credentials** | Atlassian Credentialed in Rovo Fundamentals; Atlassian Credentialed in Forge Fundamentals; Loom Fundamentals exam passed |
+| **Atlassian Exams** | Rovo Fundamentals, Forge Fundamentals and Loom Fundamentals — exams passed |
 
 > **My differentiator is the combination:** I can move between the customer conversation, commercial logic, technical solution, delivery reality and leadership decision without treating them as separate worlds.
 
@@ -67,17 +67,17 @@ The completed work is not purely theoretical. It includes practical AI project w
 
 ---
 
-# Atlassian Credentials & Exams
+# Atlassian Fundamentals Exams
 
-My Atlassian platform experience is complemented by formal Atlassian fundamentals exams and active credentials.
+My Atlassian platform experience is complemented by three formal Atlassian fundamentals exams:
 
 | Atlassian assessment | Status |
 |---|---|
-| **Rovo Fundamentals** | **Atlassian Credentialed — Active** |
-| **Forge Fundamentals** | **Atlassian Credentialed — Active** |
+| **Rovo Fundamentals** | **Exam passed** |
+| **Forge Fundamentals** | **Exam passed** |
 | **Loom Fundamentals** | **Exam passed** |
 
-The three fundamentals exams shown in my Atlassian certification profile were passed on **30 March 2026**. I deliberately distinguish here between an **active Atlassian credential** and an **exam pass** rather than treating them as equivalent certifications.
+All three fundamentals exams shown in my Atlassian certification profile were passed on **30 March 2026**.
 
 For my Enterprise AI work, **Rovo** is particularly relevant for connecting Jira and Confluence knowledge, while **Forge** provides additional platform understanding for extending and integrating the Atlassian ecosystem.
 
