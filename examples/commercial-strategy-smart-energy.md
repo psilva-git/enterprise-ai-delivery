@@ -15,18 +15,11 @@
 
 I developed an end-to-end **sales strategy and sales concept for a new smart-energy technology product**.
 
-The work was not limited to promotion or sales activity. It connected the company context, product and market with a structured commercial approach.
+The work was not limited to promotion or sales activity. It connected the company context, product, market and customer economics with a structured commercial approach.
 
-```mermaid
-flowchart LR
-    V[Vision & Business Context] --> M[Market Analysis]
-    M --> C[Customer / Market Segments]
-    C --> W[Competitive Position]
-    W --> P[Value & Positioning]
-    P --> S[Sales Strategy]
-    S --> K[Goals & KPIs]
-    K --> X[Communication & Channels]
-```
+<p align="center">
+  <img src="../assets/commercial-growth-model.svg" alt="Commercial growth model from focus through positioning and execution to measurable scale" width="100%" />
+</p>
 
 ---
 
@@ -60,18 +53,9 @@ The methodological approach was deliberately **not limited to one framework**. A
 
 ## My commercial logic
 
-The central principle of the work was that a sales strategy should not start with sales activity. It should start with **where the company can create relevant customer value and compete credibly**.
+My commercial logic starts with **market reality and customer value — not with sales activity**. The objective is to focus on the segments where the company can create relevant value, differentiate credibly and build a measurable route to market.
 
-```mermaid
-flowchart LR
-    B[Business Direction] --> A[Market Attractiveness]
-    A --> T[Target Segments]
-    T --> N[Customer Need]
-    N --> V[Value Proposition]
-    V --> D[Differentiation]
-    D --> G[Go-to-Market]
-    G --> M[Measurable Goals]
-```
+> **Focus first. Position clearly. Execute credibly. Scale evidence.**
 
 This required connecting technical product understanding with commercial questions:
 
@@ -92,15 +76,13 @@ A major part of the project was **segmentation and prioritization** rather than 
 
 The analysis included distinct smart-energy segments, buying motives, market potential and a defined core target group. Commercial objectives were then derived from the broader company objectives and strategy.
 
-That is still how I think about enterprise markets:
-
 > **Do not pursue every possible customer. Understand where value, fit, buying motivation and execution capability come together — then focus.**
 
 ---
 
 ## Competitive and strategic analysis
 
-The work combined market information with several complementary analysis and steering approaches, including:
+The work combined market information with complementary analysis and steering approaches:
 
 - competitor comparison
 - SWOT
@@ -108,6 +90,10 @@ The work combined market information with several complementary analysis and ste
 - **Six Sigma / DMAIC** for structured problem analysis and improvement
 - **Agile** for iterative learning, feedback and adaptation
 - **Kanban** for transparency, prioritization, flow and execution focus
+
+<p align="center">
+  <img src="../assets/adaptive-analysis-model.svg" alt="Adaptive analysis and steering model combining DMAIC, Agile and Kanban" width="100%" />
+</p>
 
 The purpose was not methodology for its own sake. Different methods were used to improve **decision quality, commercial prioritization and execution**, depending on the problem being addressed.
 
@@ -117,35 +103,15 @@ The purpose was not methodology for its own sake. Different methods were used to
 
 The project included planned KPIs and forecast logic as part of the commercial concept.
 
-My underlying view of sales steering is simple:
-
 > **KPIs should create transparency and support decisions. They show where performance is moving; leadership still has to understand why and decide what to change.**
 
-I prefer a small set of meaningful indicators connected to business outcomes rather than a large dashboard with little decision value.
-
-Typical dimensions I consider include:
-
-- revenue / order development
-- customer and segment performance
-- conversion and opportunity quality
-- market penetration
-- sales-channel contribution
-- customer value and retention potential
-
-The exact KPI set depends on the business model and remains context-specific.
+I prefer a small set of meaningful indicators connected to business outcomes rather than a large dashboard with little decision value. Typical dimensions include revenue / order development, customer and segment performance, conversion and opportunity quality, market penetration, sales-channel contribution and customer value / retention potential.
 
 ---
 
 ## Sales leadership perspective
 
-The broader Sales Leader qualification also covered the areas required to lead a commercial organization, including:
-
-- leadership and motivation of a sales team
-- sales and customer analytics
-- marketing strategy and market-oriented sales policy
-- steering and controlling field sales through KPIs
-- cost and performance accounting
-- personnel selection and employment-law fundamentals
+The broader Sales Leader qualification also covered the areas required to lead a commercial organization, including leadership and motivation of a sales team, sales and customer analytics, marketing strategy and market-oriented sales policy, KPI-based sales steering, cost and performance accounting, personnel selection and employment-law fundamentals.
 
 Combined with my professional customer, Key Account, Business Development and technical leadership experience, this gives me a commercial perspective that is **both strategic and execution-oriented**.
 
