@@ -3,7 +3,7 @@
 # ILLUSTRATIVE EXAMPLE
 ## How I would structure an Enterprise AI opportunity
 
-**Customer Need → Value → Technical Feasibility → Delivery → Adoption → Expansion**
+**Customer Need → Value → Technical Feasibility → Governed Delivery → Adoption → Evidence → Expansion**
 
 > **This is an illustrative example of my working approach. It is not presented as a specific customer engagement or completed production deployment.**
 
@@ -21,15 +21,9 @@ I would not start with the model or with a list of AI features. I would first cl
 - What would a materially better result look like?
 - What must remain under human control?
 
-```mermaid
-flowchart LR
-    P[Customer Problem] --> V[Value Hypothesis]
-    V --> U[AI Use Case]
-    U --> F[Feasibility]
-    F --> D[Delivery]
-    D --> A[Adoption]
-    A --> M[Measured Result]
-```
+<p align="center">
+  <img src="../assets/enterprise-ai-value-realization.svg" alt="Enterprise AI value realization from customer problem to evidence and scale" width="100%" />
+</p>
 
 ---
 
@@ -69,38 +63,21 @@ The objective of the first implementation is not maximum scope. It is **credible
 
 My practical AI work has reinforced the importance of keeping clear boundaries between automation and accountable decisions.
 
-A high-level pattern could look like this:
+<p align="center">
+  <img src="../assets/ai-human-control.svg" alt="Governed AI workflow with approved context, human review and traceability" width="100%" />
+</p>
 
-```mermaid
-flowchart LR
-    B[Business / User] --> AI[AI Assistance]
-    AI --> K[Approved Context]
-    AI --> W[Workflow / Delivery Step]
-    W --> H{Human Review Required?}
-    H -- Yes --> R[Human Decision]
-    H -- No --> O[Controlled Output]
-    R --> O
-    O --> T[Traceability / Result]
-```
-
-The exact implementation would depend on the use case, risk and enterprise environment.
+The exact implementation depends on the use case, risk and enterprise environment. The principle remains the same: **automation may accelerate work, but accountability must remain explicit**.
 
 ---
 
 ## 5 · Delivery is part of the commercial relationship
 
-I would keep account and delivery thinking connected throughout the engagement.
+I keep account and delivery thinking connected throughout the engagement.
 
-```mermaid
-flowchart LR
-    C[Customer Need] --> S[Solution]
-    S --> D[Delivery]
-    D --> R[Result]
-    R --> T[Trust]
-    T --> X[Expansion Opportunity]
-```
+A technically successful implementation can strengthen the strategic customer relationship. A poorly delivered promise can destroy it. Technical credibility, realistic commitments, implementation quality and adoption therefore belong to the commercial relationship rather than beginning only after the sale.
 
-A technically successful implementation can strengthen the strategic customer relationship. A poorly delivered promise can destroy it. For that reason, I see technical credibility and customer delivery as part of commercial leadership, not as something that begins only after the sale.
+> **Customer need → credible solution → successful delivery → measurable result → trust → expansion**
 
 ---
 
