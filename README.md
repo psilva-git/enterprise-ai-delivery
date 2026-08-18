@@ -152,7 +152,7 @@ The project environment uses:
 | **Confluence** | Governance, guardrails and project results |
 | **Atlassian Rovo** | Cross-project search and access to Jira / Confluence knowledge |
 | **GitHub** | Versioning of prompt, knowledge base and test material |
-| **ChatGPT** | Running chatbot prototype |
+| **AI** | Running chatbot prototype |
 
 The working approach includes versioned changes, documented governance and **human handover for uncertain or critical cases**.
 
