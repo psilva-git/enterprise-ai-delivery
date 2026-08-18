@@ -142,26 +142,47 @@ Further qualification modules are currently in progress.
 
 # Platform & Qualification Evidence
 
-I deliberately keep certifications in a supporting role. They validate specific areas of capability; they are not the positioning itself.
+Formal qualifications support the broader executive profile across **business, commercial leadership, AI, project/program management, agile delivery and transformation**.
 
-### Atlassian Fundamentals Exams
-
-- **Rovo Fundamentals — passed**
-- **Forge Fundamentals — passed**
-- **Loom Fundamentals — passed**
-
-### Selected additional qualifications
+### Business, Commercial & Growth
 
 - **Certified Technical Business Economist (IHK), DQR/EQF Level 7**
 - **Certified Sales Leader / Vertriebsleiter**
 - **Online Marketing Manager**
 - **SAP Sales / Sales Order Processing**
+
+### Enterprise AI & Atlassian
+
+- **AI Management**
+- **AI Management Project Work**
+- **Emerging Technologies / Digital Transformation**
+- **Prompt Engineering**
+- **Atlassian Rovo Fundamentals**
+- **Atlassian Forge Fundamentals**
+- **Atlassian Loom Fundamentals**
+
+### Project & Program Management
+
+- **Project Management Professional (PMP)**
+- **PRINCE2 Agile**
+- **PRINCE2 Foundation**
+- **Project Management**
+- **Software Project Management**
+
+### Agile, Product & Delivery
+
+- **Professional Scrum Master II (PSM II)**
+- **Professional Scrum Master I (PSM I)**
+- **Professional Scrum Product Owner I (PSPO I)**
+
+### Transformation & Operational Excellence
+
 - **Change Manager**
 - **Six Sigma Black Belt**
 - **Lean Manager**
-- **Professional Scrum Master II**
-- **Professional Scrum Product Owner I**
-- **PRINCE2 Foundation**
+- **Lean / Six Sigma Project Specialist**
+- **Lean / Six Sigma Trainer**
+- **Process Management**
 
 ---
 
