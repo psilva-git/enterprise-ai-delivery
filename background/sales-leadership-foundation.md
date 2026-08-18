@@ -1,30 +1,38 @@
 <div align="center">
 
 # SALES LEADERSHIP FOUNDATION
-## Formal commercial qualification — strategy, accounts, leadership, digital sales and controlling
+## Commercial leadership built on business management, customer responsibility and technology depth
 
-**Strategy · Organization · Sales Processes · Account Management · Negotiation · Leadership · CRM · Digital Sales · Analytics**
+**Strategy · Organization · Sales Process · Strategic Accounts · Negotiation · Leadership · CRM / Digital Sales / Analytics**
 
-> This page summarizes the scope of my formal Sales Leader qualification and the commercial methods behind my work. It does not claim that training content itself is professional execution experience. Practical experience is described separately in the portfolio and CV.
+> This page summarizes the formal commercial leadership capabilities that complement my professional customer, technology and delivery experience. The qualification itself is evidence of structured commercial development; practical execution experience is described separately in the portfolio and CV.
 
 </div>
 
 ---
 
-## Why I include this
+## The commercial foundation behind the profile
 
-My commercial background is not based only on customer-facing experience. I also completed a structured Sales Leader qualification covering the full commercial operating system — from strategy and organization through account development, negotiation, people leadership, CRM and data-driven sales control.
+My commercial development did not start with a sales certificate.
 
-The qualification consisted of **22 modules** plus a practical project in which I developed a complete sales strategy and sales concept for a new smart-energy technology product.
+In **1998**, I completed the **Technischer Betriebswirt IHK / Certified Technical Business Economist**, a senior cross-functional business qualification that is today classified at **DQR/EQF Level 7**. It gave me an early foundation in business management, economics and the connection between technology and enterprise decision-making.
+
+Over the following years, my responsibilities increasingly included customers, solutions, projects, programs, leadership and business development. In **2019**, I deliberately strengthened the commercial and change-leadership side of that experience with formal **Sales Leader / Vertriebsleiter** and **Change Manager** qualifications.
+
+The result is not a transition from “technical” to “commercial.” It is the combination of both:
+
+> **technology understanding + business management + customer leadership + commercial discipline + delivery credibility**
+
+For complex B2B and Enterprise AI environments, that combination is particularly valuable because customer growth depends on more than selling. It depends on identifying the right market problem, creating a credible value proposition, aligning stakeholders, structuring the commercial case and delivering successfully.
 
 ---
 
-## The 22-module capability map
+## Seven Commercial Leadership Capabilities
 
-Rather than reproduce course material, I group the qualification into the capabilities that matter in practice.
+Rather than reproduce course modules, I group the Sales Leader qualification into **seven capability areas that matter in practice**.
 
 ### 1 · Sales strategy & market focus
-Modules covered sales strategy, market and customer potential, competitive positioning, target groups, channel choices and the translation of company direction into commercial priorities.
+The qualification covered sales strategy, market and customer potential, competitive positioning, target groups, channel choices and the translation of company direction into commercial priorities.
 
 **What this means in my work:**
 
@@ -44,9 +52,7 @@ The qualification covered organizational design, direct and indirect channels, p
 - avoid organizational complexity that does not create customer or commercial value
 
 ### 3 · Sales process & customer lifecycle
-Several modules focused on structured sales processes: acquisition, qualification, needs analysis, solution presentation, offer and negotiation, implementation, customer development, retention, cross-selling, win-back and partner acquisition.
-
-**What this means in my work:**
+The qualification covered the end-to-end commercial process: acquisition, qualification, needs analysis, solution presentation, offer and negotiation, implementation, customer development, retention, cross-selling, win-back and partner acquisition.
 
 ```mermaid
 flowchart LR
@@ -62,7 +68,7 @@ flowchart LR
 The sales process should be synchronized with the customer's buying and implementation process — not treated as an internal funnel only.
 
 ### 4 · Strategic accounts & customer conversations
-Account strategy, relevant decision makers, buying-center thinking, structured customer conversations, needs analysis, value argumentation, presentations and customer-oriented service were covered in depth.
+Account strategy, decision makers, buying-center thinking, structured customer conversations, needs analysis, value argumentation, presentations and customer-oriented service were covered in depth.
 
 **What this means in my work:**
 
@@ -84,20 +90,18 @@ The qualification included negotiation preparation, interests versus positions, 
 - keep the relationship constructive while remaining clear on commercial boundaries
 
 ### 6 · Sales leadership, people & performance
-The leadership modules covered goal setting, operating conditions, sales steering, support and development of salespeople, change management, recruiting, role profiles, motivation and self-organization.
+The leadership content covered goal setting, operating conditions, sales steering, development of salespeople, change, recruiting, role profiles, motivation and self-organization.
 
 **What this means in my work:**
 
 - translate strategy into clear quantitative and qualitative goals
-- recruit against capability needs, not generic job titles
+- recruit and develop against capability needs
 - coach around real performance gaps
 - create clarity, accountability and decision rights
-- distinguish between a strong individual contributor and a strong people leader
+- connect individual performance with team and business outcomes
 
 ### 7 · CRM, Digital Sales & data-driven steering
-The final modules addressed integrated CRM, digital sales strategies, customer journeys, new technologies in sales and data / analytics for sales controlling.
-
-The underlying principles are still highly relevant:
+The qualification also covered integrated CRM, digital sales strategies, customer journeys, new technologies in sales and data / analytics for sales controlling.
 
 ```mermaid
 flowchart LR
@@ -110,35 +114,36 @@ flowchart LR
     E --> S
 ```
 
+The principles remain highly relevant:
+
 - **technology follows strategy and process**
-- customer data should support a coherent account view, not create another silo
+- customer data should create a coherent account view, not another silo
 - digital and personal channels should reinforce each other
 - analytics should improve decisions, prioritization and customer understanding
 - sales controlling should connect information, planning, control and management action
 
 ---
 
-## How this connects to Enterprise AI
+## Why this matters for Enterprise AI and technology leadership
 
-The technologies have changed dramatically since the qualification. The management logic has not.
+The technologies have changed dramatically. The management questions have not.
 
-Enterprise AI creates a new layer of possibilities for customer interaction, analysis, automation and delivery — but the same questions still determine commercial success:
+Enterprise AI creates new possibilities for customer interaction, analysis, automation and delivery — but commercial success still depends on:
 
-- Which market and customer problem deserves focus?
-- Where is the measurable value?
-- Who is involved in the decision?
-- How does the solution fit the customer's operating environment?
-- Can what is sold be implemented successfully?
-- How do we measure adoption and business impact?
-- What evidence justifies expansion?
+- selecting the right market and customer problem
+- making value measurable
+- understanding the stakeholder and buying system
+- connecting the solution with the customer's operating environment
+- ensuring that what is sold can actually be delivered and adopted
+- measuring impact and creating evidence for expansion
 
-That is why I combine **commercial leadership, technical understanding, customer delivery and AI** rather than treating them as separate disciplines.
+That is why I combine **commercial leadership, business management, technical understanding, Agile / hybrid delivery and Enterprise AI** rather than treating them as separate disciplines.
 
 ---
 
 ## Practical proof
 
-The formal qualification was completed with a practical project: an end-to-end sales strategy and sales concept for a smart-energy technology product, including market analysis, segmentation, competitive positioning, target-group definition, sales objectives, KPIs, communication and channels.
+The Sales Leader qualification included a practical project in which I developed an end-to-end **sales strategy and sales concept for a smart-energy technology product**, covering market analysis, segmentation, competitive positioning, target-group definition, sales objectives, KPIs, communication and channels.
 
 [Read the factual commercial strategy case →](../examples/commercial-strategy-smart-energy.md)
 
