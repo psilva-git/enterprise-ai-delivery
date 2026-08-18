@@ -41,7 +41,9 @@ The project covered:
 - market-potential assessment
 - competitor analysis
 - SWOT analysis
-- structured improvement logic using **Six Sigma / DMAIC**
+- structured improvement and decision logic using **Six Sigma / DMAIC**
+- **Agile principles for iterative learning, prioritization and adapting actions as evidence changed**
+- **Kanban principles for visualizing work, flow, priorities and execution focus**
 - assessment of sales potential
 - segmentation of relevant smart-energy markets
 - analysis of customer buying motives and economic expectations
@@ -51,6 +53,8 @@ The project covered:
 - planned commercial KPIs and forecast logic
 - communication strategy
 - sales channels to the customer
+
+The methodological approach was deliberately **not limited to one framework**. Analytical rigor, iterative learning and execution flow were combined according to the decision or problem at hand.
 
 ---
 
@@ -88,7 +92,7 @@ A major part of the project was **segmentation and prioritization** rather than 
 
 The analysis included distinct smart-energy segments, buying motives, market potential and a defined core target group. Commercial objectives were then derived from the broader company objectives and strategy.
 
-That is still how I think about enterprise markets today:
+That is still how I think about enterprise markets:
 
 > **Do not pursue every possible customer. Understand where value, fit, buying motivation and execution capability come together — then focus.**
 
@@ -96,14 +100,16 @@ That is still how I think about enterprise markets today:
 
 ## Competitive and strategic analysis
 
-The work combined market information with several structured analysis methods, including:
+The work combined market information with several complementary analysis and steering approaches, including:
 
 - competitor comparison
 - SWOT
 - strengths / weaknesses analysis
-- Six Sigma / DMAIC as a structured improvement approach
+- **Six Sigma / DMAIC** for structured problem analysis and improvement
+- **Agile** for iterative learning, feedback and adaptation
+- **Kanban** for transparency, prioritization, flow and execution focus
 
-The purpose was not methodology for its own sake. The analysis was used to derive **commercial options and actions**.
+The purpose was not methodology for its own sake. Different methods were used to improve **decision quality, commercial prioritization and execution**, depending on the problem being addressed.
 
 ---
 
@@ -150,6 +156,8 @@ Combined with my professional customer, Key Account, Business Development and te
 This project demonstrates my ability to connect:
 
 **technology → market → customer value → competitive position → commercial strategy → measurable execution**
+
+It also reflects a broader leadership principle in my work: **use the method that best fits the decision — structured analysis where rigor is needed, Agile where learning and adaptation matter, and Kanban where transparency and flow improve execution.**
 
 That combination is especially relevant when a technically sophisticated product has to be translated into a credible enterprise value proposition and a scalable market approach.
 
