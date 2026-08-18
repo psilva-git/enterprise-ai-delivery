@@ -1,9 +1,9 @@
 <div align="center">
 
 # ENTERPRISE AI · COMMERCIAL GROWTH · DELIVERY LEADERSHIP
-### Executive portfolio across market strategy, strategic customers, technology and transformation
+### Executive portfolio across market strategy, strategic customers, PMO, technology and transformation
 
-**Leadership · Commercial Growth · Strategic Accounts · Enterprise AI · Agile & Hybrid Delivery**
+**Leadership · Commercial Growth · Strategic Accounts · PMO & Portfolio Governance · Enterprise AI · Agile & Hybrid Delivery**
 
 [![Commercial](https://img.shields.io/badge/COMMERCIAL-GROWTH-7C3AED?style=for-the-badge)](#what-i-bring-as-a-lead)
 [![Strategic Accounts](https://img.shields.io/badge/STRATEGIC-ACCOUNTS-0F766E?style=for-the-badge)](#what-i-bring-as-a-lead)
@@ -11,7 +11,7 @@
 [![Atlassian](https://img.shields.io/badge/ATLASSIAN-Jira%20%7C%20Confluence%20%7C%20Rovo-0052CC?style=for-the-badge)](#platform--qualification-evidence)
 
 ### Paulo Silva
-**Technology & Commercial Leader · Enterprise AI · Strategic Customers · Agile & Hybrid Transformation & Delivery**
+**Technology & Commercial Leader · Enterprise AI · Strategic Customers · PMO · Agile & Hybrid Transformation & Delivery**
 
 </div>
 
@@ -21,15 +21,15 @@
 
 Companies do not need a Lead simply to manage activity. They need someone who can **set direction, create alignment, make decisions, develop people, win customer trust and turn strategy into measurable results**.
 
-That is where my background is strongest. I combine deep technology and engineering understanding with project/program leadership, R&D management, **Agile and hybrid delivery**, transformation expertise, commercial leadership and business management.
+That is where my background is strongest. I combine deep technology and engineering understanding with project/program leadership, **PMO and portfolio governance**, R&D management, **Agile and hybrid delivery**, transformation expertise, commercial leadership and business management.
 
-My career started in **hardware and software development**, progressed through **project management and R&D leadership**, expanded into **Agile, hybrid delivery and transformation**, and was deliberately strengthened with commercial qualifications in **Sales Leadership, Technical Business Management and Online Marketing**. In consulting and management roles, I have brought these perspectives together across complex customer and delivery environments.
+My career started in **hardware and software development**, progressed through **project management and R&D leadership**, expanded into **PMO / portfolio steering, Agile, hybrid delivery and transformation**, and was deliberately strengthened with commercial qualifications in **Sales Leadership, Technical Business Management and Online Marketing**. In consulting and management roles, I have brought these perspectives together across complex customer, portfolio and delivery environments.
 
 Today, I use that breadth to connect the **edge of technology — particularly Enterprise AI and agentic workflows — with real business value, customer growth and executable delivery**.
 
-> **Engineering depth → Project & Program Leadership → Agile & Hybrid Delivery → Commercial understanding → Transformation → Enterprise AI → Business value**
+> **Engineering depth → Project / Program & PMO Leadership → Agile & Hybrid Delivery → Commercial understanding → Transformation → Enterprise AI → Business value**
 
-The value I bring as a Lead is the ability to connect **strategy, customers, people, technology and execution** rather than optimize each in isolation.
+The value I bring as a Lead is the ability to connect **strategy, customers, people, portfolio priorities, technology and execution** rather than optimize each in isolation.
 
 ---
 
@@ -40,12 +40,13 @@ The value I bring as a Lead is the ability to connect **strategy, customers, peo
 | **Direction & Prioritization** | translate business goals into clear priorities, operating models, roadmaps and measurable outcomes |
 | **People & Organization** | lead and develop teams, create accountability, coach leaders and specialists, and build capability across distributed organizations |
 | **Customers & Commercial Growth** | build executive trust, develop strategic accounts, shape value propositions, support negotiations and connect customer needs to growth opportunities |
+| **PMO & Portfolio Governance** | establish portfolio transparency, governance and management cadence across initiatives; align roadmaps, dependencies, risks, priorities, resources, KPIs and executive reporting |
 | **Agile & Hybrid Delivery Ownership** | lead complex projects and programs end-to-end, select fit-for-purpose Agile, predictive or hybrid delivery models, manage dependencies and risks, establish governance and keep execution focused on outcomes |
 | **Technology & Enterprise AI** | assess technology pragmatically, connect architecture and delivery reality with business value, and introduce AI with governance and human control |
 | **Transformation & Change** | move organizations from strategy to adoption by aligning stakeholders, processes, tools, behaviors and decision structures |
 | **Business Value & Performance** | combine technology decisions with economic logic, customer value, KPIs and evidence-based investment and scaling decisions |
 
-This combination allows me to operate where many leadership challenges actually sit: **between business and technology, between customer promise and delivery reality, and between strategic intent and operational execution**.
+This combination allows me to operate where many leadership challenges actually sit: **between business and technology, between portfolio priorities and delivery capacity, between customer promise and delivery reality, and between strategic intent and operational execution**.
 
 ---
 
@@ -147,7 +148,7 @@ Further qualification modules are currently in progress.
 
 # Platform & Qualification Evidence
 
-Formal qualifications support the broader executive profile across **business, commercial leadership, AI, project/program management, Agile & hybrid delivery and transformation**.
+Formal qualifications support the broader executive profile across **business, commercial leadership, AI, PMO / portfolio governance, project/program management, Agile & hybrid delivery and transformation**.
 
 ### Business, Commercial & Growth
 
@@ -166,12 +167,13 @@ Formal qualifications support the broader executive profile across **business, c
 - **Atlassian Forge Fundamentals**
 - **Atlassian Loom Fundamentals**
 
-### Project, Program & Hybrid Delivery
+### Project, Program, PMO & Hybrid Delivery
 
 - **PRINCE2 Agile**
 - **PRINCE2 Foundation**
 - **Project Management**
 - **Software Project Management**
+- **PMO / Portfolio Governance experience**
 
 ### Agile, Product & Delivery
 
@@ -194,10 +196,10 @@ Formal qualifications support the broader executive profile across **business, c
 
 ```mermaid
 flowchart LR
-    S[Strategy] --> A[Alignment]
+    S[Strategy] --> P[Portfolio / PMO Priorities]
+    P --> A[Alignment]
     A --> C[Customer Value]
-    C --> P[People & Priorities]
-    P --> H[Agile / Hybrid Delivery Model]
+    C --> H[Agile / Hybrid Delivery Model]
     H --> T[Technology & Solution]
     T --> D[Delivery]
     D --> R[Result & Trust]
@@ -207,6 +209,7 @@ flowchart LR
 The management logic behind this portfolio is consistent:
 
 - **direction before activity**
+- **portfolio priorities before local optimization**
 - **customer value before product enthusiasm**
 - **people and accountability before process overhead**
 - **fit-for-purpose Agile, predictive or hybrid delivery instead of methodology dogma**
@@ -215,7 +218,7 @@ The management logic behind this portfolio is consistent:
 - **delivery as part of the commercial relationship**
 - **evidence before scale**
 
-This is how I connect leadership, commercial responsibility and enterprise technology without treating them as separate disciplines.
+This is how I connect leadership, commercial responsibility, PMO / portfolio governance and enterprise technology without treating them as separate disciplines.
 
 ---
 
@@ -232,8 +235,8 @@ To protect company, customer and project know-how, I do not publish private sour
 
 <div align="center">
 
-### LEADERSHIP · COMMERCIAL GROWTH · STRATEGIC CUSTOMERS · ENTERPRISE AI · AGILE & HYBRID DELIVERY
+### LEADERSHIP · COMMERCIAL GROWTH · STRATEGIC CUSTOMERS · PMO · ENTERPRISE AI · AGILE & HYBRID DELIVERY
 
-**Set direction. Build trust. Deliver value. Scale what works.**
+**Set direction. Align portfolios. Build trust. Deliver value. Scale what works.**
 
 </div>
