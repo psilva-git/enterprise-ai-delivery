@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+<title id="title">Evidence Based Scale Decision</title><desc id="desc">Evidence informs a leadership decision to scale, reshape or pause.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#6B7F8F"/></marker></defs>
+<rect width="1200" height="430" fill="#FFFFFF"/>
+<text x="60" y="55" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#6B7280" letter-spacing="2">EVIDENCE-BASED SCALE DECISION</text>
+<text x="60" y="99" font-family="Segoe UI,Arial,sans-serif" font-size="31" font-weight="700" fill="#0F172A">Scale what works. Reshape what is promising. Stop what has no signal.</text>
+<rect x="70" y="180" width="220" height="90" rx="18" fill="#F5F8FC" stroke="#9FB3C8" stroke-width="2"/>
+<text x="180" y="216" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" fill="#0F3D5E">EVIDENCE</text><text x="180" y="244" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#475569">market · customer · delivery</text>
+<line x1="290" y1="225" x2="415" y2="225" stroke="#6B7F8F" stroke-width="2" marker-end="url(#arrow)"/>
+<polygon points="520,155 620,225 520,295 420,225" fill="#FFF8E6" stroke="#C49A3A" stroke-width="2"/>
+<text x="520" y="216" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#7A5A13">LEADERSHIP</text><text x="520" y="239" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#7A5A13">DECISION</text>
+<line x1="620" y1="190" x2="755" y2="160" stroke="#6B7F8F" stroke-width="2" marker-end="url(#arrow)"/><line x1="620" y1="225" x2="755" y2="225" stroke="#6B7F8F" stroke-width="2" marker-end="url(#arrow)"/><line x1="620" y1="260" x2="755" y2="290" stroke="#6B7F8F" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="780" y="120" width="320" height="80" rx="18" fill="#0F3D5E"/><text x="940" y="153" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" fill="#FFFFFF">SCALE</text><text x="940" y="178" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#DCEAF3">invest people · time · market</text>
+<rect x="780" y="215" width="320" height="80" rx="18" fill="#F1F7F7" stroke="#83AFA7" stroke-width="2"/><text x="940" y="248" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" fill="#0F5B55">RESHAPE</text><text x="940" y="273" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#475569">change hypothesis · test again</text>
+<rect x="780" y="310" width="320" height="80" rx="18" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="2"/><text x="940" y="343" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" fill="#475569">PAUSE / STOP</text><text x="940" y="368" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#64748B">free capacity for stronger opportunities</text>
+</svg>
