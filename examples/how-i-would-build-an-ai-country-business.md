@@ -15,7 +15,7 @@
 
 A country business cannot be built as separate functions that hand work to each other.
 
-For me, the operating system has to connect **market strategy, customer value, strategic accounts, commercial decisions, technical credibility, customer delivery, people leadership and measurable outcomes** from the beginning.
+For me, the operating system has to connect **market strategy, customer value, strategic accounts, buying dynamics, commercial decisions, technical credibility, customer delivery, people leadership and measurable outcomes** from the beginning.
 
 ```mermaid
 flowchart LR
@@ -122,7 +122,22 @@ For the most promising segments I would want to understand:
 
 This keeps the discussion centered on **customer value rather than product features alone**.
 
-### 4 · Understand delivery reality
+### 4 · Map the buying process and stakeholder system
+
+Enterprise decisions rarely belong to one person. For priority account types, I would understand the likely roles of:
+
+- executive sponsor / business owner
+- operational users
+- technical stakeholders
+- security, legal and governance functions
+- procurement / commercial stakeholders
+- internal champions and potential blockers
+
+The question is not only **who signs**, but **who influences the decision, who carries implementation risk and who must experience value after the purchase**.
+
+I would also compare the customer's buying path with our selling process. If those two are out of sync, pipeline stages become internally neat but commercially misleading.
+
+### 5 · Understand delivery reality
 
 I would examine what successful implementation actually requires:
 
@@ -135,7 +150,7 @@ I would examine what successful implementation actually requires:
 - where sales commitments can create delivery risk
 - where implementation quality can become a competitive advantage
 
-### 5 · Assess team and capability
+### 6 · Assess team and capability
 
 I would assess the existing organization by capability rather than title:
 
@@ -150,7 +165,7 @@ I would also spend time listening to the team. KPIs can show **where** performan
 
 **Day-25 output:**
 
-> **A fact-based country hypothesis: target segments, customer-value themes, strategic account universe, delivery realities, capability gaps and explicit 100-day objectives.**
+> **A fact-based country hypothesis: target segments, customer-value themes, strategic account universe, buying dynamics, delivery realities, capability gaps and explicit 100-day objectives.**
 
 ---
 
@@ -195,7 +210,19 @@ For each priority segment, the value proposition should connect:
 
 The technology matters, but the customer ultimately buys an improvement in their business.
 
-### 3 · Establish commercial objectives
+### 3 · Choose the account and channel motion
+
+Not every opportunity needs the same route to market. I would make an explicit decision on where we need:
+
+- direct senior account ownership
+- direct sales with technical / implementation support
+- partner-led access
+- partner-assisted implementation
+- a hybrid model
+
+Partners should not be added for ecosystem optics. They should create measurable **access, credibility, specialization or delivery leverage**.
+
+### 4 · Establish commercial objectives
 
 By day 50 I would convert strategy into a small set of explicit targets.
 
@@ -209,7 +236,7 @@ Examples could include:
 
 The exact numbers would depend on the actual baseline and company targets.
 
-### 4 · Keep KPI design deliberately small
+### 5 · Keep KPI design deliberately small
 
 I prefer a few decision-relevant KPIs over dashboard volume.
 
@@ -221,15 +248,15 @@ For each decision area I would normally select only a small number of indicators
 
 > **A KPI tells me where to look. It does not replace the leadership decision about what to do.**
 
-### 5 · Make explicit choices
+### 6 · Make explicit choices
 
 By day 50 I would want clarity on:
 
 - segments receiving priority
 - accounts receiving direct senior attention
 - use cases worth pushing hardest
+- direct / partner / hybrid route-to-market choices
 - delivery capabilities to strengthen first
-- partner types that can materially improve reach or implementation
 - market activities that deserve investment
 - what we consciously **will not prioritize yet**
 
@@ -237,7 +264,7 @@ A large pipeline is not automatically a strong pipeline. I would rather have few
 
 **Day-50 output:**
 
-> **A visible country position: target segments, priority accounts, segment-specific value hypotheses, SMART commercial objectives, focused KPIs, delivery implications and resource choices.**
+> **A visible country position: target segments, priority accounts, segment-specific value hypotheses, account and channel choices, SMART commercial objectives, focused KPIs, delivery implications and resource choices.**
 
 ---
 
@@ -274,6 +301,27 @@ That means asking:
 
 This turns sales steering into **leadership and coaching**, not just reporting.
 
+### CRM and evidence discipline
+
+I would use CRM as a management system for customer context and decisions, not as an administrative burden.
+
+The principle would be:
+
+> **Strategy and process first. Technology supports the process — it does not define it.**
+
+For priority accounts I would expect enough structured information to understand:
+
+- key stakeholders and relationships
+- business problem / value hypothesis
+- opportunity stage based on customer evidence
+- next customer commitment
+- technical and delivery dependencies
+- commercial risks
+- implementation / adoption status after signing
+- expansion potential
+
+The goal is a coherent account view that supports decisions, coaching and forecasting without turning the organization into a reporting factory.
+
 ### Delivery rhythm
 
 Commercial momentum only matters if customers can be successful after the signature.
@@ -301,19 +349,26 @@ Depending on the evidence, the highest-value capability could be:
 - partner development
 - operational support for a growing country motion
 
+For each role I would define the capability profile first, then recruit against it. A strong individual seller and a strong sales leader are not automatically the same profile.
+
 The leadership task is not simply to set targets. It is to create the **conditions, clarity, capability and accountability** that make performance possible.
 
-### Partners and market presence
+### Negotiation and commercial discipline
 
-I would invest in partners, events and external visibility when they support at least one concrete outcome:
+For important opportunities I would keep negotiation preparation connected to account strategy:
 
-1. **access** to strategically relevant accounts
-2. **credibility** with buyers and technical stakeholders
-3. **delivery leverage** that improves customer success
+- desired outcome and boundaries
+- customer interests and constraints
+- our credible alternatives
+- value being created and protected
+- objective criteria where available
+- who actually influences the commercial decision
+
+The objective is not to “win” a negotiation at the expense of the relationship. It is to reach a commercially sustainable agreement without giving away value unnecessarily.
 
 **Day-75 output:**
 
-> **A working commercial and delivery system: account cadence, coaching logic, delivery visibility, capability priorities and a direct feedback loop between market response, sales behavior and implementation reality.**
+> **A working commercial and delivery system: account cadence, CRM evidence discipline, coaching logic, negotiation readiness, delivery visibility, capability priorities and a direct feedback loop between market response, sales behavior and implementation reality.**
 
 ---
 
@@ -337,21 +392,28 @@ The key question becomes:
 
 #### Commercial
 - improving quality of qualified opportunities
-- movement through decision stages
+- movement through decision stages based on customer evidence
 - stronger conversion from customer engagement to actionable next step
 - better understanding of objections and loss reasons
 - early signs of repeatability across accounts or segments
 
-#### Customer value
+#### Customer value & journey
 - clearer evidence that priority use cases matter economically or operationally
 - customer willingness to commit resources
 - evidence that the proposed value outweighs adoption effort
+- fewer disconnects between selling, buying, implementation and adoption
 
 #### Delivery
 - reduced ambiguity around implementation
 - clearer ownership
 - shorter path to first usable value
 - reusable delivery patterns emerging from real work
+
+#### Customer development
+- evidence of adoption after implementation
+- retention / relationship strength
+- follow-up opportunities based on proven value
+- expansion potential within strategic accounts
 
 #### Team
 - critical capability gaps filled or actively addressed
@@ -388,10 +450,11 @@ For a General Manager mandate, I would not treat these as disconnected functions
 | Area | My leadership focus |
 |---|---|
 | **Country Strategy** | translate global priorities into clear local market and segment choices |
-| **Strategic Accounts** | stay close to the most important customer conversations and decisions |
+| **Strategic Accounts** | stay close to the most important customer conversations, stakeholders and decisions |
 | **Customer Value** | ensure the proposition solves problems customers will actually fund |
 | **Commercial Execution** | maintain focus on opportunity quality, progress, conversion and account growth |
-| **Customer Delivery** | keep commercial promises connected to implementation reality |
+| **CRM & Evidence** | make customer context and commercial evidence visible enough to support decisions and forecasting |
+| **Customer Delivery** | keep commercial promises connected to implementation and adoption reality |
 | **Team** | set expectations, coach, create clarity, hire around critical gaps and remove blockers |
 | **Partners** | use the ecosystem where it materially improves access or delivery |
 | **Market Presence** | represent the business where visibility supports strategic outcomes |
@@ -408,9 +471,9 @@ I would want the country view to fit on one page and support decisions, not prod
 |---|---|
 | **Market / Segments** | Are we focusing on the parts of the market with the strongest value and commercial potential? |
 | **Strategic Accounts** | Are we deeper in the right accounts and with the right decision makers? |
-| **Commercial** | Are qualified opportunities progressing and converting? |
+| **Commercial** | Are qualified opportunities progressing and converting based on customer evidence? |
 | **Customer Value** | Do our strongest use cases solve problems customers will fund? |
-| **Delivery** | Can we implement what we sell with confidence and acceptable time to value? |
+| **Delivery / Adoption** | Can we implement what we sell with confidence and achieve usable customer value? |
 | **Team** | Do we have the capabilities, expectations and decision clarity to execute? |
 | **Partners** | Are they creating measurable access, credibility or delivery leverage? |
 | **Scale** | What evidence justifies the next investment? |
@@ -438,7 +501,7 @@ flowchart TB
 
 ## Leadership principle
 
-> ### **Segment before you target. Understand value before you sell. Measure what changes decisions. Keep commercial ambition connected to technical reality. Use delivery to earn trust — and evidence to decide where to scale.**
+> ### **Segment before you target. Understand value before you sell. Map the real buying process. Measure what changes decisions. Keep commercial ambition connected to technical reality. Use delivery to earn trust — and evidence to decide where to scale.**
 
 ---
 
