@@ -20,13 +20,13 @@
 | **Online Marketing Manager qualification** | Digital marketing strategy, customer journey, search, email, social media, content, campaigns and web analytics |
 | **SAP Sales / Sales Order Processing** | SAP Key User Sales with SAP ERP 6.0 plus SAP User Certification in Sales Order Processing |
 
-The combination matters more to me than the individual certificates. It connects **market understanding, customer acquisition and development, commercial steering, digital channels, enterprise processes and business economics**.
+The combination matters more than the individual certificates. It connects **market understanding, customer acquisition and development, commercial steering, digital channels, enterprise processes and business economics**.
 
 ---
 
 ## Online Marketing Manager
 
-The Online Marketing Manager qualification consisted of two modules covering both multimedia / web foundations and online marketing.
+The Online Marketing Manager qualification covered both multimedia / web foundations and online marketing.
 
 Relevant commercial topics included:
 
@@ -41,7 +41,7 @@ Relevant commercial topics included:
 - website and content-management foundations
 - digital customer acquisition and conversion logic
 
-This complements my Sales Leader background particularly well because it adds the **digital demand, channel and customer-journey perspective** to strategic account development and enterprise selling.
+This complements the Sales Leader background by adding the **digital demand, channel and customer-journey perspective** to strategic account development and enterprise selling.
 
 ---
 
@@ -58,6 +58,7 @@ Selected additional qualifications include:
 - **Moderation / Presentation**
 - **Professional Scrum Master II**
 - **Professional Scrum Product Owner I**
+- **PRINCE2 Agile**
 - **PRINCE2 Foundation in Project Management**
 
 These support the execution side of commercial and transformation mandates: aligning people, improving processes, facilitating decisions and turning strategy into an operating system.
@@ -68,16 +69,9 @@ These support the execution side of commercial and transformation mandates: alig
 
 For complex B2B technology, I do not separate commercial leadership from delivery reality.
 
-```mermaid
-flowchart LR
-    M[Market & Marketing] --> A[Customer / Account]
-    A --> V[Value Proposition]
-    V --> C[Commercial Case]
-    C --> P[Enterprise Process]
-    P --> D[Delivery & Adoption]
-    D --> R[Result]
-    R --> X[Expansion]
-```
+<p align="center">
+  <img src="../assets/commercial-growth-model.svg" alt="Commercial growth model connecting market focus, positioning, execution and measurable scale" width="100%" />
+</p>
 
 The qualifications above reinforce the same principle that runs through my professional experience:
 
