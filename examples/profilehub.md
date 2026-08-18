@@ -16,13 +16,9 @@ ProfileHub is a separate mini-project I built for a modern personal CV / consult
 
 ### Delivery flow used
 
-```mermaid
-flowchart LR
-    J[Jira Story] --> G[GitHub Change]
-    G --> L[Local Validation]
-    L --> JU[Jira Update]
-    JU --> C[Confluence Documentation]
-```
+<p align="center">
+  <img src="../assets/profilehub-delivery-chain.svg" alt="ProfileHub delivery chain from Jira story to GitHub change, validation, Jira update and Confluence documentation" width="100%" />
+</p>
 
 ### What was validated
 
