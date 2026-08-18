@@ -1,14 +1,14 @@
 <div align="center">
 
-# ENTERPRISE AI DELIVERY
+# ENTERPRISE AI · COMMERCIAL LEADERSHIP · DELIVERY
 ### Selected work across technology, commercial strategy, AI-enabled delivery and transformation
 
 **Technology Leadership · Commercial Leadership · Enterprise Delivery · AI Transformation**
 
-[![Commercial](https://img.shields.io/badge/COMMERCIAL-STRATEGY-7C3AED?style=for-the-badge)](#selected-work)
+[![Commercial](https://img.shields.io/badge/COMMERCIAL-STRATEGY-7C3AED?style=for-the-badge)](#commercial-leadership-foundation)
+[![Sales Leadership](https://img.shields.io/badge/SALES-LEADERSHIP-0F766E?style=for-the-badge)](#commercial-leadership-foundation)
 [![AI Delivery](https://img.shields.io/badge/AI-DELIVERY-111827?style=for-the-badge)](#selected-work)
 [![Atlassian](https://img.shields.io/badge/ATLASSIAN-Jira%20%7C%20Confluence%20%7C%20Rovo-0052CC?style=for-the-badge)](#selected-work)
-[![Human Review](https://img.shields.io/badge/HUMAN-REVIEW-2F9E44?style=for-the-badge)](#selected-work)
 
 ### Paulo Silva
 **Technology & Commercial Leader · Strategic Customers · Project / Program Delivery · AI-enabled Transformation**
@@ -44,6 +44,31 @@ My career combines technical leadership, project and program delivery, consultin
 | **Current AI Focus** | AI Management, Digital Automation with AI, Prompt Engineering, Emerging Technologies, Machine Learning and practical AI projects |
 
 > **My differentiator is the combination:** I can move between the customer conversation, commercial logic, technical solution, delivery reality and leadership decision without treating them as separate worlds.
+
+---
+
+# Commercial Leadership Foundation
+
+My formal Sales Leader qualification covered the **full commercial operating system**, not only selling techniques: sales strategy, organizational and channel design, sales processes, account strategy, customer conversations, negotiation, sales leadership, recruiting, CRM, digital sales and data-driven sales controlling.
+
+The qualification consisted of **22 modules plus a practical commercial strategy project**.
+
+```mermaid
+flowchart LR
+    S[Sales Strategy] --> O[Organization & Channels]
+    O --> P[Sales Process]
+    P --> A[Strategic Accounts]
+    A --> N[Negotiation]
+    N --> L[Leadership & People]
+    L --> D[CRM · Digital Sales · Analytics]
+    D --> S
+```
+
+The most important principle across those areas is simple:
+
+> **Strategy decides where to compete. Customer value decides why a buyer should act. Process and data create transparency. Leadership turns that information into focused execution.**
+
+[See the summarized Sales Leadership foundation →](background/sales-leadership-foundation.md)
 
 ---
 
@@ -149,7 +174,7 @@ The example contains a **First 100 Days Operating Blueprint** built around four 
 
 **Understand → Position → Execute → Prove & Scale**
 
-It combines market and account prioritization, customer-value logic, a focused KPI system, team and partner priorities, commercial and delivery cadence, and evidence-based investment decisions after the first 100 days.
+It combines market and account prioritization, customer-value logic, buying-process and stakeholder mapping, a focused KPI system, CRM / evidence discipline, team and partner priorities, commercial and delivery cadence, and evidence-based investment decisions after the first 100 days.
 
 [See the illustrative Country / GM 100-day approach →](examples/how-i-would-build-an-ai-country-business.md)
 
@@ -205,7 +230,7 @@ flowchart LR
 
 I do not see sales as a hand-off to delivery. Especially with complex technology, **technical credibility, realistic commitments and successful implementation are part of the commercial relationship**.
 
-Likewise, KPIs are not the strategy. They create transparency and show where performance is moving. Leadership still has to understand **why** and decide **what action changes the outcome**.
+Likewise, CRM and analytics are not the strategy. They should make customer context, opportunity movement and results visible. Leadership still has to understand **why** performance moves and decide **what action changes the outcome**.
 
 ---
 
@@ -237,7 +262,7 @@ To protect project and commercial know-how, this repository does **not** publish
 - negotiation methods or pricing logic
 - detailed forecasts or business-plan figures
 
-Only high-level factual project summaries and clearly labelled illustrative working approaches are shown here.
+Only high-level factual project summaries, a summarized qualification foundation and clearly labelled illustrative working approaches are shown here.
 
 ---
 
