@@ -116,7 +116,7 @@ The principle is straightforward:
 
 My commercial foundation combines **professional customer responsibility** with formal business-management, sales-leadership and digital-marketing qualifications.
 
-The business foundation goes back to **1998**, when I completed the **Technischer Betriebswirt IHK / Certified Technical Business Economist**, today classified at **DQR/EQF Level 7**. As my responsibilities increasingly connected technology, customers, solutions and business development, I deliberately strengthened the commercial and change-leadership side in **2019** with formal **Sales Leader / Vertriebsleiter** and **Change Manager** qualifications.
+The business foundation goes back to **1998**, when I completed the **Technischer Betriebswirt IHK / Certified Technical Business Economist** at **Master level (DQR/EQF Level 7)**. As my responsibilities increasingly connected technology, customers, solutions and business development, I deliberately strengthened the commercial and change-leadership side in **2019** with formal **Sales Leader / Vertriebsleiter** and **Change Manager** qualifications.
 
 I have worked across Key Account Management, Business Development, customer-facing solution development, proposals, commercial negotiations, account development and follow-up business.
 
@@ -154,7 +154,7 @@ Formal qualifications support the broader executive profile across **business, c
 
 ### Business, Commercial & Growth
 
-- **Certified Technical Business Economist (IHK), DQR/EQF Level 7**
+- **Certified Technical Business Economist (IHK), Master level (DQR/EQF Level 7)**
 - **Certified Sales Leader / Vertriebsleiter**
 - **Online Marketing Manager**
 - **SAP Sales / Sales Order Processing**
