@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">ProfileHub Delivery Chain</title><desc id="desc">Validated delivery chain from Jira story through GitHub and local validation back to Jira and Confluence documentation.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#6B7F8F"/></marker></defs>
+<rect width="1200" height="340" fill="#FFFFFF"/>
+<text x="60" y="55" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#6B7280" letter-spacing="2">DELIVERY CHAIN VALIDATION</text>
+<text x="60" y="99" font-family="Segoe UI,Arial,sans-serif" font-size="31" font-weight="700" fill="#0F172A">A controlled path from requirement to validated change and documented result</text>
+<g font-family="Segoe UI,Arial,sans-serif">
+<rect x="55" y="170" width="180" height="82" rx="16" fill="#F5F8FC" stroke="#9FB3C8" stroke-width="2"/><text x="145" y="203" text-anchor="middle" font-size="17" font-weight="700" fill="#0F3D5E">JIRA STORY</text><text x="145" y="228" text-anchor="middle" font-size="14" fill="#475569">scope &amp; intent</text>
+<rect x="290" y="170" width="180" height="82" rx="16" fill="#F1F7F7" stroke="#83AFA7" stroke-width="2"/><text x="380" y="203" text-anchor="middle" font-size="17" font-weight="700" fill="#0F5B55">GITHUB CHANGE</text><text x="380" y="228" text-anchor="middle" font-size="14" fill="#475569">versioned work</text>
+<rect x="525" y="170" width="180" height="82" rx="16" fill="#EEF6F8" stroke="#6C9BAD" stroke-width="2"/><text x="615" y="203" text-anchor="middle" font-size="17" font-weight="700" fill="#164E63">LOCAL VALIDATION</text><text x="615" y="228" text-anchor="middle" font-size="14" fill="#475569">test &amp; verify</text>
+<rect x="760" y="170" width="180" height="82" rx="16" fill="#F1F7F7" stroke="#83AFA7" stroke-width="2"/><text x="850" y="203" text-anchor="middle" font-size="17" font-weight="700" fill="#0F5B55">JIRA UPDATE</text><text x="850" y="228" text-anchor="middle" font-size="14" fill="#475569">status &amp; evidence</text>
+<rect x="995" y="170" width="160" height="82" rx="16" fill="#0F3D5E"/><text x="1075" y="199" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">CONFLUENCE</text><text x="1075" y="221" text-anchor="middle" font-size="16" font-weight="700" fill="#FFFFFF">DOCUMENTATION</text>
+</g>
+<line x1="235" y1="211" x2="280" y2="211" stroke="#6B7F8F" stroke-width="2" marker-end="url(#arrow)"/><line x1="470" y1="211" x2="515" y2="211" stroke="#6B7F8F" stroke-width="2" marker-end="url(#arrow)"/><line x1="705" y1="211" x2="750" y2="211" stroke="#6B7F8F" stroke-width="2" marker-end="url(#arrow)"/><line x1="940" y1="211" x2="985" y2="211" stroke="#6B7F8F" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="600" y="305" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" fill="#64748B">Traceability across delivery tooling without turning documentation into a separate afterthought</text>
+</svg>
