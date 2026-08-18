@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 650" role="img" aria-labelledby="title desc">
+<title id="title">PMO and Hybrid Delivery Operating Model</title><desc id="desc">Layered operating model from strategy through portfolio, programs, delivery model and teams to measurable value.</desc>
+<rect width="1200" height="650" fill="#FFFFFF"/>
+<text x="60" y="55" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#6B7280" letter-spacing="2">OPERATING MODEL</text>
+<text x="60" y="100" font-family="Segoe UI,Arial,sans-serif" font-size="32" font-weight="700" fill="#0F172A">PMO, portfolio governance and fit-for-purpose delivery</text>
+<rect x="80" y="145" width="930" height="70" rx="16" fill="#0F3D5E"/>
+<text x="545" y="188" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#FFFFFF">BUSINESS STRATEGY &amp; OUTCOMES</text>
+<rect x="80" y="230" width="930" height="78" rx="16" fill="#EAF2F8" stroke="#7D9BB4" stroke-width="2"/>
+<text x="545" y="265" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" fill="#0F3D5E">PORTFOLIO / PMO</text>
+<text x="545" y="291" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#475569">Priorities · Investment · Dependencies · Risk · Governance · Executive Transparency</text>
+<rect x="80" y="323" width="930" height="72" rx="16" fill="#F5F8FC" stroke="#A8B8C8" stroke-width="2"/>
+<text x="545" y="356" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" fill="#1E3A5F">PROGRAMS · PRODUCTS · PROJECTS</text>
+<text x="545" y="381" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#475569">Roadmaps · Scope · Milestones · Capacity · Cross-team Alignment</text>
+<rect x="80" y="410" width="292" height="78" rx="16" fill="#EDF7F5" stroke="#76A79E" stroke-width="2"/>
+<text x="226" y="447" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="700" fill="#0F5B55">AGILE</text><text x="226" y="472" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#475569">Learning · Feedback · Adaptation</text>
+<rect x="399" y="410" width="292" height="78" rx="16" fill="#DFF1EE" stroke="#4E948A" stroke-width="2"/>
+<text x="545" y="447" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="700" fill="#0F5B55">HYBRID</text><text x="545" y="472" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#475569">Governance + Adaptive Delivery</text>
+<rect x="718" y="410" width="292" height="78" rx="16" fill="#EDF7F5" stroke="#76A79E" stroke-width="2"/>
+<text x="864" y="447" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="700" fill="#0F5B55">PREDICTIVE</text><text x="864" y="472" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#475569">Control · Planning · Compliance</text>
+<rect x="80" y="503" width="930" height="72" rx="16" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="2"/>
+<text x="545" y="536" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" fill="#334155">TEAMS · TECHNOLOGY · CUSTOMER DELIVERY</text>
+<text x="545" y="561" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#64748B">Execution where customer value is actually created</text>
+<rect x="1035" y="145" width="100" height="430" rx="18" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="2"/>
+<g transform="translate(1090,520) rotate(-90)"><text text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#475569">GOVERNANCE · KPIs · RISK · VALUE</text></g>
+<rect x="320" y="600" width="450" height="35" rx="17" fill="#0F3D5E"/>
+<text x="545" y="623" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#FFFFFF">OUTCOME: CUSTOMER VALUE + BUSINESS PERFORMANCE</text>
+</svg>
