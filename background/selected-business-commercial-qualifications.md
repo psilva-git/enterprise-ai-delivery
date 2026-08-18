@@ -15,7 +15,7 @@
 
 | Qualification | Relevance |
 |---|---|
-| **Certified Technical Business Economist (IHK), DQR/EQF Level 7** | Business management, economics and cross-functional enterprise perspective |
+| **Certified Technical Business Economist (IHK), Master level (DQR/EQF Level 7)** | Business management, economics and cross-functional enterprise perspective |
 | **Certified Sales Leader / Vertriebsleiter** | Sales strategy, strategic accounts, leadership, customer and sales analytics, CRM, digital sales and sales controlling |
 | **Online Marketing Manager qualification** | Digital marketing strategy, customer journey, search, email, social media, content, campaigns and web analytics |
 | **SAP Sales / Sales Order Processing** | SAP Key User Sales with SAP ERP 6.0 plus SAP User Certification in Sales Order Processing |
