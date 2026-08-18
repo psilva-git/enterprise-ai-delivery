@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 470" role="img" aria-labelledby="title desc">
+<title id="title">Leadership Evolution</title><desc id="desc">Increasing leadership scope from engineering foundation to enterprise AI and business value.</desc>
+<rect width="1200" height="470" fill="#FFFFFF"/>
+<text x="60" y="55" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#6B7280" letter-spacing="2">LEADERSHIP EVOLUTION</text>
+<text x="60" y="99" font-family="Segoe UI,Arial,sans-serif" font-size="32" font-weight="700" fill="#0F172A">Increasing scope — built on the same technical foundation</text>
+<line x1="70" y1="390" x2="1130" y2="390" stroke="#CBD5E1" stroke-width="2"/>
+<path d="M1080 382 L1135 390 L1080 398" fill="none" stroke="#64748B" stroke-width="2"/>
+<text x="920" y="430" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" fill="#64748B">INCREASING LEADERSHIP SCOPE</text>
+<rect x="85" y="290" width="160" height="100" rx="14" fill="#F8FAFC" stroke="#A9B8C8" stroke-width="2"/>
+<text x="165" y="325" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#0F3D5E">ENGINEERING</text>
+<text x="165" y="351" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#475569">Hardware &amp;</text><text x="165" y="371" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#475569">Software</text>
+<rect x="260" y="245" width="175" height="145" rx="14" fill="#F8FAFC" stroke="#A9B8C8" stroke-width="2"/>
+<text x="347" y="281" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#0F3D5E">PROJECT / R&amp;D</text>
+<text x="347" y="309" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#475569">Project Management</text><text x="347" y="331" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#475569">R&amp;D Leadership</text>
+<rect x="450" y="200" width="175" height="190" rx="14" fill="#F5F8FC" stroke="#8EA8C0" stroke-width="2"/>
+<text x="537" y="236" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#0F3D5E">DELIVERY SCALE</text>
+<text x="537" y="264" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#475569">Programs · PMO</text><text x="537" y="286" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#475569">Agile · Hybrid</text><text x="537" y="308" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#475569">Transformation</text>
+<rect x="640" y="155" width="175" height="235" rx="14" fill="#F2F7F7" stroke="#79A69F" stroke-width="2"/>
+<text x="727" y="191" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#0F5B55">COMMERCIAL</text>
+<text x="727" y="219" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#475569">Business Mgmt</text><text x="727" y="241" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#475569">Sales Leadership</text><text x="727" y="263" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#475569">Marketing</text>
+<rect x="830" y="110" width="175" height="280" rx="14" fill="#EEF6F8" stroke="#5C91A6" stroke-width="2"/>
+<text x="917" y="146" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#164E63">CONSULTING</text>
+<text x="917" y="174" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#475569">Strategic Customers</text><text x="917" y="196" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#475569">Transformation</text><text x="917" y="218" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#475569">Executive Alignment</text>
+<rect x="1020" y="65" width="150" height="325" rx="14" fill="#0F3D5E"/>
+<text x="1095" y="110" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#BEE3F8">ENTERPRISE AI</text>
+<text x="1095" y="141" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#FFFFFF">Technology Edge</text><text x="1095" y="164" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#FFFFFF">Growth</text><text x="1095" y="187" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#FFFFFF">Business Value</text>
+</svg>
