@@ -13,44 +13,23 @@
 
 ## My starting point
 
-A country business cannot be built as separate functions that hand work to each other.
+A country business cannot be built as separate functions that hand work to each other. The operating system has to connect **market strategy, strategic accounts, customer value, buying dynamics, commercial decisions, technical credibility, customer delivery, people leadership and measurable outcomes** from the beginning.
 
-For me, the operating system has to connect **market strategy, customer value, strategic accounts, buying dynamics, commercial decisions, technical credibility, customer delivery, people leadership and measurable outcomes** from the beginning.
+<p align="center">
+  <img src="../assets/country-growth-flywheel.svg" alt="Country growth flywheel connecting market focus, strategic accounts, commercial motion, delivery, trust and expansion" width="100%" />
+</p>
 
-```mermaid
-flowchart LR
-    M[Market & Segments] --> A[Strategic Accounts]
-    A --> N[Customer Need]
-    N --> V[Value Proposition]
-    V --> C[Commercial Opportunity]
-    C --> D[Customer Delivery]
-    D --> R[Result & Trust]
-    R --> X[Expansion]
-    X --> A
-
-    T[Team & Partners] --> A
-    T --> D
-```
-
-The objective would not be maximum activity. It would be to create a **focused, repeatable country motion** in which the right customers receive the right commercial and technical attention — and where successful delivery strengthens future growth.
+The objective is not maximum activity. It is a **focused, repeatable country motion** in which the right customers receive the right senior, commercial and technical attention — and where successful delivery strengthens future growth.
 
 ---
 
 # First 100 Days Operating Blueprint
 
-```mermaid
-flowchart LR
-    P1[Days 1–25\nUNDERSTAND] --> P2[Days 26–50\nPOSITION]
-    P2 --> P3[Days 51–75\nEXECUTE]
-    P3 --> P4[Days 76–100\nPROVE & SCALE]
+<p align="center">
+  <img src="../assets/first-100-days.svg" alt="First 100 days operating blueprint: Understand, Position, Execute, Prove and Scale" width="100%" />
+</p>
 
-    P1 --> O1[Fact Base]
-    P2 --> O2[Choices & Targets]
-    P3 --> O3[Operating Rhythm]
-    P4 --> O4[Evidence & Scale]
-```
-
-The 100-day plan would answer four progressively harder questions:
+The plan answers four progressively harder questions:
 
 1. **Where can we win?**
 2. **Where should we focus?**
@@ -68,100 +47,33 @@ Focus is also a commercial decision.
 ## Days 1–25 · UNDERSTAND
 ### Build the fact base before accelerating
 
-The first phase would be about learning fast without confusing activity with progress.
+The first phase is about learning fast without confusing activity with progress.
 
-### 1 · Clarify mandate, expectations and measures
+### Clarify mandate and success measures
 
-Before changing the business, I would clarify with global leadership:
+I would align with global leadership on expected outcomes, strategic priorities, decision rights, existing customer commitments, resources, constraints and the management cadence. I would translate this into a concise **100-day goalsheet with SMART outcomes**.
 
-- what success in Germany is expected to mean
-- strategic priorities and non-negotiables
-- decision rights and escalation paths
-- existing commitments to customers and partners
-- available resources and critical constraints
-- the meeting and reporting rhythm
+### Segment the market before selecting accounts
 
-I would translate this into a concise **100-day goalsheet with SMART outcomes** so that expectations are explicit rather than assumed.
+I would not begin with a long list of company names. I would first create a practical segmentation of the opportunity landscape using factors such as industry, enterprise complexity, use-case relevance, urgency, integration readiness, measurable customer value, commercial potential and expansion potential.
 
-### 2 · Segment the market before selecting accounts
-
-I would not begin with a long list of company names. I would first create a practical segmentation of the German opportunity landscape.
-
-Depending on the product, segmentation could consider:
-
-- industry / business model
-- company size and enterprise complexity
-- use-case relevance
-- urgency of the business problem
-- technical and integration readiness
-- ability to create measurable customer value
-- commercial potential
-- potential to expand after a successful first implementation
-
-```mermaid
-flowchart LR
-    U[Market Universe] --> S[Segments]
-    S --> A[Attractiveness]
-    A --> F[Product / Use-Case Fit]
-    F --> T[Target Segments]
-    T --> K[Strategic Accounts]
-```
+<p align="center">
+  <img src="../assets/market-prioritization.svg" alt="Market prioritization from market universe to strategic accounts" width="100%" />
+</p>
 
 The purpose is simple: **not every technically possible customer is a commercially attractive customer**.
 
-### 3 · Understand the customer value equation
+### Understand the customer value equation
 
-For the most promising segments I would want to understand:
+For the most promising segments I would clarify what is slow, expensive, risky or difficult today; which outcome matters enough for the customer to act; who owns that outcome; what adoption costs the customer; and what makes the solution meaningfully better than alternatives or doing nothing.
 
-- What is inconvenient, slow, expensive, risky or difficult today?
-- Which outcome matters enough for the customer to act?
-- Who owns that outcome?
-- What does the customer value beyond the technology itself?
-- What does adoption cost the customer in time, change effort and integration effort?
-- What would make the solution meaningfully better than alternatives or doing nothing?
+### Map the buying system
 
-This keeps the discussion centered on **customer value rather than product features alone**.
+Enterprise decisions rarely belong to one person. I would map executive sponsors, operational users, technical stakeholders, security / legal / governance functions, procurement, champions and blockers. The selling process has to reflect the customer's real buying process rather than only an internal funnel.
 
-### 4 · Map the buying process and stakeholder system
+### Understand delivery reality and capability
 
-Enterprise decisions rarely belong to one person. For priority account types, I would understand the likely roles of:
-
-- executive sponsor / business owner
-- operational users
-- technical stakeholders
-- security, legal and governance functions
-- procurement / commercial stakeholders
-- internal champions and potential blockers
-
-The question is not only **who signs**, but **who influences the decision, who carries implementation risk and who must experience value after the purchase**.
-
-I would also compare the customer's buying path with our selling process. If those two are out of sync, pipeline stages become internally neat but commercially misleading.
-
-### 5 · Understand delivery reality
-
-I would examine what successful implementation actually requires:
-
-- typical enterprise integrations and dependencies
-- data, privacy and governance constraints
-- customer-side ownership
-- adoption friction
-- what can be repeatable
-- what remains customer-specific
-- where sales commitments can create delivery risk
-- where implementation quality can become a competitive advantage
-
-### 6 · Assess team and capability
-
-I would assess the existing organization by capability rather than title:
-
-- enterprise / strategic sales
-- account development
-- technical solutioning
-- implementation / customer delivery
-- partner development
-- operational coordination
-
-I would also spend time listening to the team. KPIs can show **where** performance differs; conversations help explain **why**.
+I would assess integrations, data and governance constraints, customer-side ownership, adoption friction, repeatability, customization risk, delivery bottlenecks and the capabilities required across enterprise sales, account development, technical solutioning, implementation, partner development and operational coordination.
 
 **Day-25 output:**
 
@@ -170,201 +82,66 @@ I would also spend time listening to the team. KPIs can show **where** performan
 ---
 
 ## Days 26–50 · POSITION
-### Turn the fact base into commercial choices
+### Turn the fact base into explicit commercial choices
 
 A country strategy becomes useful only when it changes where **time, senior attention, people and investment** go.
 
-### 1 · Prioritize strategic accounts
+### Prioritize strategic accounts
 
-```mermaid
-flowchart TB
-    U[Relevant Account Universe] --> T1[Tier 1 · Strategic Bets]
-    U --> T2[Tier 2 · Build]
-    U --> T3[Tier 3 · Partner / Monitor]
+<p align="center">
+  <img src="../assets/account-tiering.svg" alt="Strategic account tiering with Tier 1 strategic bets, Tier 2 build accounts and Tier 3 partner or monitor accounts" width="100%" />
+</p>
 
-    T1 --> E[Executive Engagement]
-    E --> P[Problem & Value]
-    P --> F[Technical Feasibility]
-    F --> N[Next Commercial Step]
-```
+For priority accounts I would want concise answers to: **Why this account? Why now? What problem is worth solving? Who matters in the decision? What value can we credibly create? Can we deliver it? What is the next customer action? What can expand if the first use case succeeds?**
 
-For each priority account I would want a concise answer to:
+### Define value by segment
 
-- **Why this account?**
-- **Why now?**
-- **What business problem is worth solving?**
-- **Who matters in the decision?**
-- **What customer value can we credibly create?**
-- **What is the first viable use case?**
-- **Can we deliver it successfully?**
-- **What is the next concrete customer action?**
-- **What can expand if the first use case succeeds?**
-
-### 2 · Define the value proposition by segment
-
-I would avoid one generic message for the whole market.
-
-For each priority segment, the value proposition should connect:
+I would avoid one generic message for the whole market. For each priority segment, the proposition should connect:
 
 **customer problem → differentiated capability → operational impact → economic relevance → adoption path**
 
-The technology matters, but the customer ultimately buys an improvement in their business.
+### Choose the route to market
 
-### 3 · Choose the account and channel motion
+Not every opportunity needs the same motion. I would explicitly decide where we need direct senior account ownership, direct sales with technical support, partner-led access, partner-assisted implementation or a hybrid model. Partners should create measurable **access, credibility, specialization or delivery leverage**.
 
-Not every opportunity needs the same route to market. I would make an explicit decision on where we need:
+### Establish objectives and a small KPI set
 
-- direct senior account ownership
-- direct sales with technical / implementation support
-- partner-led access
-- partner-assisted implementation
-- a hybrid model
-
-Partners should not be added for ecosystem optics. They should create measurable **access, credibility, specialization or delivery leverage**.
-
-### 4 · Establish commercial objectives
-
-By day 50 I would convert strategy into a small set of explicit targets.
-
-Examples could include:
-
-- priority-account penetration
-- qualified opportunity progression
-- first customer implementation milestones
-- partner activation
-- critical hiring milestones
-
-The exact numbers would depend on the actual baseline and company targets.
-
-### 5 · Keep KPI design deliberately small
-
-I prefer a few decision-relevant KPIs over dashboard volume.
-
-For each decision area I would normally select only a small number of indicators that show:
-
-- **input / leading signal** — is the required activity or condition present?
-- **conversion / movement** — is the opportunity progressing?
-- **outcome** — did it create customer and commercial value?
+By day 50 I would translate strategy into a small number of explicit commercial and operating targets. KPIs should cover leading signals, opportunity movement and outcomes — enough to support decisions, not enough to create a reporting factory.
 
 > **A KPI tells me where to look. It does not replace the leadership decision about what to do.**
 
-### 6 · Make explicit choices
-
-By day 50 I would want clarity on:
-
-- segments receiving priority
-- accounts receiving direct senior attention
-- use cases worth pushing hardest
-- direct / partner / hybrid route-to-market choices
-- delivery capabilities to strengthen first
-- market activities that deserve investment
-- what we consciously **will not prioritize yet**
-
-A large pipeline is not automatically a strong pipeline. I would rather have fewer opportunities with **real customer pain, credible ownership, technical feasibility and a concrete next step** than a large list of names without momentum.
-
 **Day-50 output:**
 
-> **A visible country position: target segments, priority accounts, segment-specific value hypotheses, account and channel choices, SMART commercial objectives, focused KPIs, delivery implications and resource choices.**
+> **A visible country position: target segments, priority accounts, segment-specific value hypotheses, account and channel choices, focused objectives and KPIs, delivery implications and resource choices.**
 
 ---
 
 ## Days 51–75 · EXECUTE
 ### Convert choices into an operating rhythm
 
-This is where strategy has to survive contact with customers, delivery teams and real constraints.
+This is where strategy has to survive contact with customers, teams and real constraints.
 
 ### Commercial rhythm
 
-I would establish a disciplined strategic-account cadence focused on:
-
-- customer progress, not internal activity
-- explicit next actions and ownership
-- access to the real decision makers
-- customer value and urgency
-- technical feasibility before over-committing
-- commercial path and timing
-- learning from stalled and lost opportunities
-- follow-up / expansion logic where value is proven
-
-### Customer conversations
-
-The account team should understand not only **what happened**, but what behavior and conditions increase the probability of success.
-
-That means asking:
-
-- Which conversations move opportunities forward?
-- Where are we speaking with the wrong level or stakeholder?
-- Which objections repeat?
-- Which value arguments create engagement?
-- Where does technical credibility increase trust?
-- Which opportunities should be reshaped rather than pushed?
-
-This turns sales steering into **leadership and coaching**, not just reporting.
+I would establish a strategic-account cadence focused on customer progress rather than internal activity: explicit next actions, access to the real decision makers, customer value and urgency, technical feasibility before commitment, commercial path and timing, learning from stalled / lost opportunities and expansion logic where value is proven.
 
 ### CRM and evidence discipline
 
-I would use CRM as a management system for customer context and decisions, not as an administrative burden.
-
-The principle would be:
+CRM should support customer context and management decisions, not become administrative overhead. For priority accounts I would expect enough structure to understand stakeholders, business problem, value hypothesis, customer-evidence stage, next commitment, technical dependencies, commercial risks, implementation status and expansion potential.
 
 > **Strategy and process first. Technology supports the process — it does not define it.**
 
-For priority accounts I would expect enough structured information to understand:
-
-- key stakeholders and relationships
-- business problem / value hypothesis
-- opportunity stage based on customer evidence
-- next customer commitment
-- technical and delivery dependencies
-- commercial risks
-- implementation / adoption status after signing
-- expansion potential
-
-The goal is a coherent account view that supports decisions, coaching and forecasting without turning the organization into a reporting factory.
-
 ### Delivery rhythm
 
-Commercial momentum only matters if customers can be successful after the signature.
+Commercial momentum only matters if customers can be successful after the signature. I would keep implementation readiness, dependencies, blockers, customer ownership, time to first usable value, adoption risk and escalation points visible.
 
-I would keep visible:
+### Team and capability
 
-- implementation readiness
-- dependencies and blockers
-- customer-side ownership
-- time to first usable value
-- adoption risks
-- customization / integration risks
-- escalation points requiring leadership decisions
+Hiring should follow the actual bottleneck rather than an ideal organization chart. The highest-value next capability could be strategic enterprise sales, account development, technical pre-sales, implementation, partner development or operational support. The leadership task is to create the **conditions, clarity, capability and accountability** that make performance possible.
 
-### Team
+### Negotiation discipline
 
-I would set clear expectations and let hiring follow the actual bottleneck rather than an ideal organization chart.
-
-Depending on the evidence, the highest-value capability could be:
-
-- strategic enterprise sales
-- account development
-- technical solution / pre-sales capability
-- implementation and customer delivery
-- partner development
-- operational support for a growing country motion
-
-For each role I would define the capability profile first, then recruit against it. A strong individual seller and a strong sales leader are not automatically the same profile.
-
-The leadership task is not simply to set targets. It is to create the **conditions, clarity, capability and accountability** that make performance possible.
-
-### Negotiation and commercial discipline
-
-For important opportunities I would keep negotiation preparation connected to account strategy:
-
-- desired outcome and boundaries
-- customer interests and constraints
-- our credible alternatives
-- value being created and protected
-- objective criteria where available
-- who actually influences the commercial decision
-
-The objective is not to “win” a negotiation at the expense of the relationship. It is to reach a commercially sustainable agreement without giving away value unnecessarily.
+For important opportunities I would keep negotiation preparation connected to account strategy: desired outcome and boundaries, customer interests and constraints, alternatives, value to protect, objective criteria and the real commercial decision makers.
 
 **Day-75 output:**
 
@@ -377,65 +154,19 @@ The objective is not to “win” a negotiation at the expense of the relationsh
 
 By this stage I would expect enough evidence to distinguish promising hypotheses from repeatable motions.
 
-The key question becomes:
+I would look for evidence across:
 
-> **What is working strongly enough that we should now scale it — and what should we stop, reshape or deprioritize?**
+- **Market & strategic accounts** — stronger segment response, deeper executive engagement, validated problems, concrete buying / implementation steps
+- **Commercial** — improving opportunity quality, progression based on customer evidence, stronger conversion, clearer loss reasons
+- **Customer value** — economic or operational relevance, willingness to commit resources, adoption effort justified by value
+- **Delivery** — clearer ownership, shorter path to usable value, reusable delivery patterns
+- **Customer development** — adoption, relationship strength, follow-up and expansion potential
+- **Team** — capability gaps addressed, decision rights clearer, stronger accountability
+- **Partners** — measurable access, credibility or delivery leverage
 
-### Evidence I would look for
-
-#### Market & strategic accounts
-- target segments showing stronger response than others
-- deeper executive engagement in priority accounts
-- validated business problems
-- concrete buying or implementation steps
-- clearer paths from first use case to expansion
-
-#### Commercial
-- improving quality of qualified opportunities
-- movement through decision stages based on customer evidence
-- stronger conversion from customer engagement to actionable next step
-- better understanding of objections and loss reasons
-- early signs of repeatability across accounts or segments
-
-#### Customer value & journey
-- clearer evidence that priority use cases matter economically or operationally
-- customer willingness to commit resources
-- evidence that the proposed value outweighs adoption effort
-- fewer disconnects between selling, buying, implementation and adoption
-
-#### Delivery
-- reduced ambiguity around implementation
-- clearer ownership
-- shorter path to first usable value
-- reusable delivery patterns emerging from real work
-
-#### Customer development
-- evidence of adoption after implementation
-- retention / relationship strength
-- follow-up opportunities based on proven value
-- expansion potential within strategic accounts
-
-#### Team
-- critical capability gaps filled or actively addressed
-- clearer decision rights
-- stronger accountability
-- fewer hand-off problems between commercial and technical functions
-
-#### Partners
-- evidence that selected partners actually create access, credibility or delivery capacity
-
-### Scale decision
-
-```mermaid
-flowchart LR
-    E[Evidence] --> D{Decision}
-    D -->|Working| S[Scale]
-    D -->|Promising but weak| R[Reshape]
-    D -->|No signal| P[Pause / Stop]
-
-    S --> I[Invest People / Time / Market]
-    R --> T[Test Again]
-```
+<p align="center">
+  <img src="../assets/scale-decision.svg" alt="Evidence based leadership decision to scale, reshape or pause" width="100%" />
+</p>
 
 **Day-100 output:**
 
@@ -479,23 +210,6 @@ I would want the country view to fit on one page and support decisions, not prod
 | **Scale** | What evidence justifies the next investment? |
 
 For each dimension I would keep the KPI set deliberately small and connect it to a specific management decision.
-
-```mermaid
-flowchart TB
-    C[Country Outcome] --> M[Market Focus]
-    C --> A[Strategic Accounts]
-    C --> B[Commercial Momentum]
-    C --> D[Customer Delivery]
-    C --> T[Team Capability]
-    C --> P[Partner Leverage]
-
-    M --> X[Evidence for Scale]
-    A --> X
-    B --> X
-    D --> X
-    T --> X
-    P --> X
-```
 
 ---
 
