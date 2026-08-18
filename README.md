@@ -127,14 +127,12 @@ My **Online Marketing Manager** qualification adds digital strategy, customer jo
 
 My current professional qualification adds a formal management layer to the hands-on AI work.
 
-Completed:
+**Completed qualifications:**
 
-| Qualification | Result |
-|---|---|
-| **AI Management** | 80 training units · **100% examination result** |
-| **AI Management Project Work** | 40 training units · **100% examination result** |
-| **Emerging Technologies / Digital Transformation** | 40 training units · **100% examination result** |
-| **Prompt Engineering** | completed |
+- **AI Management**
+- **AI Management Project Work**
+- **Emerging Technologies / Digital Transformation**
+- **Prompt Engineering**
 
 The content includes AI strategy, business models, technology assessment, stakeholder management, governance, data ethics, risk management, AI-team setup, change management and practical AI project work.
 
