@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 722" role="img" aria-labelledby="title desc">
+<title id="title">Seven Commercial Leadership Capabilities</title><desc id="desc">Executive capability architecture covering strategy, channels, lifecycle, accounts, negotiation, people and digital sales analytics.</desc>
+<rect width="1200" height="660" fill="#FFFFFF"/>
+<text x="60" y="55" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#6B7280" letter-spacing="2">COMMERCIAL LEADERSHIP ARCHITECTURE</text>
+<text x="60" y="101" font-family="Segoe UI,Arial,sans-serif" font-size="32" font-weight="700" fill="#0F172A">Seven capabilities that operate as one commercial system</text>
+<rect x="60" y="145" width="520" height="105" rx="18" fill="#F5F8FC" stroke="#9FB3C8" stroke-width="2"/>
+<text x="90" y="185" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" fill="#0F3D5E">01 · SALES STRATEGY &amp; MARKET FOCUS</text>
+<text x="90" y="216" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#475569">Where to compete · customer value · market potential · priorities</text>
+<rect x="620" y="145" width="520" height="105" rx="18" fill="#F5F8FC" stroke="#9FB3C8" stroke-width="2"/>
+<text x="650" y="185" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" fill="#0F3D5E">02 · ORGANIZATION &amp; CHANNELS</text>
+<text x="650" y="216" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#475569">Operating model · direct / partner / hybrid motions · decision rights</text>
+<rect x="60" y="270" width="520" height="105" rx="18" fill="#F1F7F7" stroke="#83AFA7" stroke-width="2"/>
+<text x="90" y="310" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" fill="#0F5B55">03 · SALES PROCESS &amp; CUSTOMER LIFECYCLE</text>
+<text x="90" y="341" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#475569">Acquire · qualify · solve · deliver · adopt · retain · expand</text>
+<rect x="620" y="270" width="520" height="105" rx="18" fill="#F1F7F7" stroke="#83AFA7" stroke-width="2"/>
+<text x="650" y="310" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" fill="#0F5B55">04 · STRATEGIC ACCOUNTS &amp; CUSTOMER VALUE</text>
+<text x="650" y="341" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#475569">Buying system · stakeholder alignment · value conversations · trust</text>
+<rect x="60" y="395" width="520" height="105" rx="18" fill="#EEF6F8" stroke="#6C9BAD" stroke-width="2"/>
+<text x="90" y="435" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" fill="#164E63">05 · NEGOTIATION &amp; COMMERCIAL DISCIPLINE</text>
+<text x="90" y="466" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#475569">Value protection · alternatives · boundaries · sustainable agreements</text>
+<rect x="620" y="395" width="520" height="105" rx="18" fill="#EEF6F8" stroke="#6C9BAD" stroke-width="2"/>
+<text x="650" y="435" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" fill="#164E63">06 · PEOPLE &amp; PERFORMANCE</text>
+<text x="650" y="466" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#475569">Leadership · capability · coaching · accountability · goals</text>
+<rect x="220" y="525" width="760" height="92" rx="18" fill="#0F3D5E"/>
+<text x="600" y="562" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="700" fill="#FFFFFF">07 · CRM · DIGITAL SALES · ANALYTICS</text>
+<text x="600" y="591" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#DCEAF3">Customer context · journey · evidence · insight · decision support</text>
+<!-- acronym-svg-legend:start -->
+<g id="acronym-legend" aria-label="Terminology legend" data-base-height="660">
+<rect x="0" y="660" width="1200" height="62" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
+<text x="21.6" y="682" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#334155">Terminology</text>
+<text x="21.6" y="703" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#475569">CRM = Customer Relationship Management</text>
+</g>
+<!-- acronym-svg-legend:end -->
+</svg>

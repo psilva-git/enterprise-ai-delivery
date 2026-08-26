@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 742" role="img" aria-labelledby="title desc">
+<title id="title">Executive Leadership Architecture</title><desc id="desc">A leadership system connecting strategy, customers, people, delivery, technology and business value.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#5B6B7A"/></marker></defs>
+<rect width="1200" height="680" fill="#FFFFFF"/>
+<text x="60" y="58" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#6B7280" letter-spacing="2">EXECUTIVE LEADERSHIP SYSTEM</text>
+<text x="60" y="105" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="700" fill="#0F172A">From strategic direction to measurable business value</text>
+<rect x="370" y="145" width="460" height="86" rx="18" fill="#0F3D5E"/>
+<text x="600" y="181" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#BEE3F8">OUTCOME</text>
+<text x="600" y="210" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#FFFFFF">BUSINESS VALUE &amp; GROWTH</text>
+<line x1="300" y1="350" x2="475" y2="230" stroke="#5B6B7A" stroke-width="2.4" marker-end="url(#arrow)"/>
+<line x1="600" y1="350" x2="600" y2="235" stroke="#5B6B7A" stroke-width="2.4" marker-end="url(#arrow)"/>
+<line x1="900" y1="350" x2="725" y2="230" stroke="#5B6B7A" stroke-width="2.4" marker-end="url(#arrow)"/>
+<rect x="80" y="290" width="300" height="130" rx="18" fill="#F5F8FC" stroke="#9FB3C8" stroke-width="2"/>
+<text x="105" y="328" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#0F3D5E">STRATEGY &amp; PORTFOLIO</text>
+<text x="105" y="360" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#334155">Direction · Priorities · PMO</text>
+<text x="105" y="388" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#334155">Investment · Governance</text>
+<rect x="450" y="290" width="300" height="130" rx="18" fill="#F5F8FC" stroke="#9FB3C8" stroke-width="2"/>
+<text x="475" y="328" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#0F3D5E">CUSTOMERS &amp; GROWTH</text>
+<text x="475" y="360" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#334155">Strategic Accounts · Value</text>
+<text x="475" y="388" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#334155">Commercial Execution</text>
+<rect x="820" y="290" width="300" height="130" rx="18" fill="#F5F8FC" stroke="#9FB3C8" stroke-width="2"/>
+<text x="845" y="328" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#0F3D5E">TECHNOLOGY &amp; AI</text>
+<text x="845" y="360" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#334155">Architecture · Enterprise AI</text>
+<text x="845" y="388" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#334155">Governed Adoption</text>
+<rect x="265" y="485" width="300" height="105" rx="18" fill="#EDF7F5" stroke="#77A9A2" stroke-width="2"/>
+<text x="415" y="525" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#0F5B55">PEOPLE &amp; ORGANIZATION</text>
+<text x="415" y="556" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#334155">Leadership · Capability · Alignment</text>
+<rect x="635" y="485" width="300" height="105" rx="18" fill="#EDF7F5" stroke="#77A9A2" stroke-width="2"/>
+<text x="785" y="525" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#0F5B55">AGILE &amp; HYBRID DELIVERY</text>
+<text x="785" y="556" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#334155">Execution · Risk · Learning · Flow</text>
+<line x1="415" y1="485" x2="300" y2="421" stroke="#77A9A2" stroke-width="2"/>
+<line x1="415" y1="485" x2="600" y2="421" stroke="#77A9A2" stroke-width="2"/>
+<line x1="785" y1="485" x2="600" y2="421" stroke="#77A9A2" stroke-width="2"/>
+<line x1="785" y1="485" x2="900" y2="421" stroke="#77A9A2" stroke-width="2"/>
+<rect x="60" y="625" width="1080" height="36" rx="18" fill="#F8FAFC"/>
+<text x="600" y="649" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" fill="#64748B">Governance · PMO · Transformation · Evidence · Customer Value</text>
+<!-- acronym-svg-legend:start -->
+<g id="acronym-legend" aria-label="Terminology legend" data-base-height="680">
+<rect x="0" y="680" width="1200" height="62" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
+<text x="21.6" y="702" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#334155">Terminology</text>
+<text x="21.6" y="723" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#475569">AI = Artificial Intelligence · PMO = Project Management Office</text>
+</g>
+<!-- acronym-svg-legend:end -->
+</svg>

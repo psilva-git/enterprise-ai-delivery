@@ -1,0 +1,53 @@
+name: Acronym readability guard
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "**/*.md"
+      - "**/*.svg"
+      - "scripts/acronym_guard.py"
+      - ".github/workflows/acronym-guard.yml"
+  pull_request:
+    branches: [main]
+    paths:
+      - "**/*.md"
+      - "**/*.svg"
+      - "scripts/acronym_guard.py"
+      - ".github/workflows/acronym-guard.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  normalize-and-check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.ref || github.event.repository.default_branch }}
+          fetch-depth: 0
+
+      - name: Normalize same-page and same-visual terminology
+        run: python scripts/acronym_guard.py --fix
+
+      - name: Commit normalization when files changed
+        shell: bash
+        run: |
+          if git diff --quiet; then
+            echo "No acronym normalization needed."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Normalize acronym clarity across reader-facing content [skip ci]"
+          BRANCH="${GITHUB_HEAD_REF:-${{ github.event.repository.default_branch }}}"
+          git pull --rebase origin "$BRANCH"
+          git push origin HEAD:"$BRANCH"
+
+      - name: Verify terminology rule
+        run: python scripts/acronym_guard.py

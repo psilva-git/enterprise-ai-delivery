@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 882" role="img" aria-labelledby="title desc">
+<title id="title">PMO, Transformation and Delivery Governance Operating Model</title>
+<desc id="desc">Executive operating model linking strategy, portfolio governance, programs, fit-for-purpose delivery, teams and business outcomes with governance, KPIs, risk and value controls.</desc>
+<defs>
+  <linearGradient id="navy" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0B2E4F"/>
+    <stop offset="1" stop-color="#114D73"/>
+  </linearGradient>
+  <linearGradient id="teal" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0F766E"/>
+    <stop offset="1" stop-color="#16958B"/>
+  </linearGradient>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+    <feDropShadow dx="0" dy="5" stdDeviation="7" flood-color="#0F172A" flood-opacity="0.10"/>
+  </filter>
+  <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+    <path d="M0,0 L10,5 L0,10 Z" fill="#1D5B89"/>
+  </marker>
+</defs>
+
+<rect width="1400" height="820" fill="#FFFFFF"/>
+
+<!-- Header -->
+<text x="70" y="58" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#0F766E" letter-spacing="3">OPERATING MODEL</text>
+<text x="70" y="102" font-family="Segoe UI,Arial,sans-serif" font-size="34" font-weight="700" fill="#0F172A">PMO, portfolio governance and fit-for-purpose delivery</text>
+<line x1="70" y1="126" x2="1328" y2="126" stroke="#D6E0E8" stroke-width="2"/>
+
+<!-- Main flow container -->
+<g filter="url(#shadow)">
+  <rect x="85" y="165" width="1050" height="84" rx="20" fill="url(#navy)"/>
+</g>
+<circle cx="135" cy="207" r="25" fill="#FFFFFF" fill-opacity="0.12" stroke="#FFFFFF" stroke-opacity="0.45"/>
+<circle cx="135" cy="207" r="12" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+<circle cx="135" cy="207" r="4" fill="#FFFFFF"/>
+<path d="M145 196 L158 183 M151 183 H158 V190" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="610" y="216" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#FFFFFF">BUSINESS STRATEGY &amp; OUTCOMES</text>
+
+<!-- Arrows -->
+<line x1="610" y1="252" x2="610" y2="270" stroke="#1D5B89" stroke-width="3" marker-end="url(#arrow)"/>
+
+<!-- Portfolio -->
+<g filter="url(#shadow)">
+  <rect x="85" y="276" width="1050" height="92" rx="18" fill="#EEF5FA" stroke="#9AB4C9" stroke-width="2"/>
+</g>
+<circle cx="135" cy="322" r="25" fill="#0B3B67"/>
+<path d="M119 333 H151 M123 330 V311 H147 V330 M127 311 L135 301 L143 311 M131 316 V330 M139 316 V330" fill="none" stroke="#FFFFFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="610" y="316" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="700" fill="#0F3D5E">PORTFOLIO / PMO</text>
+<text x="610" y="345" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15.5" fill="#475569">Priorities · Investment · Capacity · Dependencies · Risk · Governance · Executive Transparency</text>
+
+<line x1="610" y1="371" x2="610" y2="389" stroke="#1D5B89" stroke-width="3" marker-end="url(#arrow)"/>
+
+<!-- Programs -->
+<g filter="url(#shadow)">
+  <rect x="85" y="395" width="1050" height="92" rx="18" fill="#F8FAFC" stroke="#C1CFDB" stroke-width="2"/>
+</g>
+<circle cx="135" cy="441" r="25" fill="#0B3B67"/>
+<path d="M120 448 C128 436 142 436 150 424 M124 450 H146 M137 424 L146 424 L146 433" fill="none" stroke="#FFFFFF" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="610" y="435" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="700" fill="#163A5C">PROGRAMS · PRODUCTS · PROJECTS</text>
+<text x="610" y="464" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15.5" fill="#475569">Roadmaps · Scope · Milestones · Resources · Cross-team Alignment · Delivery Commitments</text>
+
+<line x1="610" y1="490" x2="610" y2="507" stroke="#1D5B89" stroke-width="3" marker-end="url(#arrow)"/>
+
+<!-- Delivery modes -->
+<g filter="url(#shadow)">
+  <rect x="85" y="513" width="328" height="105" rx="18" fill="#F0FAF8" stroke="#67A99F" stroke-width="2"/>
+  <rect x="446" y="513" width="328" height="105" rx="18" fill="#E3F5F2" stroke="#3F958A" stroke-width="2.3"/>
+  <rect x="807" y="513" width="328" height="105" rx="18" fill="#F2F7FB" stroke="#7DA3C2" stroke-width="2"/>
+</g>
+<circle cx="129" cy="565" r="25" fill="url(#teal)"/>
+<path d="M116 565 A14 14 0 1 0 130 551 M130 551 L130 558 M130 551 L123 551" fill="none" stroke="#FFFFFF" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="264" y="555" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="700" fill="#0F6C65">AGILE</text>
+<text x="264" y="583" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#475569">Learning · Feedback · Adaptation</text>
+
+<circle cx="490" cy="565" r="25" fill="url(#teal)"/>
+<path d="M478 553 L490 565 L502 553 M490 565 V579 M490 565 L479 575 M490 565 L501 575" fill="none" stroke="#FFFFFF" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="625" y="555" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="700" fill="#0F6C65">HYBRID</text>
+<text x="625" y="582" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#475569">Governance + Adaptive Delivery</text>
+
+<circle cx="851" cy="565" r="25" fill="#2D6EA3"/>
+<path d="M840 553 H862 V579 H840 Z M845 548 H857 V555 H845 Z M845 562 H857 M845 569 H857" fill="none" stroke="#FFFFFF" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="986" y="555" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="700" fill="#245C8A">PREDICTIVE</text>
+<text x="986" y="582" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#475569">Control · Planning · Compliance</text>
+
+<line x1="610" y1="621" x2="610" y2="638" stroke="#1D5B89" stroke-width="3" marker-end="url(#arrow)"/>
+
+<!-- Delivery execution -->
+<g filter="url(#shadow)">
+  <rect x="85" y="644" width="1050" height="88" rx="18" fill="#F8FAFC" stroke="#C7D4DF" stroke-width="2"/>
+</g>
+<circle cx="135" cy="688" r="25" fill="#0B3B67"/>
+<path d="M121 694 C121 687 126 682 133 682 C140 682 145 687 145 694 M127 678 A6 6 0 1 1 139 678 M145 687 C151 687 155 691 155 696" fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round"/>
+<text x="610" y="680" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="700" fill="#183B5D">TEAMS · TECHNOLOGY · CUSTOMER DELIVERY</text>
+<text x="610" y="708" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15.5" fill="#64748B">Execution where customer value is created — with accountability, standards and delivery transparency</text>
+
+<!-- Governance rail -->
+<g filter="url(#shadow)">
+  <rect x="1170" y="165" width="160" height="567" rx="24" fill="#F4F7FA" stroke="#C3D1DC" stroke-width="2"/>
+</g>
+<circle cx="1250" cy="216" r="28" fill="#0B3B67"/>
+<path d="M1250 199 L1265 205 V217 C1265 229 1258 238 1250 242 C1242 238 1235 229 1235 217 V205 Z M1243 218 L1248 223 L1258 212" fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1250" y="265" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" fill="#183B5D">CONTROL PLANE</text>
+<line x1="1201" y1="286" x2="1299" y2="286" stroke="#CBD5E1" stroke-width="1.5"/>
+
+<rect x="1193" y="315" width="114" height="56" rx="13" fill="#E8F2F8"/>
+<text x="1250" y="338" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" fill="#1D4F73">GOVERNANCE</text>
+<text x="1250" y="358" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="12.5" fill="#64748B">Decisions · Roles</text>
+
+<rect x="1193" y="390" width="114" height="56" rx="13" fill="#EAF7F5"/>
+<text x="1250" y="413" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" fill="#0F766E">KPIs / OKRs</text>
+<text x="1250" y="433" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="12.5" fill="#64748B">Evidence · Trend</text>
+
+<rect x="1193" y="465" width="114" height="56" rx="13" fill="#F5F1EA"/>
+<text x="1250" y="488" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" fill="#805A24">RISK</text>
+<text x="1250" y="508" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="12.5" fill="#64748B">Escalation · Action</text>
+
+<rect x="1193" y="540" width="114" height="56" rx="13" fill="#EDF4FB"/>
+<text x="1250" y="563" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" fill="#245C8A">VALUE</text>
+<text x="1250" y="583" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="12.5" fill="#64748B">Benefit · Outcome</text>
+
+<rect x="1193" y="615" width="114" height="77" rx="13" fill="#0B3B67"/>
+<text x="1250" y="643" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">EXECUTIVE</text>
+<text x="1250" y="663" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13.5" font-weight="700" fill="#FFFFFF">TRANSPARENCY</text>
+<text x="1250" y="684" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="11.5" fill="#D8E6F0">One decision view</text>
+
+<!-- Connections to governance rail -->
+<line x1="1135" y1="322" x2="1170" y2="322" stroke="#8798A8" stroke-width="2"/>
+<line x1="1135" y1="441" x2="1170" y2="441" stroke="#8798A8" stroke-width="2"/>
+<line x1="1135" y1="565" x2="1170" y2="565" stroke="#8798A8" stroke-width="2"/>
+<line x1="1135" y1="688" x2="1170" y2="688" stroke="#8798A8" stroke-width="2"/>
+
+<!-- Outcome -->
+<g filter="url(#shadow)">
+  <rect x="310" y="753" width="710" height="48" rx="24" fill="url(#teal)"/>
+</g>
+<circle cx="355" cy="777" r="16" fill="#FFFFFF" fill-opacity="0.16"/>
+<path d="M345 784 V775 M353 784 V768 M361 784 V760 M341 786 H366 M361 760 L368 753" fill="none" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round"/>
+<text x="670" y="783" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">OUTCOME: CUSTOMER VALUE + BUSINESS PERFORMANCE</text>
+<!-- acronym-svg-legend:start -->
+<g id="acronym-legend" aria-label="Terminology legend" data-base-height="820">
+<rect x="0" y="820" width="1400" height="62" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
+<text x="25.2" y="842" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#334155">Terminology</text>
+<text x="25.2" y="863" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#475569">KPI = Key Performance Indicator · OKR = Objectives and Key Results · PMO = Project Management Office</text>
+</g>
+<!-- acronym-svg-legend:end -->
+</svg>

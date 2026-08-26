@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 562" role="img" aria-labelledby="title desc">
+<title id="title">First 100 Days Digital Services and Portfolio Leadership Blueprint</title><desc id="desc">Four phases: Understand, Align and Prioritize, Execute, Prove and Scale across people, customers, portfolio, economics, delivery and service performance.</desc>
+<rect width="1200" height="500" fill="#FFFFFF"/>
+<text x="60" y="52" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#64748B" letter-spacing="2">FIRST 100 DAYS · LEADERSHIP BLUEPRINT</text>
+<text x="60" y="95" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="700" fill="#0F172A">Understand first. Align priorities. Improve with evidence. Scale what works.</text>
+<text x="60" y="126" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#64748B">People · Customers · Portfolio · Economics · Delivery · Service Performance</text>
+<line x1="155" y1="238" x2="1045" y2="238" stroke="#CBD5E1" stroke-width="6" stroke-linecap="round"/>
+<circle cx="170" cy="238" r="28" fill="#0F3D5E"/><circle cx="455" cy="238" r="28" fill="#0F766E"/><circle cx="740" cy="238" r="28" fill="#16697A"/><circle cx="1025" cy="238" r="28" fill="#0F3D5E"/>
+<text x="170" y="245" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">1</text><text x="455" y="245" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">2</text><text x="740" y="245" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">3</text><text x="1025" y="245" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">4</text>
+<text x="170" y="172" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" fill="#64748B">DAYS 1–25</text><text x="170" y="202" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="700" fill="#0F3D5E">UNDERSTAND</text>
+<text x="455" y="172" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" fill="#64748B">DAYS 26–50</text><text x="455" y="202" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="700" fill="#0F766E">ALIGN &amp; PRIORITIZE</text>
+<text x="740" y="172" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" fill="#64748B">DAYS 51–75</text><text x="740" y="202" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="700" fill="#16697A">EXECUTE</text>
+<text x="1025" y="172" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" fill="#64748B">DAYS 76–100</text><text x="1025" y="202" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="700" fill="#0F3D5E">PROVE &amp; SCALE</text>
+<rect x="65" y="294" width="210" height="118" rx="16" fill="#F5F8FC" stroke="#9FB3C8"/>
+<text x="170" y="328" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#334155">BASELINE</text><text x="170" y="356" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#64748B">People · customers · portfolio</text><text x="170" y="379" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#64748B">delivery · economics</text>
+<rect x="350" y="294" width="210" height="118" rx="16" fill="#F1F7F7" stroke="#83AFA7"/>
+<text x="455" y="328" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#334155">PRIORITIES &amp; TARGETS</text><text x="455" y="356" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#64748B">Services · standards · capacity</text><text x="455" y="379" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#64748B">KPIs · customer value</text>
+<rect x="635" y="294" width="210" height="118" rx="16" fill="#EEF6F8" stroke="#6C9BAD"/>
+<text x="740" y="328" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#334155">OPERATING RHYTHM</text><text x="740" y="356" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#64748B">Team · portfolio · delivery</text><text x="740" y="379" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#64748B">service · customer</text>
+<rect x="920" y="294" width="210" height="118" rx="16" fill="#0F3D5E"/>
+<text x="1025" y="328" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#FFFFFF">EVIDENCE &amp; SCALE</text><text x="1025" y="356" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#DCEAF3">Performance · economics · reuse</text><text x="1025" y="379" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#DCEAF3">improve · expand · scale</text>
+<text x="600" y="458" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" fill="#64748B">Not a fixed transformation plan: protect what works, learn fast, then scale evidence.</text>
+<!-- acronym-svg-legend:start -->
+<g id="acronym-legend" aria-label="Terminology legend" data-base-height="500">
+<rect x="0" y="500" width="1200" height="62" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
+<text x="21.6" y="522" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#334155">Terminology</text>
+<text x="21.6" y="543" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#475569">KPI = Key Performance Indicator</text>
+</g>
+<!-- acronym-svg-legend:end -->
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 712" role="img" aria-labelledby="title desc">
+<title id="title">Digital Services Growth Flywheel</title><desc id="desc">A repeatable service leadership model connecting customer needs, people and capability, portfolio, delivery, service performance and expansion.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#6B7F8F"/></marker></defs>
+<rect width="1200" height="650" fill="#FFFFFF"/>
+<text x="60" y="55" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#6B7280" letter-spacing="2">DIGITAL SERVICES &amp; PORTFOLIO FLYWHEEL</text>
+<text x="60" y="101" font-family="Segoe UI,Arial,sans-serif" font-size="31" font-weight="700" fill="#0F172A">Turn strong delivery into scalable services and customer growth</text>
+<circle cx="600" cy="360" r="118" fill="#0F3D5E"/>
+<text x="600" y="342" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#BEE3F8">SERVICE</text><text x="600" y="377" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="700" fill="#FFFFFF">VALUE</text><text x="600" y="407" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#DCEAF3">quality · economics · trust</text>
+<path d="M600 190 C790 180,930 270,955 365" fill="none" stroke="#A6B5C3" stroke-width="4" marker-end="url(#arrow)"/>
+<path d="M955 365 C935 505,790 555,615 535" fill="none" stroke="#A6B5C3" stroke-width="4" marker-end="url(#arrow)"/>
+<path d="M615 535 C420 565,265 490,245 365" fill="none" stroke="#A6B5C3" stroke-width="4" marker-end="url(#arrow)"/>
+<path d="M245 365 C270 235,410 180,600 190" fill="none" stroke="#A6B5C3" stroke-width="4" marker-end="url(#arrow)"/>
+<rect x="470" y="130" width="260" height="90" rx="18" fill="#F5F8FC" stroke="#9FB3C8" stroke-width="2"/>
+<text x="600" y="164" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#0F3D5E">CUSTOMER NEED</text><text x="600" y="191" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#475569">outcomes · pain · priorities</text>
+<rect x="850" y="245" width="280" height="90" rx="18" fill="#F1F7F7" stroke="#83AFA7" stroke-width="2"/>
+<text x="990" y="279" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#0F5B55">PORTFOLIO &amp; STANDARDS</text><text x="990" y="306" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#475569">Atlassian · Agile · automation · AI</text>
+<rect x="820" y="455" width="300" height="95" rx="18" fill="#EEF6F8" stroke="#6C9BAD" stroke-width="2"/>
+<text x="970" y="489" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#164E63">DELIVERY &amp; OPERATIONS</text><text x="970" y="516" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#475569">adoption · service quality · reliability</text>
+<rect x="420" y="520" width="360" height="95" rx="18" fill="#F5F8FC" stroke="#9FB3C8" stroke-width="2"/>
+<text x="600" y="554" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#0F3D5E">EVIDENCE · IMPROVEMENT · EXPANSION</text><text x="600" y="581" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#475569">KPIs → reuse → continuous improvement → growth</text>
+<rect x="70" y="455" width="300" height="95" rx="18" fill="#EEF6F8" stroke="#6C9BAD" stroke-width="2"/>
+<text x="220" y="489" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#164E63">ECONOMICS &amp; GOVERNANCE</text><text x="220" y="516" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#475569">capacity · cost · KPIs · decisions</text>
+<rect x="70" y="245" width="300" height="90" rx="18" fill="#F1F7F7" stroke="#83AFA7" stroke-width="2"/>
+<text x="220" y="279" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#0F5B55">PEOPLE &amp; CAPABILITY</text><text x="220" y="306" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#475569">leadership · skills · ownership · enablement</text>
+<!-- acronym-svg-legend:start -->
+<g id="acronym-legend" aria-label="Terminology legend" data-base-height="650">
+<rect x="0" y="650" width="1200" height="62" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
+<text x="21.6" y="672" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#334155">Terminology</text>
+<text x="21.6" y="693" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#475569">AI = Artificial Intelligence · KPI = Key Performance Indicator</text>
+</g>
+<!-- acronym-svg-legend:end -->
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" role="img" aria-labelledby="title desc">
+<title id="title">Commercial Growth Model</title><desc id="desc">Four-phase commercial model: focus, position, execute, scale.</desc>
+<rect width="1200" height="500" fill="#FFFFFF"/>
+<text x="60" y="55" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#6B7280" letter-spacing="2">COMMERCIAL GROWTH MODEL</text>
+<text x="60" y="101" font-family="Segoe UI,Arial,sans-serif" font-size="32" font-weight="700" fill="#0F172A">Focus first. Position clearly. Execute credibly. Scale evidence.</text>
+<g transform="translate(70,155)">
+<path d="M0 0 H235 L270 85 L235 170 H0 Z" fill="#F5F8FC" stroke="#9FB3C8" stroke-width="2"/>
+<text x="120" y="48" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="700" fill="#0F3D5E">FOCUS</text>
+<text x="118" y="80" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#475569">Market Attractiveness</text><text x="118" y="104" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#475569">Priority Segments</text><text x="118" y="128" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#475569">Customer Economics</text>
+</g>
+<g transform="translate(310,155)">
+<path d="M0 0 H235 L270 85 L235 170 H0 L35 85 Z" fill="#F1F7F7" stroke="#83AFA7" stroke-width="2"/>
+<text x="140" y="48" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="700" fill="#0F5B55">POSITION</text>
+<text x="140" y="80" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#475569">Customer Value</text><text x="140" y="104" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#475569">Differentiation</text><text x="140" y="128" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#475569">Value Proposition</text>
+</g>
+<g transform="translate(550,155)">
+<path d="M0 0 H235 L270 85 L235 170 H0 L35 85 Z" fill="#EAF3F6" stroke="#6C9BAD" stroke-width="2"/>
+<text x="140" y="48" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="700" fill="#164E63">EXECUTE</text>
+<text x="140" y="80" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#475569">Go-to-Market</text><text x="140" y="104" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#475569">Strategic Accounts</text><text x="140" y="128" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#475569">Delivery &amp; Adoption</text>
+</g>
+<g transform="translate(790,155)">
+<path d="M0 0 H280 L315 85 L280 170 H0 L35 85 Z" fill="#0F3D5E"/>
+<text x="165" y="48" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="700" fill="#FFFFFF">SCALE</text>
+<text x="165" y="80" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#DCEAF3">Measured Outcomes</text><text x="165" y="104" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#DCEAF3">Evidence &amp; Trust</text><text x="165" y="128" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" fill="#DCEAF3">Expansion</text>
+</g>
+<rect x="120" y="370" width="960" height="64" rx="16" fill="#F8FAFC" stroke="#E2E8F0"/>
+<text x="600" y="397" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" fill="#64748B">MANAGEMENT PRINCIPLE</text>
+<text x="600" y="421" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" fill="#334155">Market reality → customer relevance → credible differentiation → disciplined execution → measurable growth</text>
+</svg>

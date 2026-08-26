@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">Market Prioritization</title><desc id="desc">Market universe narrows through segments, attractiveness, use-case fit and target segments into strategic accounts.</desc>
+<defs><marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#6B7F8F"/></marker></defs>
+<rect width="1200" height="330" fill="#FFFFFF"/>
+<text x="60" y="55" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#6B7280" letter-spacing="2">MARKET PRIORITIZATION</text>
+<text x="60" y="99" font-family="Segoe UI,Arial,sans-serif" font-size="31" font-weight="700" fill="#0F172A">Narrow the market before spending senior attention</text>
+<g font-family="Segoe UI,Arial,sans-serif">
+<rect x="45" y="165" width="180" height="78" rx="16" fill="#F5F8FC" stroke="#9FB3C8" stroke-width="2"/><text x="135" y="196" text-anchor="middle" font-size="16" font-weight="700" fill="#0F3D5E">MARKET UNIVERSE</text><text x="135" y="221" text-anchor="middle" font-size="13" fill="#475569">possible demand</text>
+<rect x="270" y="165" width="180" height="78" rx="16" fill="#F5F8FC" stroke="#9FB3C8" stroke-width="2"/><text x="360" y="196" text-anchor="middle" font-size="16" font-weight="700" fill="#0F3D5E">SEGMENTS</text><text x="360" y="221" text-anchor="middle" font-size="13" fill="#475569">meaningful groups</text>
+<rect x="495" y="165" width="180" height="78" rx="16" fill="#F1F7F7" stroke="#83AFA7" stroke-width="2"/><text x="585" y="196" text-anchor="middle" font-size="16" font-weight="700" fill="#0F5B55">ATTRACTIVENESS</text><text x="585" y="221" text-anchor="middle" font-size="13" fill="#475569">value + potential</text>
+<rect x="720" y="165" width="180" height="78" rx="16" fill="#EEF6F8" stroke="#6C9BAD" stroke-width="2"/><text x="810" y="196" text-anchor="middle" font-size="16" font-weight="700" fill="#164E63">USE-CASE FIT</text><text x="810" y="221" text-anchor="middle" font-size="13" fill="#475569">relevance + readiness</text>
+<rect x="945" y="155" width="210" height="98" rx="18" fill="#0F3D5E"/><text x="1050" y="190" text-anchor="middle" font-size="17" font-weight="700" fill="#FFFFFF">STRATEGIC ACCOUNTS</text><text x="1050" y="216" text-anchor="middle" font-size="13" fill="#DCEAF3">where value, fit and</text><text x="1050" y="235" text-anchor="middle" font-size="13" fill="#DCEAF3">execution come together</text>
+</g>
+<line x1="225" y1="204" x2="260" y2="204" stroke="#6B7F8F" stroke-width="2" marker-end="url(#arrow)"/><line x1="450" y1="204" x2="485" y2="204" stroke="#6B7F8F" stroke-width="2" marker-end="url(#arrow)"/><line x1="675" y1="204" x2="710" y2="204" stroke="#6B7F8F" stroke-width="2" marker-end="url(#arrow)"/><line x1="900" y1="204" x2="935" y2="204" stroke="#6B7F8F" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="600" y="292" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" fill="#64748B">Not every technically possible customer is a commercially attractive customer.</text>
+</svg>

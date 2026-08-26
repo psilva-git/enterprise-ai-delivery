@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 882" role="img" aria-labelledby="title desc">
+<title id="title">Leadership Evolution</title>
+<desc id="desc">Leadership evolution from engineering through R&amp;D, delivery scale, commercial leadership and consulting to enterprise AI and agents, built on the same technical foundation.</desc>
+<defs>
+  <linearGradient id="navy" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0B2E4F"/>
+    <stop offset="1" stop-color="#123E67"/>
+  </linearGradient>
+  <linearGradient id="curve" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#1F4F7A"/>
+    <stop offset="0.55" stop-color="#177C84"/>
+    <stop offset="1" stop-color="#0C6C8B"/>
+  </linearGradient>
+  <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFFFFF"/>
+    <stop offset="1" stop-color="#F8FBFD"/>
+  </linearGradient>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%">
+    <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#0F172A" flood-opacity="0.12"/>
+  </filter>
+</defs>
+
+<rect width="1400" height="820" fill="#FFFFFF"/>
+
+<text x="70" y="70" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" fill="#234A72" letter-spacing="4">LEADERSHIP EVOLUTION</text>
+<text x="70" y="130" font-family="Segoe UI,Arial,sans-serif" font-size="42" font-weight="800" fill="#0F2745">Increasing scope — built on the same technical foundation</text>
+
+<!-- growth curve -->
+<path d="M95 610 C300 625, 530 620, 745 600 S1125 555, 1325 430" fill="none" stroke="url(#curve)" stroke-width="13" stroke-linecap="round"/>
+<path d="M1304 416 L1342 421 L1328 458" fill="#0C6C8B"/>
+
+<!-- card 1 -->
+<g filter="url(#shadow)">
+  <rect x="90" y="345" width="190" height="245" rx="22" fill="url(#card)" stroke="#A6B8C9" stroke-width="2"/>
+</g>
+<circle cx="132" cy="382" r="18" fill="#153F68"/><text x="132" y="389" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#FFF">1</text>
+<circle cx="185" cy="425" r="39" fill="#EEF4F8" stroke="#8BA2B7" stroke-width="2"/>
+<rect x="168" y="408" width="34" height="34" rx="6" fill="none" stroke="#234A72" stroke-width="3"/>
+<path d="M173 403v-9m8 9v-9m8 9v-9m8 9v-9M173 447v9m8-9v9m8-9v9m8-9v9M163 413h-9m9 9h-9m9 9h-9m43-18h9m-9 9h9m-9 9h9" stroke="#234A72" stroke-width="2"/>
+<text x="185" y="495" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="800" fill="#0F3D5E">ENGINEERING</text>
+<line x1="122" y1="514" x2="248" y2="514" stroke="#9BAEBD"/>
+<text x="185" y="548" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#334155">Hardware &amp;</text>
+<text x="185" y="573" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#334155">Software</text>
+
+<!-- card 2 -->
+<g filter="url(#shadow)"><rect x="315" y="310" width="200" height="280" rx="22" fill="url(#card)" stroke="#9BB3CD" stroke-width="2"/></g>
+<circle cx="357" cy="347" r="18" fill="#2F6393"/><text x="357" y="354" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#FFF">2</text>
+<circle cx="415" cy="395" r="41" fill="#EEF4F8" stroke="#87A6C6" stroke-width="2"/>
+<circle cx="400" cy="393" r="12" fill="none" stroke="#2F6393" stroke-width="3"/><circle cx="430" cy="387" r="10" fill="none" stroke="#2F6393" stroke-width="3"/><path d="M380 420c7-16 32-16 40 0m2 0c5-12 22-12 28 0" fill="none" stroke="#2F6393" stroke-width="3"/>
+<text x="415" y="468" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="800" fill="#0F3D5E">PROJECT / R&amp;D</text>
+<line x1="350" y1="487" x2="480" y2="487" stroke="#9BAEBD"/>
+<text x="415" y="522" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#334155">Project Management</text>
+<text x="415" y="550" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#334155">R&amp;D Leadership</text>
+
+<!-- card 3 -->
+<g filter="url(#shadow)"><rect x="550" y="275" width="210" height="315" rx="22" fill="url(#card)" stroke="#6F9FD4" stroke-width="2"/></g>
+<circle cx="592" cy="312" r="18" fill="#1463A0"/><text x="592" y="319" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#FFF">3</text>
+<circle cx="655" cy="362" r="42" fill="#EDF5FA" stroke="#6F9FD4" stroke-width="2"/>
+<path d="M630 382h12v-18h-12zm20 0h12v-31h-12zm20 0h12v-44h-12zM628 344l22-17 13 9 22-20" fill="none" stroke="#1463A0" stroke-width="3"/>
+<text x="655" y="444" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="800" fill="#0F3D5E">DELIVERY SCALE</text>
+<line x1="585" y1="463" x2="725" y2="463" stroke="#82A7CE"/>
+<text x="655" y="497" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#334155">Programs · PMO</text>
+<text x="655" y="524" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#334155">Agile · Hybrid</text>
+<text x="655" y="551" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#334155">Transformation</text>
+
+<!-- card 4 -->
+<g filter="url(#shadow)"><rect x="790" y="245" width="195" height="345" rx="22" fill="url(#card)" stroke="#5F9C8A" stroke-width="2"/></g>
+<circle cx="832" cy="282" r="18" fill="#3B7B68"/><text x="832" y="289" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#FFF">4</text>
+<circle cx="887" cy="335" r="42" fill="#EEF7F4" stroke="#67A08E" stroke-width="2"/>
+<path d="M857 337l18-16 12 11 12-11 18 16-15 15-15-11-15 11z" fill="none" stroke="#2C7E76" stroke-width="3"/><path d="M875 321l12 11m12-11l-12 11" stroke="#2C7E76" stroke-width="3"/>
+<text x="887" y="421" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="800" fill="#0D5A59">COMMERCIAL</text>
+<line x1="822" y1="441" x2="952" y2="441" stroke="#73A999"/>
+<text x="887" y="477" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#334155">Client Growth</text>
+<text x="887" y="505" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#334155">Solution Selling</text>
+<text x="887" y="533" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#334155">Business Development</text>
+
+<!-- card 5 -->
+<g filter="url(#shadow)"><rect x="1015" y="205" width="190" height="385" rx="22" fill="url(#card)" stroke="#2994A5" stroke-width="2"/></g>
+<circle cx="1057" cy="242" r="18" fill="#158D96"/><text x="1057" y="249" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#FFF">5</text>
+<circle cx="1110" cy="303" r="44" fill="#EDF8F9" stroke="#2A9AA4" stroke-width="2"/>
+<circle cx="1110" cy="286" r="9" fill="none" stroke="#1E7A87" stroke-width="3"/><circle cx="1087" cy="302" r="7" fill="none" stroke="#1E7A87" stroke-width="3"/><circle cx="1133" cy="302" r="7" fill="none" stroke="#1E7A87" stroke-width="3"/><path d="M1095 327v-18c0-10 30-10 30 0v18m-50 0v-12c0-8 23-8 23 0m24 0c0-8 23-8 23 0v12" fill="none" stroke="#1E7A87" stroke-width="3"/>
+<text x="1110" y="393" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="800" fill="#0D6975">CONSULTING</text>
+<line x1="1050" y1="413" x2="1170" y2="413" stroke="#63AAB1"/>
+<text x="1110" y="450" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#334155">Digital Transformation</text>
+<text x="1110" y="478" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#334155">Strategic Customers</text>
+<text x="1110" y="506" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#334155">Executive Alignment</text>
+
+<!-- card 6 -->
+<g filter="url(#shadow)"><rect x="1215" y="145" width="165" height="445" rx="24" fill="url(#navy)" stroke="#0B2E4F" stroke-width="2"/></g>
+<circle cx="1248" cy="178" r="18" fill="#1A9AA2" stroke="#FFFFFF" stroke-width="2"/><text x="1248" y="185" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#FFF">6</text>
+<circle cx="1298" cy="250" r="45" fill="#163C62" stroke="#2FA8B0" stroke-width="2"/>
+<path d="M1279 254c-8-20 4-35 19-35 17 0 28 15 19 35m-38 0c5 13 15 21 19 21 4 0 14-8 19-21m-33-5h28m-25-12h20m-14-8v46" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+<text x="1298" y="326" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="800" fill="#FFFFFF">ENTERPRISE AI</text>
+<text x="1298" y="349" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="800" fill="#FFFFFF">&amp; AGENTS</text>
+<line x1="1256" y1="369" x2="1340" y2="369" stroke="#25C7D0" stroke-width="2"/>
+<text x="1298" y="405" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#FFFFFF">Governed Automation</text>
+<text x="1298" y="435" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#FFFFFF">Agentic Workflows</text>
+<text x="1298" y="465" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#FFFFFF">AI-enabled Delivery</text>
+
+<!-- nodes -->
+<g fill="#FFFFFF" stroke-width="5">
+  <circle cx="185" cy="612" r="11" stroke="#234A72"/><circle cx="415" cy="614" r="11" stroke="#2F6393"/><circle cx="655" cy="609" r="11" stroke="#1463A0"/><circle cx="887" cy="591" r="11" stroke="#2C7E76"/><circle cx="1110" cy="558" r="11" stroke="#158D96"/><circle cx="1298" cy="491" r="12" stroke="#1A9AA2"/>
+</g>
+<g stroke="#66819A" stroke-width="2" stroke-dasharray="5 5">
+  <line x1="185" y1="590" x2="185" y2="602"/><line x1="415" y1="590" x2="415" y2="603"/><line x1="655" y1="590" x2="655" y2="598"/><line x1="887" y1="590" x2="887" y2="580"/><line x1="1110" y1="558" x2="1110" y2="590"/><line x1="1298" y1="491" x2="1298" y2="590"/>
+</g>
+
+<!-- technical foundation base -->
+<g filter="url(#shadow)">
+  <path d="M100 665 H1300 L1335 760 H65 Z" fill="#F7FAFC" stroke="#123E67" stroke-width="8"/>
+</g>
+<circle cx="540" cy="715" r="31" fill="url(#navy)"/>
+<path d="M528 706l12-6 12 6v14c0 10-7 17-12 20-5-3-12-10-12-20z" fill="none" stroke="#FFFFFF" stroke-width="3"/><path d="M534 720l5 5 9-11" fill="none" stroke="#FFFFFF" stroke-width="3"/>
+<text x="590" y="707" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="800" fill="#0F2745">SAME TECHNICAL FOUNDATION</text>
+<text x="590" y="738" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#475569">Expertise · Engineering Excellence · Scalable Execution</text>
+
+<line x1="85" y1="795" x2="1260" y2="795" stroke="#234A72" stroke-width="3"/>
+<path d="M1260 795l-22-12v24z" fill="#158D96"/>
+<text x="840" y="790" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700" fill="#234A72" letter-spacing="4">INCREASING LEADERSHIP SCOPE</text>
+<!-- acronym-svg-legend:start -->
+<g id="acronym-legend" aria-label="Terminology legend" data-base-height="820">
+<rect x="0" y="820" width="1400" height="62" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1"/>
+<text x="25.2" y="842" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" fill="#334155">Terminology</text>
+<text x="25.2" y="863" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#475569">AI = Artificial Intelligence · PMO = Project Management Office</text>
+</g>
+<!-- acronym-svg-legend:end -->
+</svg>
