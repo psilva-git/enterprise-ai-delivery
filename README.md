@@ -1,22 +1,22 @@
 <div align="center">
 
-# SYSTEMS & REQUIREMENTS ENGINEERING · ATLASSIAN · AGILE · DIGITALIZATION & AI
+# TECHNOLOGY CONSULTING · ENGINEERING LEADERSHIP · TRANSFORMATION & AI
 
-### Executive portfolio for technical consulting, product development, transformation, customer growth and delivery leadership
+### Executive portfolio across systems engineering, product development, customer transformation and delivery
 
-**Systems Engineering & Requirements · Product Development · R&D Leadership · Atlassian · Agile & Hybrid Transformation · PMO · Business Development · Enterprise AI**
+**Principal-Level Consulting · Systems & Requirements Engineering · R&D Leadership · Product Development · Business Development · Atlassian · Agile & Hybrid · Enterprise AI**
 
+[![Consulting](https://img.shields.io/badge/CONSULTING-Strategy%20%7C%20Engineering%20%7C%20Customers-7C3AED?style=for-the-badge)](#consulting-training--key-account-development)
 [![Systems](https://img.shields.io/badge/SYSTEMS-Requirements%20%7C%20V--Model%20%7C%20Product-234A72?style=for-the-badge)](#systems--requirements-engineering--technical-foundation)
 [![Atlassian](https://img.shields.io/badge/ATLASSIAN-Jira%20%7C%20JSM%20%7C%20Confluence%20%7C%20Rovo-1D4ED8?style=for-the-badge)](#atlassian--agile--ai--core-expertise)
-[![Agile](https://img.shields.io/badge/AGILE-Scrum%20%7C%20Kanban%20%7C%20Hybrid-0F766E?style=for-the-badge)](#pmo-agile-transformation--delivery-governance)
-[![Leadership](https://img.shields.io/badge/LEADERSHIP-People%20%7C%20Customers%20%7C%20Business-7C3AED?style=for-the-badge)](#leadership-scope)
+[![Leadership](https://img.shields.io/badge/LEADERSHIP-People%20%7C%20Customers%20%7C%20Business-0F766E?style=for-the-badge)](#leadership-scope)
 
 ### Paulo Silva
-**Senior Technology, Systems & Transformation Leader · Product Development · Consulting · Delivery**
+**Senior Technology & Transformation Leader · Principal-Level Consultant · Engineering & Delivery Leadership**
 
-**Core practical expertise:** Systems / product development · requirements engineering · embedded / HMI · Atlassian · Agile / Hybrid · PMO & delivery governance  
-**Leadership & business:** R&D leadership · people leadership · customer development · consulting · business development · economic steering  
-**Digital extension:** workflow automation · applied Enterprise AI & agents · governed engineering / delivery workflows
+**Consulting & customer:** technical consulting · customer transformation · key-account development · business development · training & enablement  
+**Engineering & delivery:** systems / product development · requirements engineering · embedded / HMI · R&D leadership · PMO · Agile / Hybrid  
+**Digital extension:** Atlassian · workflow automation · applied Enterprise AI & agents · governed engineering / delivery workflows
 
 </div>
 
