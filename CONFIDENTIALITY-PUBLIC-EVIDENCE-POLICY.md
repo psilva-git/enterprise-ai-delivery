@@ -50,8 +50,3 @@ Where that standard cannot be met confidently, the reference should be anonymize
 ## Guiding principle
 
 > **Show the capability. Protect the customer. Separate public evidence from confidential delivery detail.**
-
-<!-- acronym-legend:start -->
-> **Terminology on this page**  
-> **OEM** — Original Equipment Manufacturer
-<!-- acronym-legend:end -->
