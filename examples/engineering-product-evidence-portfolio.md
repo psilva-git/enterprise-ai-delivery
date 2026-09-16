@@ -198,5 +198,5 @@ That is the bridge between **R&D and product engineering → Business Developmen
 
 <!-- acronym-legend:start -->
 > **Terminology on this page**  
-> **AI** — Artificial Intelligence · **B2B** — Business-to-Business · **HMI** — Human-Machine Interface · **OEM** — Original Equipment Manufacturer · **PMO** — Project Management Office · **R&D** — Research and Development
+> **AI** — Artificial Intelligence · **PMO** — Project Management Office · **SPM** — Strategic Portfolio Management
 <!-- acronym-legend:end -->
