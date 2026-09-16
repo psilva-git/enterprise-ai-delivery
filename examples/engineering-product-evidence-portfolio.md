@@ -111,16 +111,6 @@ These examples demonstrate the **application environments** connected to my earl
 
 ---
 
-## Historical public portfolio source
-
-A legacy Wix portfolio contains additional historical project / product references, including public video links and older engineering examples:
-
-- [Paulo Silva — legacy skills / project portfolio](https://psilva86.wixsite.com/skills)
-
-The GitHub portfolio is the curated source going forward; the legacy page is retained as additional historical evidence where useful.
-
----
-
 ## Why this matters for current leadership roles
 
 My current profile is not a shift away from engineering. It is an extension of it.
