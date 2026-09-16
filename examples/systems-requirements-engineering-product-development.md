@@ -49,8 +49,12 @@ Across that lifecycle, I focus on the cross-cutting disciplines that make comple
 
 ## Selected technical leadership evidence
 
-### Jetter AG — HMI Development Leadership
-Long-term responsibility for Human-Machine Interface development in industrial automation. The scope included **architecture of operator-panel products from idea through series**, international key projects and solutions for automotive, mobile machinery, rail and industrial PCs. This combined product architecture, engineering leadership, project governance and customer / Original Equipment Manufacturer coordination.
+### Jetter AG — JetView HMI Product Generation
+I developed the **complete JetView generation** as an end-to-end product platform. My responsibility covered the **overall system and product architecture, mechanical construction, electronic design and PCB layouts, hardware, embedded software / firmware, application software, interfaces, integration, validation and preparation for series production**.
+
+This was therefore not limited to HMI project leadership or coordination. It was direct product-development responsibility across **mechanics, electronics, hardware, software and system architecture**. The architecture and product concept proved durable: the **JetView product generation continues to exist today** and remains a visible part of the product family.
+
+The platform was used across industrial automation and demanding OEM environments including mobile machinery, automotive-related applications, rail and industrial PCs. This combined hands-on engineering depth with product architecture, international customer projects and OEM coordination.
 
 ### Soehnle Professional — Head of R&D
 Led research, development and construction across **automation, automotive, medical technology and industrial products**. The work included Agile project methods, coordination with national and international approval bodies, sensor / measurement technology and transition of development results into regulated products.
