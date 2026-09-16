@@ -93,6 +93,25 @@ The work covered the full chain from concept and architecture through engineerin
 **Public references**
 - [Solutronic Service](https://solutronic-service.com/de/)
 
+### umlaut / Accenture — Agile Transformation & Delivery Recovery, Premium Automotive OEM
+**Engagement context:** development-side leadership for a confidential software initiative at a major German premium automotive OEM. The client and platform are intentionally not named here; the focus is on the transformation and delivery capabilities demonstrated.
+
+**Starting point:** took over an initiative in a critical delivery situation and reshaped the development setup into a pragmatic, transparent and economically controlled Agile delivery model.
+
+**Transformation and delivery contributions:**
+- led the development-side Agile transformation using **Scrum** and pragmatic Agile delivery practices,
+- established **Atlassian Jira and Confluence** as the operational backbone for planning, collaboration, delivery transparency and governance,
+- introduced structured **portfolio, backlog and prioritization management** connecting strategic priorities with development execution,
+- linked delivery planning with **capacity, budget and rolling forecasts** rather than treating Agile execution separately from commercial control,
+- created management transparency across **scope, progress, budget, dependencies, risks and delivery commitments**,
+- strengthened coordination between business, product, engineering and management stakeholders,
+- supported fact-based steering through regular forecasting and management reporting,
+- shifted the setup from activity- and ceremony-focused Agile practices toward **measurable, outcome-oriented delivery**.
+
+**Outcome:** the transformation stabilized the initiative and established a **successful, sustainable and significantly more predictable delivery model**, combining Agile execution with portfolio, budget and governance discipline.
+
+**Evidence relevance:** demonstrates that my Agile work is not limited to coaching or methodology. It combines **turnaround leadership, Atlassian-based delivery, portfolio management, financial steering, forecasting and executive governance** in a complex automotive engineering environment.
+
 ---
 
 ## Selected OEM / application references
