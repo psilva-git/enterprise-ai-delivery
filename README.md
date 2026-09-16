@@ -259,5 +259,5 @@ Public employer and product references are used only where they are already publ
 
 <!-- acronym-legend:start -->
 > **Terminology on this page**  
-> **AI** — Artificial Intelligence · **B2B** — Business-to-Business · **HMI** — Human-Machine Interface · **KPI** — Key Performance Indicator · **PMO** — Project Management Office · **R&D** — Research and Development
+> **AI** — Artificial Intelligence
 <!-- acronym-legend:end -->
