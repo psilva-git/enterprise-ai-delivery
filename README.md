@@ -1,22 +1,22 @@
 <div align="center">
 
-# TECHNOLOGY CONSULTING · ENGINEERING LEADERSHIP · TRANSFORMATION & AI
+# TECHNOLOGY CONSULTING · R&D · BUSINESS DEVELOPMENT · TRANSFORMATION & AI
 
-### Executive portfolio across systems engineering, product development, customer transformation and delivery
+### Executive portfolio across engineering, product development, customer growth and enterprise delivery
 
-**Principal-Level Consulting · Systems & Requirements Engineering · R&D Leadership · Product Development · Business Development · Atlassian · Agile & Hybrid · Enterprise AI**
+**Principal-Level Consulting · R&D & Product Leadership · Systems & Requirements Engineering · Business Development & Sales · Atlassian · Agile & Hybrid · Enterprise AI**
 
-[![Consulting](https://img.shields.io/badge/CONSULTING-Strategy%20%7C%20Engineering%20%7C%20Customers-7C3AED?style=for-the-badge)](#consulting-training--key-account-development)
+[![Consulting](https://img.shields.io/badge/CONSULTING-Strategy%20%7C%20Engineering%20%7C%20Customers-7C3AED?style=for-the-badge)](#business-development-sales-consulting--key-accounts)
 [![Systems](https://img.shields.io/badge/SYSTEMS-Requirements%20%7C%20V--Model%20%7C%20Product-234A72?style=for-the-badge)](#systems--requirements-engineering--technical-foundation)
 [![Atlassian](https://img.shields.io/badge/ATLASSIAN-Jira%20%7C%20JSM%20%7C%20Confluence%20%7C%20Rovo-1D4ED8?style=for-the-badge)](#atlassian--agile--ai--core-expertise)
-[![Leadership](https://img.shields.io/badge/LEADERSHIP-People%20%7C%20Customers%20%7C%20Business-0F766E?style=for-the-badge)](#leadership-scope)
+[![Leadership](https://img.shields.io/badge/LEADERSHIP-R%26D%20%7C%20Customers%20%7C%20Business-0F766E?style=for-the-badge)](#leadership-scope)
 
 ### Paulo Silva
-**Senior Technology & Transformation Leader · Principal-Level Consultant · Engineering & Delivery Leadership**
+**Senior Technology, R&D & Business Development Leader · Principal-Level Consultant · Engineering, Sales & Delivery Leadership**
 
-**Consulting & customer:** technical consulting · customer transformation · key-account development · business development · training & enablement  
-**Engineering & delivery:** systems / product development · requirements engineering · embedded / HMI · R&D leadership · PMO · Agile / Hybrid  
-**Digital extension:** Atlassian · workflow automation · applied Enterprise AI & agents · governed engineering / delivery workflows
+**R&D & engineering:** systems / product development · requirements engineering · embedded / HMI · technical leadership · product qualification  
+**Business development & sales:** key accounts · solution development · opportunity shaping · proposals · negotiations · customer growth  
+**Transformation & delivery:** Atlassian · PMO · Agile / Hybrid · workflow automation · applied Enterprise AI · governance
 
 </div>
 
@@ -24,19 +24,55 @@
 
 # Executive Positioning
 
-I bring more than **25 years of leadership, engineering, technology, transformation and customer-facing delivery experience** across international, regulated and technology-driven environments.
+I bring more than **25 years of leadership, engineering, technology, transformation and customer-facing business experience** across international, regulated and technology-driven environments.
 
-My career started in **hardware, firmware and software development** and expanded into **system / product architecture, requirements engineering, R&D leadership, project and program management, consulting, Agile transformation, key-account development and commercial responsibility**.
+My career started in **hardware, firmware and software development** and expanded into **system / product architecture, Research and Development (R&D) leadership, project and program management, consulting, Agile transformation, Key Account Management, Business Development, solution sales and commercial responsibility**.
+
+The differentiating element of my profile is the combination of **R&D depth and commercial execution**. I can work from the customer problem and market opportunity through technical feasibility, product / solution definition, business case, proposal and negotiation to delivery, qualification and follow-up business. This allows me to challenge both sides of an opportunity: **is it technically credible, and is it commercially worth pursuing?**
 
 My technical foundation spans **industrial electronics, embedded systems, Human-Machine Interface (HMI), automation, robotics, automotive, medical technology, pharmaceutical / packaging environments, rail and software / cloud delivery**. I have worked from component and firmware level through product architecture, development processes, integration, validation, industrialization and customer delivery.
 
 In leadership roles, I have managed **technical organizations with up to 40 employees in direct disciplinary and functional responsibility** and carried responsibility for **50+ professionals in larger distributed delivery environments**. My scope has included people development, resource and capacity planning, budget and cost steering, forecasting, governance, management reporting, escalations, standards and cross-functional collaboration.
 
-Today, I connect this engineering background with **Atlassian, Agile / Hybrid delivery, digitalization, automation and governed Enterprise AI**. My strongest contribution is where **customer needs, system behavior, requirements, people, technology choices, delivery capability and business outcomes** have to work as one system.
+Today, I connect this engineering and commercial background with **Atlassian, Agile / Hybrid delivery, digitalization, automation and governed Enterprise AI**. My strongest contribution is where **customer demand, technology, product strategy, commercial viability and delivery capability** have to work as one system.
 
 <p align="center">
   <img src="assets/leadership-evolution.svg" alt="Leadership evolution from engineering and delivery to business, consulting and AI-enabled leadership" width="100%" />
 </p>
+
+---
+
+# R&D × Business Development × Sales — Integrated Leadership Model
+
+I do not treat engineering, sales and delivery as separate worlds. In complex B2B technology, they are one value chain:
+
+```text
+Market / Customer Need
+        ↓
+Technical Discovery & Feasibility
+        ↓
+R&D / Product / Solution Definition
+        ↓
+Business Case & Commercial Positioning
+        ↓
+Proposal · Negotiation · Commitment
+        ↓
+Project / Program Delivery
+        ↓
+Qualification · Evidence · Customer Outcome
+        ↓
+Follow-up Business · Account Growth · Portfolio Learning
+```
+
+| Perspective | My contribution |
+|---|---|
+| **R&D / Engineering** | understand system behavior, architecture, interfaces, feasibility, risk, validation and product-development reality |
+| **Business Development** | identify relevant customer problems, shape opportunities, connect market need with product / service capability and develop credible value propositions |
+| **Sales / Key Accounts** | build customer relationships, clarify buying needs, support proposals and negotiations, translate technical value into commercial decisions and develop follow-up business |
+| **Delivery / Program Leadership** | turn the commercial promise into executable scope, governance, capacity, budget, forecasting and measurable customer outcomes |
+| **Portfolio Development** | feed delivery evidence and customer demand back into reusable offerings, product priorities and scalable services |
+
+This combination is especially relevant where a customer needs more than a salesperson or more than a technical specialist: **someone who can understand the technology, shape the business opportunity, make a credible commitment and remain accountable for delivery reality.**
 
 ---
 
@@ -81,19 +117,23 @@ Across that lifecycle, I focus on **requirements, interfaces, dependencies, risk
 
 ---
 
-# Consulting, Training & Key Account Development
+# Business Development, Sales, Consulting & Key Accounts
 
-My technical background has repeatedly been combined with **consulting, customer development and team leadership**.
+My technical background has repeatedly been combined with **customer responsibility, solution development, commercial opportunity shaping and team leadership**.
 
 | Perspective | Contribution |
 |---|---|
 | **Technical Consulting** | connect customer / business problems with product-development, process, platform and organizational solutions |
-| **Product & Organization Development** | improve development models, governance, interfaces, roles, standards and cross-functional collaboration |
+| **Business Development** | identify opportunities, assess customer and market fit, shape value propositions and connect new demand with technically deliverable offerings |
+| **Solution Sales** | translate requirements into technically credible and commercially viable solutions; support proposals, presentations, negotiations and qualification of opportunities |
+| **Key Account Management** | build trusted customer relationships, understand stakeholder and buying structures, manage expectations and develop follow-up business |
+| **Product & Organization Development** | feed market and customer learning back into development models, portfolio priorities, governance, interfaces, roles and standards |
 | **Training & Enablement** | Agile coaching, change enablement, Lean / Six Sigma training, workshops, practical methods and reusable standards |
-| **Key Accounts & Business Development** | shape opportunities, translate customer requirements into technical / commercial solutions, support proposals and develop follow-up business |
-| **Customer-Team Leadership** | lead multidisciplinary engineering / delivery teams in changing project situations while keeping technical quality and customer outcomes aligned |
+| **Customer-Team Leadership** | lead multidisciplinary engineering / delivery teams while keeping technical quality, economics, commitments and customer outcomes aligned |
 
-This is where engineering credibility and consulting value reinforce each other: **understand the system, structure the problem, align the people, improve the process and deliver measurable results**.
+A strong example is my **Head of Solutions SOMANET** role at Synapticon: Project Management and Key Account Management were combined with solution integration, technical sales support, leadership of solution / application engineering and end-to-end customer projects from concept through product qualification. That is representative of how I work: **commercial responsibility grounded in engineering credibility**.
+
+The same principle applies across my R&D leadership roles: technical depth improves customer conversations, while market and customer feedback improves product and portfolio decisions.
 
 ---
 
@@ -127,16 +167,17 @@ Selected practical evidence: [SignalDesk →](examples/signaldesk.md) · [Profil
 | Responsibility | Executive contribution |
 |---|---|
 | **People & Organization** | lead technical organizations, develop specialists and leaders, conduct structured performance and development dialogue, create accountability and build scalable delivery capability across distributed teams |
-| **Systems & Product Development** | connect product needs, requirements, architecture, interfaces, risk, quality, validation and delivery across multidisciplinary development environments |
+| **R&D, Systems & Product Development** | connect product needs, requirements, architecture, interfaces, feasibility, risk, quality, validation and delivery across multidisciplinary development environments |
 | **Business & Economic Responsibility** | translate strategic goals into priorities, capacity and resource plans; steer budgets, forecasts, KPIs, costs and corrective measures; create management transparency |
+| **Business Development & Sales** | identify and shape opportunities, connect customer demand with technical capability, support proposals and negotiations and convert successful delivery into follow-up business |
 | **Customers & Consulting** | build executive trust, understand business / technical problems, translate requirements into credible solutions and connect customer demand with sustainable services |
-| **Portfolio & Offerings** | develop and prioritize engineering, Atlassian, Agile, digitalization, automation, AI and transformation capabilities based on customer value and delivery feasibility |
-| **Commercial Growth** | support account development, opportunity shaping, proposals, negotiations, follow-up business and expansion of existing customer relationships |
+| **Portfolio & Offerings** | develop and prioritize engineering, Atlassian, Agile, digitalization, automation, AI and transformation capabilities based on customer value, market demand and delivery feasibility |
+| **Commercial Growth** | develop strategic accounts, support opportunity qualification and solution positioning, strengthen customer relationships and expand existing business through credible delivery |
 | **Change, Enablement & Training** | combine change management, coaching, standards, role clarity, enablement and practical training to create sustainable adoption |
 | **PMO & Governance** | align roadmaps, dependencies, risks, resources, decisions, KPIs, management reporting and escalation paths across complex portfolios |
 | **Delivery & Transformation** | lead programs and projects end-to-end and connect V-model, Agile, predictive or Hybrid delivery with organizational change and operational adoption |
 
-My strongest contribution is at the interfaces: **customer need ↔ system definition, requirements ↔ architecture, engineering ↔ project governance, customer promise ↔ delivery reality, and strategy ↔ execution**.
+My strongest contribution is at the interfaces: **market need ↔ customer requirement, customer requirement ↔ product definition, product definition ↔ engineering feasibility, commercial promise ↔ delivery reality, and delivery evidence ↔ account growth**.
 
 ---
 
@@ -231,22 +272,35 @@ Selected evidence: [Enterprise AI Platform Advisory →](examples/ai-platform-ad
 
 # Customer & Commercial Growth
 
-Technology leadership becomes business leadership when customer value, technical credibility, delivery quality and commercial development are managed together.
+Technology leadership becomes business leadership when **R&D credibility, customer understanding, commercial discipline and delivery evidence** are managed together.
 
 <p align="center">
   <img src="assets/commercial-growth-model.svg" alt="Commercial growth model connecting customer value, delivery and expansion" width="100%" />
 </p>
 
-My commercial experience includes **Key Account Management, Business Development, Solution Management, customer-facing solution development, proposals, commercial negotiations, account development and follow-up business**.
+My commercial experience includes **Key Account Management, Business Development, Solution Management, technical sales support, customer-facing solution development, proposals, commercial negotiations, account development and follow-up business**.
 
-A recurring part of my work has been to translate **customer requirements into technically credible and commercially viable solutions**, support proposals and follow-up business, and develop customer relationships across the full delivery lifecycle.
+I am particularly effective in technically complex B2B environments because I can move between the customer and engineering perspectives. I can discuss the business problem and buying motivation with the customer, challenge feasibility and architecture with R&D, translate the result into a credible solution and commercial proposition, and then stay connected to delivery and qualification.
 
 ```text
-Customer Problem → Requirement / Opportunity → Solution → Business Case
-        → Delivery → Evidence → Expansion
+Customer / Market Problem
+        ↓
+Opportunity & Requirement
+        ↓
+Technical Feasibility / R&D
+        ↓
+Solution & Business Case
+        ↓
+Proposal / Negotiation
+        ↓
+Delivery / Qualification
+        ↓
+Evidence / Customer Value
+        ↓
+Account Growth / Portfolio Development
 ```
 
-Trusted delivery creates the evidence for **additional services, account growth and long-term customer value**.
+This creates a stronger commercial model than separating sales from delivery: **what is promised remains connected to what engineering can actually deliver, and successful delivery becomes the evidence for further business.**
 
 [Commercial strategy case →](examples/commercial-strategy-smart-energy.md)  
 [Sales Leadership foundation →](background/sales-leadership-foundation.md)  
@@ -275,18 +329,19 @@ The leadership question is not **“Which vendor wins?”** It is:
 
 # Selected Executive & Technical Evidence
 
-This portfolio combines **engineering and product-development evidence, systems / requirements thinking, Atlassian and Agile delivery, applied Enterprise AI, PMO / governance, commercial strategy and leadership operating models**.
+This portfolio combines **engineering and product-development evidence, business development and commercial strategy, systems / requirements thinking, Atlassian and Agile delivery, applied Enterprise AI, PMO / governance and leadership operating models**.
 
 | Evidence | What it demonstrates |
 |---|---|
 | **[Systems & Requirements Engineering · Product Development](examples/systems-requirements-engineering-product-development.md)** | embedded / E/E foundation, HMI and product architecture, requirements engineering, V-model, risk / feasibility, quality, validation and technical leadership across regulated industries |
+| **[Engineering & Product Evidence Portfolio](examples/engineering-product-evidence-portfolio.md)** | direct R&D, product-development, solution-engineering, Key Account and customer-delivery evidence across industrial technology environments |
+| **[Commercial Strategy & Go-to-Market](examples/commercial-strategy-smart-energy.md)** | market potential, segmentation, customer value, positioning, commercial objectives, KPIs and channels |
 | **[SignalDesk](examples/signaldesk.md)** | AI-assisted PMO and delivery workflows across Jira, Confluence and GitHub; management visibility, risks, escalations, decisions and actions |
 | **[PMO, Transformation & Delivery Governance](examples/pmo-transformation-delivery-governance.md)** | portfolio governance, Agile / Hybrid / Predictive delivery, executive transparency, risk, KPIs and customer-value-oriented operating models |
 | **[ProfileHub](examples/profilehub.md)** | controlled end-to-end delivery chain from work item through implementation, local validation and evidence |
 | **[GreenWear](examples/greenwear.md)** | multilingual AI service use case combining customer experience, governance, testing, knowledge management and human handover |
 | **[Enterprise AI Platform Advisory](examples/ai-platform-advisory.md)** | executive market perspective across Atlassian, ServiceNow, OpenText, Snowflake, Databricks, Fabric / Power BI and enterprise AI |
 | **[Applied Prompt Engineering](examples/applied-prompt-engineering.md)** | structured use of generative AI across customer support, content, data analysis and software work with quality and governance controls |
-| **[Commercial Strategy & Go-to-Market](examples/commercial-strategy-smart-energy.md)** | market potential, segmentation, customer value, positioning, commercial objectives, KPIs and channels |
 | **[First 100 Days — Digital Services & Portfolio Leadership](examples/first-100-days-digital-services-portfolio-leadership.md)** | adaptive leadership across people, customers, portfolio, economics, service performance and evidence-based scale |
 | **[Enterprise Opportunity Leadership](examples/how-i-would-structure-an-enterprise-ai-opportunity.md)** | customer problem, business value, feasibility, governance, implementation, adoption, evidence and expansion |
 
@@ -340,8 +395,11 @@ This portfolio combines **engineering and product-development evidence, systems 
 
 # Leadership Principles
 
-- **understand the system before optimizing the process**
+- **understand the customer and market problem before proposing the solution**
+- **use R&D depth to make commercial commitments technically credible**
 - **requirements connect customer intent with engineering reality**
+- **business development connects market demand with product and delivery capability**
+- **successful delivery is the strongest foundation for account growth**
 - **fit-for-purpose methods instead of methodology dogma**
 - **technical credibility and customer trust reinforce each other**
 - **people development and accountability create scalable capability**
@@ -357,13 +415,13 @@ This portfolio combines **engineering and product-development evidence, systems 
 
 <div align="center">
 
-### SYSTEMS ENGINEERING · REQUIREMENTS · ATLASSIAN · AGILE · DIGITALIZATION · ENTERPRISE AI · CUSTOMER GROWTH
+### R&D · SYSTEMS ENGINEERING · BUSINESS DEVELOPMENT · SALES · ATLASSIAN · AGILE · ENTERPRISE AI
 
-**Lead people. Engineer systems. Shape requirements. Transform delivery. Grow customer value.**
+**Understand the technology. Shape the opportunity. Make credible commitments. Deliver the outcome. Grow the customer relationship.**
 
 </div>
 
 <!-- acronym-legend:start -->
 > **Terminology on this page**  
-> **BI** — Business Intelligence · **PMO** — Project Management Office
+> **AI** — Artificial Intelligence · **B2B** — Business-to-Business · **BI** — Business Intelligence · **HMI** — Human-Machine Interface · **PMO** — Project Management Office · **R&D** — Research and Development
 <!-- acronym-legend:end -->
