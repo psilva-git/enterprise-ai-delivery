@@ -423,5 +423,5 @@ This portfolio combines **engineering and product-development evidence, business
 
 <!-- acronym-legend:start -->
 > **Terminology on this page**  
-> **AI** — Artificial Intelligence · **B2B** — Business-to-Business · **BI** — Business Intelligence · **HMI** — Human-Machine Interface · **PMO** — Project Management Office · **R&D** — Research and Development
+> **BI** — Business Intelligence · **PMO** — Project Management Office
 <!-- acronym-legend:end -->
