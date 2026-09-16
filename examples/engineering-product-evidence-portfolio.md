@@ -4,6 +4,8 @@ This page makes the technical career foundation behind my current transformation
 
 The purpose is evidence, not product-ownership inflation: direct employer roles are separated from customer / Original Equipment Manufacturer (OEM) application contexts. Public links show the technical environment in which the work took place; they do not imply sole ownership of third-party products.
 
+> Public references on this page follow the repository-wide [Confidentiality & Public Evidence Policy](../CONFIDENTIALITY-PUBLIC-EVIDENCE-POLICY.md): publicly documented employer / product references may be named, while confidential customer and project details remain anonymized.
+
 ---
 
 ## Engineering-to-leadership trajectory
@@ -154,6 +156,7 @@ That is the bridge between **industrial product engineering** and **enterprise t
 
 ---
 
+[Confidentiality & Public Evidence Policy →](../CONFIDENTIALITY-PUBLIC-EVIDENCE-POLICY.md)  
 [Back to Systems & Requirements Engineering →](systems-requirements-engineering-product-development.md)  
 [Back to Executive Portfolio →](../README.md)
 
