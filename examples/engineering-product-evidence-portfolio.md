@@ -67,10 +67,14 @@ This progression is central to how I work today: **technical depth first, then d
 **Public references**
 - [Soehnle Professional](https://www.soehnle-professional.com/)
 
-### Jetter AG / Bucher Automation — HMI & Mobile Automation context
-**Role context:** HMI development leadership, product architecture, international customer projects and OEM communication.
+### Jetter AG / Bucher Automation — JetView HMI Product Generation
+**Role context:** I developed the **complete JetView HMI generation** from the ground up and carried responsibility for the overall product concept and engineering implementation. This included the **system and product architecture, mechanical construction, electronic design and layouts, hardware, embedded software / firmware, application software, interfaces and product integration**.
 
-**Technical context:** rugged operator panels, industrial controllers, mobile machines, CAN / ISOBUS communication and embedded automation.
+The work covered the full chain from concept and architecture through engineering implementation, integration, validation and preparation for series use. The resulting JetView product architecture became a durable platform foundation and the **JetView product generation continues to exist today**.
+
+**Technical context:** rugged operator panels, industrial PCs, embedded electronics, display / touch technology, mechanical design, printed circuit board design and layout, firmware, application software, fieldbus communication, CAN / ISOBUS, mobile machines and industrial automation.
+
+**Engineering significance:** this was not only project or team leadership. It was end-to-end product development responsibility across **mechanics, electronics, hardware, software and system architecture**.
 
 **Public references**
 - [Bucher Automation JetViewMobile HMI](https://www.bucherautomation.com/en/products/hmis/jetviewmobile-series/)
@@ -136,5 +140,5 @@ That is the bridge between **industrial product engineering** and **enterprise t
 
 <!-- acronym-legend:start -->
 > **Terminology on this page**  
-> **AI** — Artificial Intelligence · **PMO** — Project Management Office · **SPM** — Strategic Portfolio Management
+> **AI** — Artificial Intelligence · **CAN** — Controller Area Network · **HMI** — Human-Machine Interface · **ISOBUS** — ISO 11783 agricultural vehicle communication standard · **OEM** — Original Equipment Manufacturer · **PMO** — Project Management Office · **R&D** — Research and Development
 <!-- acronym-legend:end -->
