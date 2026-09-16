@@ -108,8 +108,3 @@ The principle remains the same as in systems engineering: **automation should st
 
 [Engineering & Product Evidence Portfolio →](engineering-product-evidence-portfolio.md)  
 [Back to Executive Portfolio →](../README.md)
-
-<!-- acronym-legend:start -->
-> **Terminology on this page**  
-> **AI** — Artificial Intelligence · **APQP** — Advanced Product Quality Planning · **ASPICE** — Automotive SPICE · **BPMN** — Business Process Model and Notation · **E/E** — Electrical / Electronic · **FMEA** — Failure Mode and Effects Analysis · **HMI** — Human-Machine Interface · **MSA** — Measurement System Analysis · **OEM** — Original Equipment Manufacturer · **PPAP** — Production Part Approval Process · **R&D** — Research and Development · **SPC** — Statistical Process Control · **UML** — Unified Modeling Language
-<!-- acronym-legend:end -->
