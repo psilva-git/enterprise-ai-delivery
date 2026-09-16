@@ -140,5 +140,5 @@ That is the bridge between **industrial product engineering** and **enterprise t
 
 <!-- acronym-legend:start -->
 > **Terminology on this page**  
-> **AI** — Artificial Intelligence · **CAN** — Controller Area Network · **HMI** — Human-Machine Interface · **ISOBUS** — ISO 11783 agricultural vehicle communication standard · **OEM** — Original Equipment Manufacturer · **PMO** — Project Management Office · **R&D** — Research and Development
+> **AI** — Artificial Intelligence · **PMO** — Project Management Office · **SPM** — Strategic Portfolio Management
 <!-- acronym-legend:end -->
