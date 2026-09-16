@@ -4,6 +4,8 @@ My technical foundation was built in **hardware, software, embedded systems and 
 
 I have worked across **industrial automation, automotive, machinery, robotics, medical technology, pharmaceutical / packaging environments and rail**, connecting product needs with architecture, requirements, interfaces, delivery, quality and customer expectations.
 
+> **Selected public project and product references:** [Engineering & Product Evidence Portfolio →](engineering-product-evidence-portfolio.md)
+
 ---
 
 ## Systems engineering lifecycle
@@ -104,4 +106,10 @@ Jira and Confluence provide structured work, requirements, knowledge and governa
 
 The principle remains the same as in systems engineering: **automation should strengthen traceability, reviewability and decision quality rather than bypass engineering responsibility**.
 
+[Engineering & Product Evidence Portfolio →](engineering-product-evidence-portfolio.md)  
 [Back to Executive Portfolio →](../README.md)
+
+<!-- acronym-legend:start -->
+> **Terminology on this page**  
+> **AI** — Artificial Intelligence · **APQP** — Advanced Product Quality Planning · **ASPICE** — Automotive SPICE · **BPMN** — Business Process Model and Notation · **E/E** — Electrical / Electronic · **FMEA** — Failure Mode and Effects Analysis · **HMI** — Human-Machine Interface · **MSA** — Measurement System Analysis · **OEM** — Original Equipment Manufacturer · **PPAP** — Production Part Approval Process · **R&D** — Research and Development · **SPC** — Statistical Process Control · **UML** — Unified Modeling Language
+<!-- acronym-legend:end -->
